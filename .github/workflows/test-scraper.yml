@@ -3,12 +3,12 @@ name: Test Job Scraper
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: read
 
     steps:
       - name: Checkout repository
@@ -28,6 +28,24 @@ jobs:
         run: |
           python scraper.py
 
-      - name: Show generated jobs.json
+      - name: Check generated file
         run: |
-          cat jobs.json
+          echo "Checking jobs.json..."
+          ls -lh jobs.json
+          echo ""
+          echo "Number of jobs:"
+          python -c "import json; d=json.load(open('jobs.json')); print(len(d.get('jobs', [])))"
+
+      - name: Commit jobs.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add jobs.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to jobs.json"
+          else
+            git commit -m "Update job data"
+            git push
+          fi
