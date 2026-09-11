@@ -32,20 +32,32 @@ session.headers.update(HEADERS)
 # ---------------------------------------------------------
 
 def fetch_page(url):
+
     try:
-        response = session.get(url, timeout=20)
+
+        response = session.get(
+            url,
+            timeout=20
+        )
 
         if response.status_code != 200:
+
             print(
                 f"[ERROR] HTTP {response.status_code}: {url}"
             )
+
             return None
 
         return response.text
 
     except requests.RequestException as e:
-        print(f"[ERROR] Could not fetch {url}")
+
+        print(
+            f"[ERROR] Could not fetch {url}"
+        )
+
         print(e)
+
         return None
 
 
@@ -54,28 +66,40 @@ def fetch_page(url):
 # ---------------------------------------------------------
 
 def parse_date(text):
+
     if not text:
+
         return None
 
     text = text.strip()
 
     patterns = [
+
         r"\b\d{1,2}[/-]\d{1,2}[/-]\d{2,4}\b",
+
         r"\b\d{1,2}[/-][A-Za-z]{3,9}[/-]\d{2,4}\b",
+
         r"\b[A-Za-z]{3,9}\s+\d{1,2},?\s+\d{4}\b",
+
         r"\b\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4}\b",
+
     ]
 
     for pattern in patterns:
 
-        match = re.search(pattern, text)
+        match = re.search(
+            pattern,
+            text
+        )
 
         if not match:
+
             continue
 
         value = match.group(0)
 
         try:
+
             parsed = date_parser.parse(
                 value,
                 dayfirst=True
@@ -84,6 +108,7 @@ def parse_date(text):
             return parsed.date().isoformat()
 
         except (ValueError, OverflowError):
+
             continue
 
     return None
@@ -94,13 +119,17 @@ def parse_date(text):
 # ---------------------------------------------------------
 
 def find_date_after_label(text, labels):
+
     text_lower = text.lower()
 
     for label in labels:
 
-        position = text_lower.find(label.lower())
+        position = text_lower.find(
+            label.lower()
+        )
 
         if position == -1:
+
             continue
 
         section = text[
@@ -108,9 +137,12 @@ def find_date_after_label(text, labels):
             position + 250
         ]
 
-        parsed = parse_date(section)
+        parsed = parse_date(
+            section
+        )
 
         if parsed:
+
             return parsed
 
     return None
@@ -123,11 +155,17 @@ def find_date_after_label(text, labels):
 def extract_posts(text):
 
     patterns = [
+
         r"total\s+post[s]?\s*[:\-]?\s*([\d,]+)",
+
         r"total\s+vacanc(?:y|ies)\s*[:\-]?\s*([\d,]+)",
+
         r"no\.?\s+of\s+post[s]?\s*[:\-]?\s*([\d,]+)",
+
         r"number\s+of\s+post[s]?\s*[:\-]?\s*([\d,]+)",
+
         r"vacanc(?:y|ies)\s*[:\-]?\s*([\d,]+)",
+
     ]
 
     for pattern in patterns:
@@ -141,11 +179,13 @@ def extract_posts(text):
         if match:
 
             try:
+
                 return int(
                     match.group(1).replace(",", "")
                 )
 
             except ValueError:
+
                 pass
 
     return None
@@ -164,17 +204,20 @@ def extract_job_page(url, html):
 
     title = ""
 
-    if soup.title:
-        title = soup.title.get_text(
-            " ",
-            strip=True
-        )
-
     # Prefer H1
     h1 = soup.find("h1")
 
     if h1:
+
         title = h1.get_text(
+            " ",
+            strip=True
+        )
+
+    # Fall back to page title
+    if not title and soup.title:
+
+        title = soup.title.get_text(
             " ",
             strip=True
         )
@@ -197,6 +240,7 @@ def extract_job_page(url, html):
             "start date",
             "application begin",
             "registration start",
+            "online form start",
         ]
     )
 
@@ -209,6 +253,7 @@ def extract_job_page(url, html):
             "apply last date",
             "closing date",
             "registration last date",
+            "last date for apply",
         ]
     )
 
@@ -219,10 +264,13 @@ def extract_job_page(url, html):
             "advertisement date",
             "published date",
             "notice date",
+            "publication date",
         ]
     )
 
-    posts = extract_posts(text)
+    posts = extract_posts(
+        text
+    )
 
     return {
         "title": title,
@@ -232,6 +280,164 @@ def extract_job_page(url, html):
         "application_end": last_date,
         "posts": posts,
     }
+
+
+# ---------------------------------------------------------
+# DETERMINE WHETHER LINK IS A REAL JOB PAGE
+# ---------------------------------------------------------
+
+def is_job_link(url, title):
+
+    url_lower = url.lower()
+    title_lower = title.lower().strip()
+
+    # -----------------------------------------------------
+    # NEVER ACCEPT THESE SITE-WIDE PAGES
+    # -----------------------------------------------------
+
+    ignored_paths = [
+
+        "/",
+        "/latest-jobs/",
+        "/admit-card/",
+        "/result/",
+        "/admission/",
+        "/syllabus/",
+        "/answer-key/",
+        "/contact/",
+        "/about/",
+        "/privacy/",
+        "/disclaimer/",
+        "/sitemap/",
+        "/category/",
+        "/search/",
+        "/wp-admin/",
+        "/feed/",
+    ]
+
+    for path in ignored_paths:
+
+        if url_lower.rstrip("/") == (
+            BASE_URL + path
+        ).rstrip("/"):
+
+            return False
+
+    # -----------------------------------------------------
+    # IGNORE COMMON NAVIGATION TITLES
+    # -----------------------------------------------------
+
+    ignored_titles = {
+
+        "home",
+        "latest job",
+        "latest jobs",
+        "admit card",
+        "result",
+        "results",
+        "admission",
+        "syllabus",
+        "answer key",
+        "answer keys",
+        "contact us",
+        "about us",
+        "privacy policy",
+        "disclaimer",
+        "sitemap",
+    }
+
+    if title_lower in ignored_titles:
+
+        return False
+
+    # -----------------------------------------------------
+    # IGNORE CATEGORY / NAVIGATION URLS
+    # -----------------------------------------------------
+
+    ignored_url_parts = [
+
+        "/category/",
+        "/tag/",
+        "/author/",
+        "/page/",
+        "?s=",
+        "/feed",
+        "/wp-json/",
+    ]
+
+    for part in ignored_url_parts:
+
+        if part in url_lower:
+
+            return False
+
+    # -----------------------------------------------------
+    # JOB-RELATED KEYWORDS
+    # -----------------------------------------------------
+
+    job_keywords = [
+
+        "recruitment",
+        "recruitment-2026",
+        "recruitment-2025",
+        "vacancy",
+        "vacancies",
+        "online-form",
+        "online-form-2026",
+        "online-form-2025",
+        "apply-online",
+        "application-form",
+        "job",
+        "jobs",
+        "bharti",
+        "bharti-2026",
+        "bharti-2025",
+        "apprentice",
+        "apprentices",
+        "teacher",
+        "constable",
+        "sub-inspector",
+        "si-",
+        "junior-engineer",
+        "je-",
+        "assistant",
+        "officer",
+        "clerk",
+        "staff",
+        "group-",
+        "post",
+        "posts",
+        "10+2",
+        "cpo",
+        "ssc-",
+        "upsc-",
+        "rrb-",
+        "ibps-",
+        "bank-",
+        "mpesb-",
+        "bpssc-",
+        "bssc-",
+        "upsssc-",
+        "upsc",
+        "railway",
+        "police",
+        "army",
+        "navy",
+        "air-force",
+    ]
+
+    # Accept if title or URL contains a job-related keyword.
+    combined = (
+        title_lower + " " + url_lower
+    )
+
+    for keyword in job_keywords:
+
+        if keyword in combined:
+
+            return True
+
+    return False
 
 
 # ---------------------------------------------------------
@@ -247,7 +453,10 @@ def get_job_links(html):
 
     links = []
 
-    for a in soup.find_all("a", href=True):
+    for a in soup.find_all(
+        "a",
+        href=True
+    ):
 
         href = a["href"].strip()
 
@@ -257,6 +466,7 @@ def get_job_links(html):
         )
 
         if not title:
+
             continue
 
         absolute_url = urljoin(
@@ -264,36 +474,47 @@ def get_job_links(html):
             href
         )
 
-        if not absolute_url.startswith(BASE_URL):
-            continue
-
-        # Skip obvious navigation links
-        ignored = [
-            "/contact",
-            "/about",
-            "/privacy",
-            "/disclaimer",
-            "/sitemap",
-        ]
-
-        if any(
-            x in absolute_url.lower()
-            for x in ignored
+        # Only same website
+        if not absolute_url.startswith(
+            BASE_URL
         ):
+
             continue
 
-        links.append({
-            "title": title,
-            "url": absolute_url
-        })
+        # Only HTTP/HTTPS
+        if not absolute_url.startswith(
+            ("http://", "https://")
+        ):
 
-    # Remove duplicates
+            continue
+
+        if not is_job_link(
+            absolute_url,
+            title
+        ):
+
+            continue
+
+        links.append(
+            {
+                "title": title,
+                "url": absolute_url
+            }
+        )
+
+    # -----------------------------------------------------
+    # REMOVE DUPLICATES
+    # -----------------------------------------------------
+
     unique = {}
 
     for job in links:
+
         unique[job["url"]] = job
 
-    return list(unique.values())
+    return list(
+        unique.values()
+    )
 
 
 # ---------------------------------------------------------
@@ -307,24 +528,40 @@ def classify_job(job):
     start = None
     end = None
 
-    if job.get("application_start"):
+    # -----------------------------------------------------
+    # START DATE
+    # -----------------------------------------------------
+
+    if job.get(
+        "application_start"
+    ):
 
         try:
+
             start = date.fromisoformat(
                 job["application_start"]
             )
 
         except ValueError:
+
             pass
 
-    if job.get("application_end"):
+    # -----------------------------------------------------
+    # END DATE
+    # -----------------------------------------------------
+
+    if job.get(
+        "application_end"
+    ):
 
         try:
+
             end = date.fromisoformat(
                 job["application_end"]
             )
 
         except ValueError:
+
             pass
 
     # -----------------------------------------------------
@@ -361,13 +598,11 @@ def classify_job(job):
     # OPEN
     # -----------------------------------------------------
 
-    if start:
+    if start and start <= today:
 
-        if start <= today:
+        if end is None or end >= today:
 
-            if end is None or end >= today:
-
-                return "open"
+            return "open"
 
     # -----------------------------------------------------
     # UNKNOWN
@@ -377,18 +612,22 @@ def classify_job(job):
 
 
 # ---------------------------------------------------------
-# ADD DAYS LEFT
+# ADD STATUS DATA
 # ---------------------------------------------------------
 
 def add_status_data(job):
 
     today = date.today()
 
-    job["status"] = classify_job(job)
+    job["status"] = classify_job(
+        job
+    )
 
     job["days_left"] = None
 
-    if job.get("application_end"):
+    if job.get(
+        "application_end"
+    ):
 
         try:
 
@@ -401,9 +640,183 @@ def add_status_data(job):
             ).days
 
         except ValueError:
+
             pass
 
+    # -----------------------------------------------------
+    # ADD SCRAPE DATE
+    # -----------------------------------------------------
+
+    job["scraped_date"] = (
+        today.isoformat()
+    )
+
     return job
+
+
+# ---------------------------------------------------------
+# SORT JOBS
+# ---------------------------------------------------------
+
+def sort_jobs(jobs):
+
+    critical = [
+        job
+        for job in jobs
+        if job["status"] == "critical"
+    ]
+
+    open_jobs = [
+        job
+        for job in jobs
+        if job["status"] == "open"
+    ]
+
+    upcoming = [
+        job
+        for job in jobs
+        if job["status"] == "upcoming"
+    ]
+
+    old = [
+        job
+        for job in jobs
+        if job["status"] == "old"
+    ]
+
+    unknown = [
+        job
+        for job in jobs
+        if job["status"] == "unknown"
+    ]
+
+    # -----------------------------------------------------
+    # CRITICAL
+    # Nearest deadline first
+    # -----------------------------------------------------
+
+    critical.sort(
+        key=lambda job: (
+            job.get("application_end")
+            or "9999-12-31"
+        )
+    )
+
+    # -----------------------------------------------------
+    # OPEN
+    # Nearest deadline first
+    # -----------------------------------------------------
+
+    open_jobs.sort(
+        key=lambda job: (
+            job.get("application_end")
+            or "9999-12-31"
+        )
+    )
+
+    # -----------------------------------------------------
+    # UPCOMING
+    # Earliest application start first
+    # -----------------------------------------------------
+
+    upcoming.sort(
+        key=lambda job: (
+            job.get("application_start")
+            or "9999-12-31"
+        )
+    )
+
+    # -----------------------------------------------------
+    # OLD
+    # Most recently expired first
+    # -----------------------------------------------------
+
+    old.sort(
+        key=lambda job: (
+            job.get("application_end")
+            or "1900-01-01"
+        ),
+        reverse=True
+    )
+
+    # -----------------------------------------------------
+    # UNKNOWN
+    # Newest-looking entries first
+    # -----------------------------------------------------
+
+    unknown.sort(
+        key=lambda job: (
+            job.get("application_start")
+            or job.get("notification_date")
+            or "1900-01-01"
+        ),
+        reverse=True
+    )
+
+    return (
+        critical
+        + open_jobs
+        + upcoming
+        + old
+        + unknown
+    )
+
+
+# ---------------------------------------------------------
+# PRINT SUMMARY
+# ---------------------------------------------------------
+
+def print_summary(jobs):
+
+    counts = {
+        "critical": 0,
+        "open": 0,
+        "upcoming": 0,
+        "old": 0,
+        "unknown": 0,
+    }
+
+    for job in jobs:
+
+        status = job.get(
+            "status",
+            "unknown"
+        )
+
+        if status in counts:
+
+            counts[status] += 1
+
+    print("\n")
+    print("=" * 70)
+    print("SCRAPER SUMMARY")
+    print("=" * 70)
+
+    print(
+        f"Total jobs: {len(jobs)}"
+    )
+
+    print(
+        f"Critical:   {counts['critical']}"
+    )
+
+    print(
+        f"Open:       {counts['open']}"
+    )
+
+    print(
+        f"Upcoming:   {counts['upcoming']}"
+    )
+
+    print(
+        f"Old:        {counts['old']}"
+    )
+
+    print(
+        f"Unknown:    {counts['unknown']}"
+    )
+
+    print("=" * 70)
 
 
 # ---------------------------------------------------------
@@ -416,7 +829,9 @@ def scrape():
     print("GOVERNMENT JOB TRACKER")
     print("=" * 70)
 
-    print("\nFetching latest jobs...")
+    print(
+        "\nFetching latest jobs..."
+    )
 
     html = fetch_page(
         LATEST_URL
@@ -435,8 +850,14 @@ def scrape():
     )
 
     print(
-        f"Found {len(links)} links."
+        f"Found {len(links)} possible job links."
     )
+
+    if not links:
+
+        print(
+            "[WARNING] No job links found."
+        )
 
     jobs = []
 
@@ -450,12 +871,19 @@ def scrape():
         url = item["url"]
 
         if url in seen_urls:
+
             continue
 
-        seen_urls.add(url)
+        seen_urls.add(
+            url
+        )
 
         print(
-            f"\n[{index}] {item['title']}"
+            f"\n[{index}/{len(links)}] {item['title']}"
+        )
+
+        print(
+            f"    URL: {url}"
         )
 
         page = fetch_page(
@@ -463,6 +891,10 @@ def scrape():
         )
 
         if not page:
+
+            print(
+                "    Skipped: page could not be fetched."
+            )
 
             continue
 
@@ -473,16 +905,40 @@ def scrape():
                 page
             )
 
+            # -------------------------------------------------
             # If article parser didn't get title,
             # use listing title.
+            # -------------------------------------------------
+
             if not job["title"]:
 
                 job["title"] = item["title"]
 
-            # If title is garbage, use listing title
-            if len(job["title"]) > 300:
+            # -------------------------------------------------
+            # If title is garbage, use listing title.
+            # -------------------------------------------------
+
+            if len(
+                job["title"]
+            ) > 300:
 
                 job["title"] = item["title"]
+
+            # -------------------------------------------------
+            # If extracted title is clearly a navigation title,
+            # skip it.
+            # -------------------------------------------------
+
+            if not is_job_link(
+                url,
+                job["title"]
+            ):
+
+                print(
+                    "    Skipped: not a job page."
+                )
+
+                continue
 
             job = add_status_data(
                 job
@@ -493,15 +949,15 @@ def scrape():
             )
 
             print(
-                f"    Start: {job['application_start']}"
+                f"    Start:  {job['application_start']}"
             )
 
             print(
-                f"    End:   {job['application_end']}"
+                f"    End:    {job['application_end']}"
             )
 
             print(
-                f"    Posts: {job['posts']}"
+                f"    Posts:  {job['posts']}"
             )
 
             print(
@@ -514,36 +970,47 @@ def scrape():
                 f"    [ERROR] {e}"
             )
 
+        # -----------------------------------------------------
         # Don't hammer the website
-        time.sleep(0.5)
+        # -----------------------------------------------------
 
-    # -----------------------------------------------------
-    # SORT
-    # -----------------------------------------------------
-
-    def sort_key(job):
-
-        date_value = (
-            job.get("notification_date")
-            or job.get("application_start")
-            or "1900-01-01"
+        time.sleep(
+            0.5
         )
 
-        return date_value
+    # ---------------------------------------------------------
+    # SORT
+    # ---------------------------------------------------------
 
-    jobs.sort(
-        key=sort_key,
-        reverse=True
+    jobs = sort_jobs(
+        jobs
     )
 
-    # -----------------------------------------------------
+    # ---------------------------------------------------------
+    # SUMMARY
+    # ---------------------------------------------------------
+
+    print_summary(
+        jobs
+    )
+
+    # ---------------------------------------------------------
     # SAVE
-    # -----------------------------------------------------
+    # ---------------------------------------------------------
 
     output = {
-        "last_updated": datetime.now().isoformat(),
-        "source": LATEST_URL,
-        "jobs": jobs
+
+        "last_updated":
+            datetime.now().isoformat(),
+
+        "source":
+            LATEST_URL,
+
+        "total_jobs":
+            len(jobs),
+
+        "jobs":
+            jobs,
     }
 
     with open(
@@ -559,10 +1026,12 @@ def scrape():
             ensure_ascii=False
         )
 
-    print("\n" + "=" * 70)
+    print(
+        f"\nSaved {len(jobs)} jobs to {OUTPUT_FILE}"
+    )
 
     print(
-        f"Saved {len(jobs)} jobs to {OUTPUT_FILE}"
+        f"Output file: {OUTPUT_FILE}"
     )
 
     print("=" * 70)
