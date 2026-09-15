@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Government Job Tracker</title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+</head>
+
+<body>
+
+    <!-- =================================================
+         HEADER
+    ================================================== -->
+
+    <header class="site-header">
+
+        <div class="container header-inner">
+
+            <div>
+                <h1>Government Job Tracker</h1>
+
+                <p class="subtitle">
+                    Latest government jobs, upcoming recruitments
+                    and closing soon applications
+                </p>
+            </div>
+
+        </div>
+
+    </header>
+
+
+    <!-- =================================================
+         MAIN
+    ================================================== -->
+
+    <main class="container">
+
+        <!-- Last updated -->
+
+        <div
+            id="last-updated"
+            class="last-updated"
+        >
+            Loading job data...
+        </div>
+
+
+        <!-- =================================================
+             CRITICAL JOBS
+        ================================================== -->
+
+        <section
+            id="critical-section"
+            class="job-section critical-section"
+        >
+
+            <div class="section-heading">
+
+                <div>
+                    <h2>🔴 Critical Jobs</h2>
+
+                    <p>
+                        Applications closing within 5 days
+                    </p>
+                </div>
+
+                <span
+                    id="critical-count"
+                    class="count-badge"
+                >
+                    0
+                </span>
+
+            </div>
+
+            <div
+                id="critical-jobs"
+                class="jobs-container"
+            >
+                <div class="loading">
+                    Loading...
+                </div>
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             OPEN JOBS
+        ================================================== -->
+
+        <section
+            id="open-section"
+            class="job-section"
+        >
+
+            <div class="section-heading">
+
+                <div>
+                    <h2>🟢 Open Jobs</h2>
+
+                    <p>
+                        Applications currently open
+                    </p>
+                </div>
+
+                <span
+                    id="open-count"
+                    class="count-badge"
+                >
+                    0
+                </span>
+
+            </div>
+
+            <div
+                id="open-jobs"
+                class="jobs-container"
+            >
+                <div class="loading">
+                    Loading...
+                </div>
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             UPCOMING JOBS
+        ================================================== -->
+
+        <section
+            id="upcoming-section"
+            class="job-section"
+        >
+
+            <div class="section-heading">
+
+                <div>
+                    <h2>🔵 Upcoming Jobs</h2>
+
+                    <p>
+                        Recruitments announced but applications
+                        have not started
+                    </p>
+                </div>
+
+                <span
+                    id="upcoming-count"
+                    class="count-badge"
+                >
+                    0
+                </span>
+
+            </div>
+
+            <div
+                id="upcoming-jobs"
+                class="jobs-container"
+            >
+                <div class="loading">
+                    Loading...
+                </div>
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             OLD JOBS LINK
+        ================================================== -->
+
+        <section class="old-jobs-link-section">
+
+            <a
+                href="old-jobs.html"
+                class="old-jobs-button"
+            >
+                View Old Jobs →
+            </a>
+
+        </section>
+
+
+        <!-- =================================================
+             ERROR
+        ================================================== -->
+
+        <div
+            id="error-message"
+            class="error-message hidden"
+        >
+            Unable to load job data.
+            Please try again later.
+        </div>
+
+    </main>
+
+
+    <!-- =================================================
+         FOOTER
+    ================================================== -->
+
+    <footer class="site-footer">
+
+        <div class="container">
+
+            <p>
+                Data source:
+                <a
+                    href="https://sarkariresult.com.cm/latest-jobs/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Sarkari Result
+                </a>
+            </p>
+
+            <p>
+                This website is an independent job-tracking tool.
+            </p>
+
+        </div>
+
+    </footer>
+
+
+    <!-- =================================================
+         JAVASCRIPT
+    ================================================== -->
+
+    <script src="app.js"></script>
+
+</body>
+</html>
