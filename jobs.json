@@ -1,30 +1,8 @@
 {
-  "last_updated": "2026-09-15T03:51:13.057839",
+  "last_updated": "2026-09-15T09:16:12.221438",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
-    {
-      "title": "RRC ECOR Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rrc-ecor-apprentice-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-26",
-      "application_end": "2026-09-15",
-      "posts": 1599,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-15"
-    },
-    {
-      "title": "MP High Court Assistant Grade III Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mp-high-court-assistant-grade-iii-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-17",
-      "application_end": "2026-09-15",
-      "posts": 1174,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-15"
-    },
     {
       "title": "Bank Of Baroda LBO Recruitment 2026",
       "url": "https://sarkariresult.com.cm/2026-bank-of-baroda-lbo-aug26/",
@@ -224,6 +202,17 @@
       "scraped_date": "2026-09-15"
     },
     {
+      "title": "MP High Court Assistant Grade III Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mp-high-court-assistant-grade-iii-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-17",
+      "application_end": "2026-09-30",
+      "posts": 1174,
+      "status": "open",
+      "days_left": 15,
+      "scraped_date": "2026-09-15"
+    },
+    {
       "title": "SSC CPO SI CAPF Recruitment 2026",
       "url": "https://sarkariresult.com.cm/2026-ssc-cpo-si-sep26/",
       "notification_date": null,
@@ -268,23 +257,23 @@
       "scraped_date": "2026-09-15"
     },
     {
-      "title": "UPSSSC Senior Instructor Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-senior-instructor-21-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-14",
-      "application_end": "2026-10-05",
-      "posts": 132,
-      "status": "open",
-      "days_left": 20,
-      "scraped_date": "2026-09-15"
-    },
-    {
       "title": "UPSSSC Veterinary Pharmacist Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upsssc-veterinary-pharmacist-2026/",
       "notification_date": null,
       "application_start": "2026-09-14",
       "application_end": "2026-10-05",
       "posts": 1308,
+      "status": "open",
+      "days_left": 20,
+      "scraped_date": "2026-09-15"
+    },
+    {
+      "title": "UPSSSC Senior Instructor Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upsssc-senior-instructor-21-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-14",
+      "application_end": "2026-10-05",
+      "posts": 132,
       "status": "open",
       "days_left": 20,
       "scraped_date": "2026-09-15"
@@ -411,47 +400,14 @@
       "scraped_date": "2026-09-15"
     },
     {
-      "title": "UKPSC Veterinary Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/ukpsc-veterinary-officer-2026/",
+      "title": "RRC ECOR Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rrc-ecor-apprentice-2026/",
       "notification_date": null,
-      "application_start": "2026-08-25",
-      "application_end": "2026-08-25",
-      "posts": 25,
+      "application_start": "2026-08-26",
+      "application_end": "2026-08-26",
+      "posts": 1599,
       "status": "old",
-      "days_left": -21,
-      "scraped_date": "2026-09-15"
-    },
-    {
-      "title": "Indian Overseas Bank Security Guard Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/indian-overseas-bank-security-guard-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-25",
-      "application_end": "2026-08-25",
-      "posts": 25,
-      "status": "old",
-      "days_left": -21,
-      "scraped_date": "2026-09-15"
-    },
-    {
-      "title": "UPSC EPFO / APFC Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsc-epfo-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-22",
-      "application_end": "2026-08-22",
-      "posts": 80,
-      "status": "old",
-      "days_left": -24,
-      "scraped_date": "2026-09-15"
-    },
-    {
-      "title": "RSSB Junior Engineer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rssb-junior-engineer-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-16",
-      "application_end": "2026-08-16",
-      "posts": 874,
-      "status": "old",
-      "days_left": -30,
+      "days_left": -20,
       "scraped_date": "2026-09-15"
     },
     {
@@ -774,6 +730,17 @@
       "scraped_date": "2026-09-15"
     },
     {
+      "title": "Bihar Post Matric Scholarship 2025",
+      "url": "https://sarkariresult.com.cm/bihar-post-matric-scholarship-2025/",
+      "notification_date": null,
+      "application_start": "2025-01-07",
+      "application_end": "2025-03-10",
+      "posts": null,
+      "status": "old",
+      "days_left": -554,
+      "scraped_date": "2026-09-15"
+    },
+    {
       "title": "Indian Overseas Bank IOB Apprentice Recruitment 2025",
       "url": "https://sarkariresult.com.cm/indian-overseas-bank-iob-apprentice-recruitment-2025/",
       "notification_date": null,
@@ -884,6 +851,17 @@
       "scraped_date": "2026-09-15"
     },
     {
+      "title": "HDFC Bank PO Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/hdfc-bank-po-recruitment-2025/",
+      "notification_date": "2024-12-30",
+      "application_start": "2024-12-30",
+      "application_end": "2025-02-07",
+      "posts": 500,
+      "status": "old",
+      "days_left": -585,
+      "scraped_date": "2026-09-15"
+    },
+    {
       "title": "Indian Air Force Airmen Group-Y Recruitment 2025",
       "url": "https://sarkariresult.com.cm/indian-air-force-airmen-group-y-recruitment-2025/",
       "notification_date": "2024-12-30",
@@ -914,6 +892,28 @@
       "posts": 200,
       "status": "old",
       "days_left": -587,
+      "scraped_date": "2026-09-15"
+    },
+    {
+      "title": "Indian Army SSC Tech Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/indian-army-ssc-tech-online-form-2025-start/",
+      "notification_date": "2024-12-27",
+      "application_start": "2025-01-07",
+      "application_end": "2025-02-05",
+      "posts": 381,
+      "status": "old",
+      "days_left": -587,
+      "scraped_date": "2026-09-15"
+    },
+    {
+      "title": "Telangana High Court Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/telangana-high-court-recruitment-2025/",
+      "notification_date": "2025-01-02",
+      "application_start": "2025-01-08",
+      "application_end": "2025-01-31",
+      "posts": 1673,
+      "status": "old",
+      "days_left": -592,
       "scraped_date": "2026-09-15"
     },
     {
