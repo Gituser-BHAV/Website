@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+```
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>Old Government Jobs</title>
+
+<link
+    rel="stylesheet"
+    href="style.css"
+>
+```
+
+</head>
+
+<body>
+
+```
+<!-- =================================================
+     HEADER
+================================================== -->
+
+<header class="site-header">
+
+    <div class="container header-inner">
+
+        <div>
+
+            <h1>Old Government Jobs</h1>
+
+            <p class="subtitle">
+                Previously listed government recruitments
+            </p>
+
+        </div>
+
+    </div>
+
+</header>
+
+
+<!-- =================================================
+     MAIN
+================================================== -->
+
+<main class="container">
+
+    <div class="page-navigation">
+
+        <a
+            href="index.html"
+            class="old-jobs-button"
+        >
+            ← Back to Current Jobs
+        </a>
+
+    </div>
+
+
+    <!-- =================================================
+         LAST UPDATED
+    ================================================== -->
+
+    <div
+        id="last-updated"
+        class="last-updated"
+    >
+        Loading job data...
+    </div>
+
+
+    <!-- =================================================
+         OLD JOBS
+    ================================================== -->
+
+    <section class="job-section">
+
+        <div class="section-heading">
+
+            <div>
+
+                <h2>⚫ Expired Jobs</h2>
+
+                <p>
+                    Applications whose deadlines have passed
+                </p>
+
+            </div>
+
+            <span
+                id="old-count"
+                class="count-badge"
+            >
+                0
+            </span>
+
+        </div>
+
+
+        <div
+            id="old-jobs"
+            class="jobs-container"
+        >
+
+            <div class="loading">
+                Loading...
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- =================================================
+         ERROR
+    ================================================== -->
+
+    <div
+        id="error-message"
+        class="error-message hidden"
+    >
+        Unable to load job data.
+        Please try again later.
+    </div>
+
+</main>
+
+
+<!-- =================================================
+     FOOTER
+================================================== -->
+
+<footer class="site-footer">
+
+    <div class="container">
+
+        <p>
+            Data source:
+            <a
+                href="https://sarkariresult.com.cm/latest-jobs/"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                Sarkari Result
+            </a>
+        </p>
+
+        <p>
+            This website is an independent job-tracking tool.
+        </p>
+
+    </div>
+
+</footer>
+
+
+<!-- =================================================
+     JAVASCRIPT
+================================================== -->
+
+<script>
+
+    /* =================================================
+       LOAD JOB DATA
+    ================================================= */
+
+    async function loadOldJobs() {
+
+        try {
+
+            const response =
+                await fetch("../jobs.json");
+
+            if (!response.ok) {
+
+                throw new Error(
+                    `HTTP error: ${response.status}`
+                );
+
+            }
+
+            const data =
+                await response.json();
+
+            const jobs =
+                Array.isArray(data.jobs)
+                    ? data.jobs
+                    : [];
+
+
+            /* -----------------------------------------
+               LAST UPDATED
+            ----------------------------------------- */
+
+            displayLastUpdated(
+                data.last_updated
+            );
+
+
+            /* -----------------------------------------
+               FILTER OLD JOBS
+            ----------------------------------------- */
+
+            const oldJobs =
+                jobs.filter(
+                    job =>
+                        job.status === "old"
+                );
+
+
+            /* -----------------------------------------
+               SORT
+               Most recently expired first
+            ----------------------------------------- */
+
+            oldJobs.sort(
+                (a, b) => {
+
+                    const dateA =
+                        a.application_end ||
+                        "1900-01-01";
+
+                    const dateB =
+                        b.application_end ||
+                        "1900-01-01";
+
+                    return dateB.localeCompare(
+                        dateA
+                    );
+
+                }
+            );
+
+
+            /* -----------------------------------------
+               COUNT
+            ----------------------------------------- */
+
+            const count =
+                document.getElementById(
+                    "old-count"
+                );
+
+            if (count) {
+
+                count.textContent =
+                    oldJobs.length;
+
+            }
+
+
+            /* -----------------------------------------
+               RENDER
+            ----------------------------------------- */
+
+            renderOldJobs(
+                oldJobs
+            );
+
+        } catch (error) {
+
+            console.error(
+                "Unable to load old jobs:",
+                error
+            );
+
+            showError();
+
+        }
+
+    }
+
+
+    /* =================================================
+       DISPLAY LAST UPDATED
+    ================================================== */
+
+    function displayLastUpdated(value) {
+
+        const element =
+            document.getElementById(
+                "last-updated"
+            );
+
+        if (!element) {
+            return;
+        }
+
+        if (!value) {
+
+            element.textContent =
+                "Job data loaded";
+
+            return;
+
+        }
+
+        const date =
+            new Date(value);
+
+        if (
+            isNaN(
+                date.getTime()
+            )
+        ) {
+
+            element.textContent =
+                "Job data loaded";
+
+            return;
+
+        }
+
+        element.textContent =
+            "Last updated: " +
+            date.toLocaleString(
+                "en-IN",
+                {
+                    dateStyle: "medium",
+                    timeStyle: "short"
+                }
+            );
+
+    }
+
+
+    /* =================================================
+       RENDER OLD JOBS
+    ================================================== */
+
+    function renderOldJobs(
+        jobs
+    ) {
+
+        const container =
+            document.getElementById(
+                "old-jobs"
+            );
+
+        if (!container) {
+            return;
+        }
+
+
+        /* -----------------------------------------
+           NO OLD JOBS
+        ----------------------------------------- */
+
+        if (jobs.length === 0) {
+
+            container.innerHTML = `
+                <div class="empty-message">
+                    No expired jobs found.
+                </div>
+            `;
+
+            return;
+
+        }
+
+
+        /* -----------------------------------------
+           CREATE CARDS
+        ----------------------------------------- */
+
+        container.innerHTML =
+            jobs.map(
+                job =>
+                    createOldJobCard(
+                        job
+                    )
+            ).join("");
+
+    }
+
+
+    /* =================================================
+       CREATE OLD JOB CARD
+    ================================================== */
+
+    function createOldJobCard(
+        job
+    ) {
+
+        const title =
+            escapeHTML(
+                job.title ||
+                "Government Job"
+            );
+
+
+        const url =
+            safeURL(
+                job.url
+            );
+
+
+        const startDate =
+            formatDate(
+                job.application_start
+            );
+
+
+        const endDate =
+            formatDate(
+                job.application_end
+            );
+
+
+        const posts =
+            formatPosts(
+                job.posts
+            );
+
+
+        /* -----------------------------------------
+           TITLE LINK
+        ----------------------------------------- */
+
+        const titleHTML =
+            url
+                ? `
+                    <a
+                        href="${url}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        ${title}
+                    </a>
+                `
+                : title;
+
+
+        /* -----------------------------------------
+           DETAILS
+        ----------------------------------------- */
+
+        return `
+            <article class="job-card">
+
+                <span
+                    class="status-badge status-old"
+                >
+                    Expired
+                </span>
+
+
+                <h3 class="job-title">
+                    ${titleHTML}
+                </h3>
+
+
+                <div class="job-details">
+
+                    ${
+                        startDate
+                        ? `
+                            <div class="detail">
+
+                                <span class="detail-label">
+                                    Application started
+                                </span>
+
+                                <span class="detail-value">
+                                    ${startDate}
+                                </span>
+
+                            </div>
+                        `
+                        : ""
+                    }
+
+
+                    ${
+                        endDate
+                        ? `
+                            <div class="detail">
+
+                                <span class="detail-label">
+                                    Last date
+                                </span>
+
+                                <span class="detail-value deadline">
+                                    ${endDate}
+                                </span>
+
+                            </div>
+                        `
+                        : ""
+                    }
+
+
+                    ${
+                        posts
+                        ? `
+                            <div class="detail">
+
+                                <span class="detail-label">
+                                    Vacancies
+                                </span>
+
+                                <span class="detail-value">
+                                    ${posts}
+                                </span>
+
+                            </div>
+                        `
+                        : ""
+                    }
+
+                </div>
+
+
+                ${
+                    url
+                    ? `
+                        <a
+                            class="apply-button"
+                            href="${url}"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            View Details →
+                        </a>
+                    `
+                    : ""
+                }
+
+            </article>
+        `;
+
+    }
+
+
+    /* =================================================
+       FORMAT DATE
+    ================================================== */
+
+    function formatDate(
+        value
+    ) {
+
+        if (!value) {
+            return "";
+        }
+
+        const date =
+            new Date(
+                value + "T00:00:00"
+            );
+
+        if (
+            isNaN(
+                date.getTime()
+            )
+        ) {
+
+            return escapeHTML(
+                value
+            );
+
+        }
+
+        return date.toLocaleDateString(
+            "en-IN",
+            {
+                day: "2-digit",
+                month: "short",
+                year: "numeric"
+            }
+        );
+
+    }
+
+
+    /* =================================================
+       FORMAT POSTS
+    ================================================== */
+
+    function formatPosts(
+        value
+    ) {
+
+        if (
+            value === null ||
+            value === undefined ||
+            value === ""
+        ) {
+
+            return "";
+
+        }
+
+        const number =
+            Number(value);
+
+        if (
+            Number.isFinite(number)
+        ) {
+
+            return number.toLocaleString(
+                "en-IN"
+            );
+
+        }
+
+        return escapeHTML(
+            String(value)
+        );
+
+    }
+
+
+    /* =================================================
+       SAFE URL
+    ================================================== */
+
+    function safeURL(
+        value
+    ) {
+
+        if (!value) {
+            return "";
+        }
+
+        try {
+
+            const url =
+                new URL(
+                    value,
+                    window.location.origin
+                );
+
+            if (
+                url.protocol === "https:" ||
+                url.protocol === "http:"
+            ) {
+
+                return escapeAttribute(
+                    url.href
+                );
+
+            }
+
+        } catch (error) {
+
+            console.warn(
+                "Invalid URL:",
+                value
+            );
+
+        }
+
+        return "";
+
+    }
+
+
+    /* =================================================
+       ESCAPE HTML
+    ================================================== */
+
+    function escapeHTML(
+        value
+    ) {
+
+        return String(value)
+            .replace(
+                /&/g,
+                "&amp;"
+            )
+            .replace(
+                /</g,
+                "&lt;"
+            )
+            .replace(
+                />/g,
+                "&gt;"
+            )
+            .replace(
+                /"/g,
+                "&quot;"
+            )
+            .replace(
+                /'/g,
+                "&#039;"
+            );
+
+    }
+
+
+    /* =================================================
+       ESCAPE ATTRIBUTE
+    ================================================== */
+
+    function escapeAttribute(
+        value
+    ) {
+
+        return escapeHTML(
+            value
+        );
+
+    }
+
+
+    /* =================================================
+       SHOW ERROR
+    ================================================= */
+
+    function showError() {
+
+        const error =
+            document.getElementById(
+                "error-message"
+            );
+
+        if (error) {
+
+            error.classList.remove(
+                "hidden"
+            );
+
+        }
+
+
+        const container =
+            document.getElementById(
+                "old-jobs"
+            );
+
+        if (container) {
+
+            container.innerHTML = `
+                <div class="empty-message">
+                    Job data could not be loaded.
+                </div>
+            `;
+
+        }
+
+    }
+
+
+    /* =================================================
+       START
+    ================================================= */
+
+    document.addEventListener(
+        "DOMContentLoaded",
+        loadOldJobs
+    );
+
+</script>
+```
+
+</body>
+</html>
