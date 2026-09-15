@@ -12,7 +12,7 @@ async function loadJobs() {
 
     try {
 
-        const response = await fetch("../jobs.json");
+        const response = await fetch("jobs.json");
 
         if (!response.ok) {
             throw new Error(
