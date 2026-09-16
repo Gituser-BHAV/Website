@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T10:59:51.238949",
+  "last_updated": "2026-09-16T15:24:28.978940",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
@@ -323,6 +323,17 @@
       "scraped_date": "2026-09-16"
     },
     {
+      "title": "RUHS Medical Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/ruhs-medical-officer-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-14",
+      "application_end": "2026-10-13",
+      "posts": 600,
+      "status": "open",
+      "days_left": 27,
+      "scraped_date": "2026-09-16"
+    },
+    {
       "title": "RRB Paramedical Staff Recruitment 2026",
       "url": "https://sarkariresult.com.cm/rrb-paramedical-staff-05-2026/",
       "notification_date": null,
@@ -397,6 +408,17 @@
       "posts": 32388,
       "status": "upcoming",
       "days_left": 35,
+      "scraped_date": "2026-09-16"
+    },
+    {
+      "title": "UKSSSC Group C Scaler Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/uksssc-group-c-scaler-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-22",
+      "application_end": "2026-10-22",
+      "posts": 200,
+      "status": "upcoming",
+      "days_left": 36,
       "scraped_date": "2026-09-16"
     },
     {
@@ -862,17 +884,6 @@
       "scraped_date": "2026-09-16"
     },
     {
-      "title": "HDFC Bank PO Recruitment 2025",
-      "url": "https://sarkariresult.com.cm/hdfc-bank-po-recruitment-2025/",
-      "notification_date": "2024-12-30",
-      "application_start": "2024-12-30",
-      "application_end": "2025-02-07",
-      "posts": 500,
-      "status": "old",
-      "days_left": -586,
-      "scraped_date": "2026-09-16"
-    },
-    {
       "title": "Indian Air Force Airmen Group-Y Recruitment 2025",
       "url": "https://sarkariresult.com.cm/indian-air-force-airmen-group-y-recruitment-2025/",
       "notification_date": "2024-12-30",
@@ -901,17 +912,6 @@
       "application_start": "2025-02-17",
       "application_end": "2025-02-05",
       "posts": 200,
-      "status": "old",
-      "days_left": -588,
-      "scraped_date": "2026-09-16"
-    },
-    {
-      "title": "Indian Army SSC Tech Recruitment 2025",
-      "url": "https://sarkariresult.com.cm/indian-army-ssc-tech-online-form-2025-start/",
-      "notification_date": "2024-12-27",
-      "application_start": "2025-01-07",
-      "application_end": "2025-02-05",
-      "posts": 381,
       "status": "old",
       "days_left": -588,
       "scraped_date": "2026-09-16"
