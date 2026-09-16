@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-16T07:54:09.843967",
+  "last_updated": "2026-09-16T10:59:51.238949",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 87,
+  "total_jobs": 88,
   "jobs": [
     {
       "title": "Bank Of Baroda LBO Recruitment 2026",
@@ -859,6 +859,17 @@
       "posts": 800,
       "status": "old",
       "days_left": -583,
+      "scraped_date": "2026-09-16"
+    },
+    {
+      "title": "HDFC Bank PO Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/hdfc-bank-po-recruitment-2025/",
+      "notification_date": "2024-12-30",
+      "application_start": "2024-12-30",
+      "application_end": "2025-02-07",
+      "posts": 500,
+      "status": "old",
+      "days_left": -586,
       "scraped_date": "2026-09-16"
     },
     {
