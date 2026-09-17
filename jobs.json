@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-09-17T01:07:44.990825",
+  "last_updated": "2026-09-17T07:17:19.165103",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 88,
+  "total_jobs": 89,
   "jobs": [
-    {
-      "title": "Bank Of Baroda LBO Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/2026-bank-of-baroda-lbo-aug26/",
-      "notification_date": null,
-      "application_start": "2026-08-18",
-      "application_end": "2026-09-17",
-      "posts": 2482,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-17"
-    },
     {
       "title": "MPESB Primary and Secondary Teachers MSPSTET Recruitment 2026",
       "url": "https://sarkariresult.com.cm/mpesb-primary-and-secondary-teachers-mspstet-2026/",
@@ -279,6 +268,17 @@
       "scraped_date": "2026-09-17"
     },
     {
+      "title": "UPSC Engineering Services Pre Recruitment 2027",
+      "url": "https://sarkariresult.com.cm/upsc-engineering-services-pre-2027/",
+      "notification_date": null,
+      "application_start": "2026-09-16",
+      "application_end": "2026-10-06",
+      "posts": 480,
+      "status": "open",
+      "days_left": 19,
+      "scraped_date": "2026-09-17"
+    },
+    {
       "title": "SSC CHSL 10+2 Recruitment 2026",
       "url": "https://sarkariresult.com.cm/ssc-chsl-sep-2026/",
       "notification_date": null,
@@ -441,6 +441,17 @@
       "posts": 7500,
       "status": "upcoming",
       "days_left": 19,
+      "scraped_date": "2026-09-17"
+    },
+    {
+      "title": "Bank Of Baroda LBO Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/2026-bank-of-baroda-lbo-aug26/",
+      "notification_date": null,
+      "application_start": "2026-08-18",
+      "application_end": "2026-08-18",
+      "posts": 2482,
+      "status": "old",
+      "days_left": -30,
       "scraped_date": "2026-09-17"
     },
     {
