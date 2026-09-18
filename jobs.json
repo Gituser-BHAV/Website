@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-09-18T04:07:07.454362",
+  "last_updated": "2026-09-18T09:26:27.443976",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 89,
   "jobs": [
-    {
-      "title": "MPESB Primary and Secondary Teachers MSPSTET Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mpesb-primary-and-secondary-teachers-mspstet-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-21",
-      "application_end": "2026-09-18",
-      "posts": 2026,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-18"
-    },
     {
       "title": "SBI Trade Finance Officer Recruitment 2026",
       "url": "https://sarkariresult.com.cm/sbi-tfo-specialist-cadre-2026/",
@@ -21,17 +10,6 @@
       "application_start": "2026-08-29",
       "application_end": "2026-09-18",
       "posts": 35,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-18"
-    },
-    {
-      "title": "UCO Bank SO Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/uco-bank-so-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-29",
-      "application_end": "2026-09-18",
-      "posts": 20,
       "status": "critical",
       "days_left": 0,
       "scraped_date": "2026-09-18"
@@ -147,6 +125,17 @@
       "scraped_date": "2026-09-18"
     },
     {
+      "title": "SBI SCO Wealth & Other Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/sbi-sco-wealth-other-post-online-form-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-04",
+      "application_end": "2026-09-25",
+      "posts": 207,
+      "status": "open",
+      "days_left": 7,
+      "scraped_date": "2026-09-18"
+    },
+    {
       "title": "Railway RRC SR Apprentice Recruitment 2026",
       "url": "https://sarkariresult.com.cm/rrc-sr-apprentice-2026/",
       "notification_date": null,
@@ -191,23 +180,23 @@
       "scraped_date": "2026-09-18"
     },
     {
-      "title": "MP High Court Assistant Grade III Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mp-high-court-assistant-grade-iii-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-17",
-      "application_end": "2026-09-30",
-      "posts": 1174,
-      "status": "open",
-      "days_left": 12,
-      "scraped_date": "2026-09-18"
-    },
-    {
       "title": "SSC CPO SI CAPF Recruitment 2026",
       "url": "https://sarkariresult.com.cm/2026-ssc-cpo-si-sep26/",
       "notification_date": null,
       "application_start": "2026-09-10",
       "application_end": "2026-09-30",
       "posts": 1871,
+      "status": "open",
+      "days_left": 12,
+      "scraped_date": "2026-09-18"
+    },
+    {
+      "title": "MP High Court Assistant Grade III Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mp-high-court-assistant-grade-iii-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-17",
+      "application_end": "2026-09-30",
+      "posts": 1174,
       "status": "open",
       "days_left": 12,
       "scraped_date": "2026-09-18"
@@ -246,23 +235,23 @@
       "scraped_date": "2026-09-18"
     },
     {
-      "title": "UPSSSC Veterinary Pharmacist Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-veterinary-pharmacist-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-14",
-      "application_end": "2026-10-05",
-      "posts": 1308,
-      "status": "open",
-      "days_left": 17,
-      "scraped_date": "2026-09-18"
-    },
-    {
       "title": "UPSSSC Senior Instructor Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upsssc-senior-instructor-21-2026/",
       "notification_date": null,
       "application_start": "2026-09-14",
       "application_end": "2026-10-05",
       "posts": 132,
+      "status": "open",
+      "days_left": 17,
+      "scraped_date": "2026-09-18"
+    },
+    {
+      "title": "UPSSSC Veterinary Pharmacist Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upsssc-veterinary-pharmacist-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-14",
+      "application_end": "2026-10-05",
+      "posts": 1308,
       "status": "open",
       "days_left": 17,
       "scraped_date": "2026-09-18"
@@ -290,6 +279,17 @@
       "scraped_date": "2026-09-18"
     },
     {
+      "title": "UPSSSC Junior Engineer JE (Agriculture) Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upsssc-junior-engineer-je-agriculture-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-17",
+      "application_end": "2026-10-07",
+      "posts": 134,
+      "status": "open",
+      "days_left": 19,
+      "scraped_date": "2026-09-18"
+    },
+    {
       "title": "UPESSC UP Assistant Professor Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upessc-ap-sep-2026/",
       "notification_date": null,
@@ -307,17 +307,6 @@
       "application_start": "2026-09-08",
       "application_end": "2026-10-07",
       "posts": 553,
-      "status": "open",
-      "days_left": 19,
-      "scraped_date": "2026-09-18"
-    },
-    {
-      "title": "UPSSSC Junior Engineer JE (Agriculture) Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-junior-engineer-je-agriculture-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-17",
-      "application_end": "2026-10-07",
-      "posts": 134,
       "status": "open",
       "days_left": 19,
       "scraped_date": "2026-09-18"
@@ -411,6 +400,17 @@
       "scraped_date": "2026-09-18"
     },
     {
+      "title": "MPESB MP Police Constable Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/2026-mp-police-constable-sep26/",
+      "notification_date": null,
+      "application_start": "2026-09-22",
+      "application_end": "2026-10-06",
+      "posts": 7500,
+      "status": "upcoming",
+      "days_left": 18,
+      "scraped_date": "2026-09-18"
+    },
+    {
       "title": "UKSSSC Group C Scaler Recruitment 2026",
       "url": "https://sarkariresult.com.cm/uksssc-group-c-scaler-2026/",
       "notification_date": null,
@@ -433,25 +433,25 @@
       "scraped_date": "2026-09-18"
     },
     {
-      "title": "MPESB MP Police Constable Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/2026-mp-police-constable-sep26/",
+      "title": "UCO Bank SO Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/uco-bank-so-2026/",
       "notification_date": null,
-      "application_start": "2026-09-22",
-      "application_end": "2026-10-06",
-      "posts": 7500,
-      "status": "upcoming",
-      "days_left": 18,
+      "application_start": "2026-08-29",
+      "application_end": "2026-08-29",
+      "posts": 20,
+      "status": "old",
+      "days_left": -20,
       "scraped_date": "2026-09-18"
     },
     {
-      "title": "Bank Of Baroda LBO Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/2026-bank-of-baroda-lbo-aug26/",
+      "title": "MPESB Primary and Secondary Teachers MSPSTET Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mpesb-primary-and-secondary-teachers-mspstet-2026/",
       "notification_date": null,
-      "application_start": "2026-08-18",
-      "application_end": "2026-08-18",
-      "posts": 2482,
+      "application_start": "2026-08-21",
+      "application_end": "2026-08-21",
+      "posts": 2026,
       "status": "old",
-      "days_left": -31,
+      "days_left": -28,
       "scraped_date": "2026-09-18"
     },
     {
