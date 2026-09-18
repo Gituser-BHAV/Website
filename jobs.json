@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T09:26:27.443976",
+  "last_updated": "2026-09-18T14:10:05.403390",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 89,
   "jobs": [
@@ -235,6 +235,17 @@
       "scraped_date": "2026-09-18"
     },
     {
+      "title": "MPESB Primary and Secondary Teachers MSPSTET Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mpesb-primary-and-secondary-teachers-mspstet-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-21",
+      "application_end": "2026-10-05",
+      "posts": 2026,
+      "status": "open",
+      "days_left": 17,
+      "scraped_date": "2026-09-18"
+    },
+    {
       "title": "UPSSSC Senior Instructor Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upsssc-senior-instructor-21-2026/",
       "notification_date": null,
@@ -433,6 +444,17 @@
       "scraped_date": "2026-09-18"
     },
     {
+      "title": "MPESB Subedar Steno, ASI Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mpesb-subedar-steno-asi-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-24",
+      "application_end": "2026-10-08",
+      "posts": 655,
+      "status": "upcoming",
+      "days_left": 20,
+      "scraped_date": "2026-09-18"
+    },
+    {
       "title": "UCO Bank SO Recruitment 2026",
       "url": "https://sarkariresult.com.cm/uco-bank-so-2026/",
       "notification_date": null,
@@ -441,17 +463,6 @@
       "posts": 20,
       "status": "old",
       "days_left": -20,
-      "scraped_date": "2026-09-18"
-    },
-    {
-      "title": "MPESB Primary and Secondary Teachers MSPSTET Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mpesb-primary-and-secondary-teachers-mspstet-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-21",
-      "application_end": "2026-08-21",
-      "posts": 2026,
-      "status": "old",
-      "days_left": -28,
       "scraped_date": "2026-09-18"
     },
     {
@@ -771,17 +782,6 @@
       "posts": 2691,
       "status": "old",
       "days_left": -555,
-      "scraped_date": "2026-09-18"
-    },
-    {
-      "title": "Bihar Post Matric Scholarship 2025",
-      "url": "https://sarkariresult.com.cm/bihar-post-matric-scholarship-2025/",
-      "notification_date": null,
-      "application_start": "2025-01-07",
-      "application_end": "2025-03-10",
-      "posts": null,
-      "status": "old",
-      "days_left": -557,
       "scraped_date": "2026-09-18"
     },
     {
