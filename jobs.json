@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T12:57:06.598335",
+  "last_updated": "2026-09-19T16:19:52.155156",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 89,
   "jobs": [
@@ -122,6 +122,17 @@
       "posts": 4471,
       "status": "open",
       "days_left": 8,
+      "scraped_date": "2026-09-19"
+    },
+    {
+      "title": "SBI Trade Finance Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/sbi-tfo-specialist-cadre-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-29",
+      "application_end": "2026-09-28",
+      "posts": 35,
+      "status": "open",
+      "days_left": 9,
       "scraped_date": "2026-09-19"
     },
     {
@@ -452,17 +463,6 @@
       "posts": 23757,
       "status": "old",
       "days_left": -19,
-      "scraped_date": "2026-09-19"
-    },
-    {
-      "title": "SBI Trade Finance Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/sbi-tfo-specialist-cadre-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-29",
-      "application_end": "2026-08-29",
-      "posts": 35,
-      "status": "old",
-      "days_left": -21,
       "scraped_date": "2026-09-19"
     },
     {
