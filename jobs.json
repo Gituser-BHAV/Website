@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-09-19T03:43:40.390246",
+  "last_updated": "2026-09-19T08:38:51.826271",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 89,
   "jobs": [
-    {
-      "title": "India Post GDS Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-31",
-      "application_end": "2026-09-19",
-      "posts": 23757,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-19"
-    },
     {
       "title": "RCFL Apprentices Recruitment 2026",
       "url": "https://sarkariresult.com.cm/rcfl-apprentices-2026/",
@@ -378,17 +367,6 @@
       "scraped_date": "2026-09-19"
     },
     {
-      "title": "KSSSCI Non-Teaching Recruitment 2025",
-      "url": "https://sarkariresult.com.cm/ksssci-non-teaching-online-form-2024-apply-now/",
-      "notification_date": "2024-12-24",
-      "application_start": "2025-01-02",
-      "application_end": null,
-      "posts": 57,
-      "status": "open",
-      "days_left": null,
-      "scraped_date": "2026-09-19"
-    },
-    {
       "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
       "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
       "notification_date": null,
@@ -444,23 +422,45 @@
       "scraped_date": "2026-09-19"
     },
     {
+      "title": "HPSC Food Safety Officer (FSO) Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/hpsc-fso-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-28",
+      "application_end": "2026-10-19",
+      "posts": 45,
+      "status": "upcoming",
+      "days_left": 30,
+      "scraped_date": "2026-09-19"
+    },
+    {
+      "title": "JSSC 10+2 Inter Level JILCCE Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/jssc-102-inter-level-jilcce-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-05",
+      "application_end": "2026-09-04",
+      "posts": 326,
+      "status": "old",
+      "days_left": -15,
+      "scraped_date": "2026-09-19"
+    },
+    {
+      "title": "India Post GDS Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-31",
+      "application_end": "2026-08-31",
+      "posts": 23757,
+      "status": "old",
+      "days_left": -19,
+      "scraped_date": "2026-09-19"
+    },
+    {
       "title": "SBI Trade Finance Officer Recruitment 2026",
       "url": "https://sarkariresult.com.cm/sbi-tfo-specialist-cadre-2026/",
       "notification_date": null,
       "application_start": "2026-08-29",
-      "application_end": "2026-09-18",
-      "posts": 35,
-      "status": "old",
-      "days_left": -1,
-      "scraped_date": "2026-09-19"
-    },
-    {
-      "title": "UCO Bank SO Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/uco-bank-so-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-29",
       "application_end": "2026-08-29",
-      "posts": 20,
+      "posts": 35,
       "status": "old",
       "days_left": -21,
       "scraped_date": "2026-09-19"
