@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-09-20T00:45:33.695220",
+  "last_updated": "2026-09-20T05:49:56.851339",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 89,
   "jobs": [
-    {
-      "title": "RCFL Apprentices Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rcfl-apprentices-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-04",
-      "application_end": "2026-09-20",
-      "posts": 326,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-20"
-    },
     {
       "title": "IBPS RRB 15th Recruitment 2026",
       "url": "https://sarkariresult.com.cm/ibps-rrb-15th-2026/",
@@ -444,6 +433,28 @@
       "scraped_date": "2026-09-20"
     },
     {
+      "title": "India Post GDS Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-31",
+      "application_end": "2026-09-19",
+      "posts": 23757,
+      "status": "old",
+      "days_left": -1,
+      "scraped_date": "2026-09-20"
+    },
+    {
+      "title": "RCFL Apprentices Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rcfl-apprentices-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-04",
+      "application_end": "2026-09-04",
+      "posts": 326,
+      "status": "old",
+      "days_left": -16,
+      "scraped_date": "2026-09-20"
+    },
+    {
       "title": "JSSC 10+2 Inter Level JILCCE Recruitment 2026",
       "url": "https://sarkariresult.com.cm/jssc-102-inter-level-jilcce-2026/",
       "notification_date": null,
@@ -452,17 +463,6 @@
       "posts": 326,
       "status": "old",
       "days_left": -16,
-      "scraped_date": "2026-09-20"
-    },
-    {
-      "title": "India Post GDS Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-31",
-      "application_end": "2026-08-31",
-      "posts": 23757,
-      "status": "old",
-      "days_left": -20,
       "scraped_date": "2026-09-20"
     },
     {
