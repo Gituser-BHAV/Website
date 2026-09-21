@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-09-21T03:48:56.836898",
+  "last_updated": "2026-09-21T16:18:19.205826",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 89,
+  "total_jobs": 88,
   "jobs": [
-    {
-      "title": "IBPS RRB 15th Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/ibps-rrb-15th-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-01",
-      "application_end": "2026-09-21",
-      "posts": 13706,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-21"
-    },
     {
       "title": "SSC Junior Engineer JE Recruitment 2026",
       "url": "https://sarkariresult.com.cm/ssc-je-2026/",
@@ -213,6 +202,17 @@
       "scraped_date": "2026-09-21"
     },
     {
+      "title": "NTPC Assistant Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/ntpc-assistant-officer-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-21",
+      "application_end": "2026-10-05",
+      "posts": 15,
+      "status": "open",
+      "days_left": 14,
+      "scraped_date": "2026-09-21"
+    },
+    {
       "title": "MPESB Primary and Secondary Teachers MSPSTET Recruitment 2026",
       "url": "https://sarkariresult.com.cm/mpesb-primary-and-secondary-teachers-mspstet-2026/",
       "notification_date": null,
@@ -257,6 +257,17 @@
       "scraped_date": "2026-09-21"
     },
     {
+      "title": "UPESSC UP Assistant Professor Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upessc-ap-sep-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-08",
+      "application_end": "2026-10-07",
+      "posts": 1936,
+      "status": "open",
+      "days_left": 16,
+      "scraped_date": "2026-09-21"
+    },
+    {
       "title": "SSC CHSL 10+2 Recruitment 2026",
       "url": "https://sarkariresult.com.cm/ssc-chsl-sep-2026/",
       "notification_date": null,
@@ -274,17 +285,6 @@
       "application_start": "2026-09-17",
       "application_end": "2026-10-07",
       "posts": 134,
-      "status": "open",
-      "days_left": 16,
-      "scraped_date": "2026-09-21"
-    },
-    {
-      "title": "UPESSC UP Assistant Professor Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upessc-ap-sep-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-08",
-      "application_end": "2026-10-07",
-      "posts": 1936,
       "status": "open",
       "days_left": 16,
       "scraped_date": "2026-09-21"
@@ -433,25 +433,14 @@
       "scraped_date": "2026-09-21"
     },
     {
-      "title": "India Post GDS Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
+      "title": "RRB NTPC Graduate Level Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-06-2026/",
       "notification_date": null,
-      "application_start": "2026-08-31",
-      "application_end": "2026-09-19",
-      "posts": 23757,
-      "status": "old",
-      "days_left": -2,
-      "scraped_date": "2026-09-21"
-    },
-    {
-      "title": "RCFL Apprentices Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rcfl-apprentices-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-04",
-      "application_end": "2026-09-04",
-      "posts": 326,
-      "status": "old",
-      "days_left": -17,
+      "application_start": "2026-10-08",
+      "application_end": "2026-11-06",
+      "posts": 3477,
+      "status": "upcoming",
+      "days_left": 46,
       "scraped_date": "2026-09-21"
     },
     {
@@ -463,6 +452,28 @@
       "posts": 326,
       "status": "old",
       "days_left": -17,
+      "scraped_date": "2026-09-21"
+    },
+    {
+      "title": "IBPS RRB 15th Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/ibps-rrb-15th-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-01",
+      "application_end": "2026-09-01",
+      "posts": 13706,
+      "status": "old",
+      "days_left": -20,
+      "scraped_date": "2026-09-21"
+    },
+    {
+      "title": "India Post GDS Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-31",
+      "application_end": "2026-08-31",
+      "posts": 23757,
+      "status": "old",
+      "days_left": -21,
       "scraped_date": "2026-09-21"
     },
     {
@@ -829,17 +840,6 @@
       "scraped_date": "2026-09-21"
     },
     {
-      "title": "BHEL Engineer Trainee and Supervisor Trainee Recruitment 2025",
-      "url": "https://sarkariresult.com.cm/bhel-engineer-trainee-and-supervisor-trainee-recruitment-2025/",
-      "notification_date": "2025-01-20",
-      "application_start": "2025-02-01",
-      "application_end": "2025-02-28",
-      "posts": 400,
-      "status": "old",
-      "days_left": -570,
-      "scraped_date": "2026-09-21"
-    },
-    {
       "title": "Indian Navy SSC Officer January Recruitment 2025",
       "url": "https://sarkariresult.com.cm/indian-navy-ssc-officer-january-recruitment-2025/",
       "notification_date": "2025-02-07",
@@ -912,17 +912,6 @@
       "application_start": "2025-01-22",
       "application_end": "2025-02-05",
       "posts": 129,
-      "status": "old",
-      "days_left": -593,
-      "scraped_date": "2026-09-21"
-    },
-    {
-      "title": "Mazagon Dock MDL Graduate/ Diploma Apprentice Recruitment 2025",
-      "url": "https://sarkariresult.com.cm/mazagon-dock-mdl-graduate-diploma-apprentice-recruitment-2025/",
-      "notification_date": null,
-      "application_start": "2025-02-17",
-      "application_end": "2025-02-05",
-      "posts": 200,
       "status": "old",
       "days_left": -593,
       "scraped_date": "2026-09-21"
