@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:07:44.657145",
+  "last_updated": "2026-09-22T14:25:54.579795",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
@@ -356,23 +356,23 @@
       "scraped_date": "2026-09-22"
     },
     {
-      "title": "UKSSSC Group C Scaler Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/uksssc-group-c-scaler-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-22",
-      "application_end": "2026-10-22",
-      "posts": 200,
-      "status": "open",
-      "days_left": 30,
-      "scraped_date": "2026-09-22"
-    },
-    {
       "title": "Indian Army Dental Corps Recruitment 2026",
       "url": "https://sarkariresult.com.cm/indian-army-dental-corp-2026/",
       "notification_date": null,
       "application_start": "2026-09-22",
       "application_end": "2026-10-22",
       "posts": 37,
+      "status": "open",
+      "days_left": 30,
+      "scraped_date": "2026-09-22"
+    },
+    {
+      "title": "UKSSSC Group C Scaler Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/uksssc-group-c-scaler-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-22",
+      "application_end": "2026-10-22",
+      "posts": 200,
       "status": "open",
       "days_left": 30,
       "scraped_date": "2026-09-22"
@@ -411,6 +411,17 @@
       "scraped_date": "2026-09-22"
     },
     {
+      "title": "Indian Army TGC 145 Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/indian-army-tgc-145-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-30",
+      "application_end": "2026-10-29",
+      "posts": 30,
+      "status": "upcoming",
+      "days_left": 37,
+      "scraped_date": "2026-09-22"
+    },
+    {
       "title": "RRB NTPC Graduate Level Recruitment 2026",
       "url": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-06-2026/",
       "notification_date": null,
@@ -422,14 +433,14 @@
       "scraped_date": "2026-09-22"
     },
     {
-      "title": "India Post GDS Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
+      "title": "RRB NTPC 10+2 UG Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rrb-ntpc-inter-level-07-2026/",
       "notification_date": null,
-      "application_start": "2026-08-31",
-      "application_end": "2026-09-19",
-      "posts": 23757,
-      "status": "old",
-      "days_left": -3,
+      "application_start": "2026-10-15",
+      "application_end": "2026-11-13",
+      "posts": 1688,
+      "status": "upcoming",
+      "days_left": 52,
       "scraped_date": "2026-09-22"
     },
     {
@@ -455,23 +466,23 @@
       "scraped_date": "2026-09-22"
     },
     {
-      "title": "SSC Junior Engineer JE Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/ssc-je-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-02",
-      "application_end": "2026-09-02",
-      "posts": 1748,
-      "status": "old",
-      "days_left": -20,
-      "scraped_date": "2026-09-22"
-    },
-    {
       "title": "UPSC Geo Scientist Recruitment 2027",
       "url": "https://sarkariresult.com.cm/upsc-geo-scientist-2027/",
       "notification_date": null,
       "application_start": "2026-09-02",
       "application_end": "2026-09-02",
       "posts": 127,
+      "status": "old",
+      "days_left": -20,
+      "scraped_date": "2026-09-22"
+    },
+    {
+      "title": "SSC Junior Engineer JE Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/ssc-je-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-02",
+      "application_end": "2026-09-02",
+      "posts": 1748,
       "status": "old",
       "days_left": -20,
       "scraped_date": "2026-09-22"
@@ -529,17 +540,6 @@
       "posts": 60000,
       "status": "old",
       "days_left": -448,
-      "scraped_date": "2026-09-22"
-    },
-    {
-      "title": "SSC JHT Option Cum Preference Form 2026",
-      "url": "https://sarkariresult.com.cm/ssc-chte-2025/",
-      "notification_date": null,
-      "application_start": "2025-06-05",
-      "application_end": "2025-06-26",
-      "posts": 457,
-      "status": "old",
-      "days_left": -453,
       "scraped_date": "2026-09-22"
     },
     {
