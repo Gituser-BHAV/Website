@@ -1,41 +1,8 @@
 {
-  "last_updated": "2026-09-22T03:46:15.105255",
+  "last_updated": "2026-09-22T09:07:44.657145",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
-    {
-      "title": "SSC Junior Engineer JE Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/ssc-je-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-02",
-      "application_end": "2026-09-22",
-      "posts": 1748,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-22"
-    },
-    {
-      "title": "UPSC Geo Scientist Recruitment 2027",
-      "url": "https://sarkariresult.com.cm/upsc-geo-scientist-2027/",
-      "notification_date": null,
-      "application_start": "2026-09-02",
-      "application_end": "2026-09-22",
-      "posts": 127,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-22"
-    },
-    {
-      "title": "NTPC NSPCL Various Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/ntpc-nspcl-various-post-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-07",
-      "application_end": "2026-09-22",
-      "posts": 17,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-22"
-    },
     {
       "title": "MPESB MP Police Sub Inspector SI & Subedar Recruitment 2026",
       "url": "https://sarkariresult.com.cm/mp-police-si-subedar-2026/",
@@ -89,6 +56,17 @@
       "posts": 207,
       "status": "critical",
       "days_left": 3,
+      "scraped_date": "2026-09-22"
+    },
+    {
+      "title": "IBPS RRB 15th Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/ibps-rrb-15th-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-01",
+      "application_end": "2026-09-27",
+      "posts": 13706,
+      "status": "critical",
+      "days_left": 5,
       "scraped_date": "2026-09-22"
     },
     {
@@ -444,6 +422,28 @@
       "scraped_date": "2026-09-22"
     },
     {
+      "title": "India Post GDS Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-31",
+      "application_end": "2026-09-19",
+      "posts": 23757,
+      "status": "old",
+      "days_left": -3,
+      "scraped_date": "2026-09-22"
+    },
+    {
+      "title": "NTPC NSPCL Various Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/ntpc-nspcl-various-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-07",
+      "application_end": "2026-09-07",
+      "posts": 17,
+      "status": "old",
+      "days_left": -15,
+      "scraped_date": "2026-09-22"
+    },
+    {
       "title": "JSSC 10+2 Inter Level JILCCE Recruitment 2026",
       "url": "https://sarkariresult.com.cm/jssc-102-inter-level-jilcce-2026/",
       "notification_date": null,
@@ -455,25 +455,25 @@
       "scraped_date": "2026-09-22"
     },
     {
-      "title": "IBPS RRB 15th Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/ibps-rrb-15th-2026/",
+      "title": "SSC Junior Engineer JE Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/ssc-je-2026/",
       "notification_date": null,
-      "application_start": "2026-09-01",
-      "application_end": "2026-09-01",
-      "posts": 13706,
+      "application_start": "2026-09-02",
+      "application_end": "2026-09-02",
+      "posts": 1748,
       "status": "old",
-      "days_left": -21,
+      "days_left": -20,
       "scraped_date": "2026-09-22"
     },
     {
-      "title": "India Post GDS Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
+      "title": "UPSC Geo Scientist Recruitment 2027",
+      "url": "https://sarkariresult.com.cm/upsc-geo-scientist-2027/",
       "notification_date": null,
-      "application_start": "2026-08-31",
-      "application_end": "2026-08-31",
-      "posts": 23757,
+      "application_start": "2026-09-02",
+      "application_end": "2026-09-02",
+      "posts": 127,
       "status": "old",
-      "days_left": -22,
+      "days_left": -20,
       "scraped_date": "2026-09-22"
     },
     {
