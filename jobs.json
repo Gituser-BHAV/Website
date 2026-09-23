@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-09-23T00:05:45.670842",
+  "last_updated": "2026-09-23T05:35:49.631761",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 88,
+  "total_jobs": 90,
   "jobs": [
-    {
-      "title": "MPESB MP Police Sub Inspector SI & Subedar Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mp-police-si-subedar-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-09",
-      "application_end": "2026-09-23",
-      "posts": 507,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-23"
-    },
     {
       "title": "Bank of Baroda SO Recruitment 2026",
       "url": "https://sarkariresult.com.cm/bank-of-baroda-so-2026/",
@@ -345,17 +334,6 @@
       "scraped_date": "2026-09-23"
     },
     {
-      "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-21",
-      "application_end": "2026-10-21",
-      "posts": 32388,
-      "status": "open",
-      "days_left": 28,
-      "scraped_date": "2026-09-23"
-    },
-    {
       "title": "Indian Army Dental Corps Recruitment 2026",
       "url": "https://sarkariresult.com.cm/indian-army-dental-corp-2026/",
       "notification_date": null,
@@ -389,6 +367,17 @@
       "scraped_date": "2026-09-23"
     },
     {
+      "title": "KSSSCI Non-Teaching Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/ksssci-non-teaching-online-form-2024-apply-now/",
+      "notification_date": "2024-12-24",
+      "application_start": "2025-01-02",
+      "application_end": null,
+      "posts": 57,
+      "status": "open",
+      "days_left": null,
+      "scraped_date": "2026-09-23"
+    },
+    {
       "title": "MPESB Subedar Steno, ASI Recruitment 2026",
       "url": "https://sarkariresult.com.cm/mpesb-subedar-steno-asi-2026/",
       "notification_date": null,
@@ -397,6 +386,17 @@
       "posts": 655,
       "status": "upcoming",
       "days_left": 15,
+      "scraped_date": "2026-09-23"
+    },
+    {
+      "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-25",
+      "application_end": "2026-10-26",
+      "posts": 32388,
+      "status": "upcoming",
+      "days_left": 33,
       "scraped_date": "2026-09-23"
     },
     {
@@ -444,14 +444,14 @@
       "scraped_date": "2026-09-23"
     },
     {
-      "title": "NTPC NSPCL Various Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/ntpc-nspcl-various-post-2026/",
+      "title": "MPESB MP Police Sub Inspector SI & Subedar Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mp-police-si-subedar-2026/",
       "notification_date": null,
-      "application_start": "2026-09-07",
-      "application_end": "2026-09-07",
-      "posts": 17,
+      "application_start": "2026-09-09",
+      "application_end": "2026-09-09",
+      "posts": 507,
       "status": "old",
-      "days_left": -16,
+      "days_left": -14,
       "scraped_date": "2026-09-23"
     },
     {
@@ -463,28 +463,6 @@
       "posts": 326,
       "status": "old",
       "days_left": -19,
-      "scraped_date": "2026-09-23"
-    },
-    {
-      "title": "UPSC Geo Scientist Recruitment 2027",
-      "url": "https://sarkariresult.com.cm/upsc-geo-scientist-2027/",
-      "notification_date": null,
-      "application_start": "2026-09-02",
-      "application_end": "2026-09-02",
-      "posts": 127,
-      "status": "old",
-      "days_left": -21,
-      "scraped_date": "2026-09-23"
-    },
-    {
-      "title": "SSC Junior Engineer JE Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/ssc-je-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-02",
-      "application_end": "2026-09-02",
-      "posts": 1748,
-      "status": "old",
-      "days_left": -21,
       "scraped_date": "2026-09-23"
     },
     {
@@ -796,6 +774,17 @@
       "scraped_date": "2026-09-23"
     },
     {
+      "title": "Bihar Post Matric Scholarship 2025",
+      "url": "https://sarkariresult.com.cm/bihar-post-matric-scholarship-2025/",
+      "notification_date": null,
+      "application_start": "2025-01-07",
+      "application_end": "2025-03-10",
+      "posts": null,
+      "status": "old",
+      "days_left": -562,
+      "scraped_date": "2026-09-23"
+    },
+    {
       "title": "Indian Overseas Bank IOB Apprentice Recruitment 2025",
       "url": "https://sarkariresult.com.cm/indian-overseas-bank-iob-apprentice-recruitment-2025/",
       "notification_date": null,
@@ -837,6 +826,17 @@
       "posts": 400,
       "status": "old",
       "days_left": -571,
+      "scraped_date": "2026-09-23"
+    },
+    {
+      "title": "BHEL Engineer Trainee and Supervisor Trainee Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/bhel-engineer-trainee-and-supervisor-trainee-recruitment-2025/",
+      "notification_date": "2025-01-20",
+      "application_start": "2025-02-01",
+      "application_end": "2025-02-28",
+      "posts": 400,
+      "status": "old",
+      "days_left": -572,
       "scraped_date": "2026-09-23"
     },
     {
@@ -912,6 +912,28 @@
       "application_start": "2025-01-22",
       "application_end": "2025-02-05",
       "posts": 129,
+      "status": "old",
+      "days_left": -595,
+      "scraped_date": "2026-09-23"
+    },
+    {
+      "title": "Mazagon Dock MDL Graduate/ Diploma Apprentice Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/mazagon-dock-mdl-graduate-diploma-apprentice-recruitment-2025/",
+      "notification_date": null,
+      "application_start": "2025-02-17",
+      "application_end": "2025-02-05",
+      "posts": 200,
+      "status": "old",
+      "days_left": -595,
+      "scraped_date": "2026-09-23"
+    },
+    {
+      "title": "Indian Army SSC Tech Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/indian-army-ssc-tech-online-form-2025-start/",
+      "notification_date": "2024-12-27",
+      "application_start": "2025-01-07",
+      "application_end": "2025-02-05",
+      "posts": 381,
       "status": "old",
       "days_left": -595,
       "scraped_date": "2026-09-23"
