@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T05:35:49.631761",
+  "last_updated": "2026-09-23T15:25:01.942308",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 90,
   "jobs": [
@@ -224,6 +224,17 @@
       "scraped_date": "2026-09-23"
     },
     {
+      "title": "IBPS Hindi Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/ibps-hindi-officer-sep26/",
+      "notification_date": null,
+      "application_start": "2026-09-23",
+      "application_end": "2026-10-06",
+      "posts": 2026,
+      "status": "open",
+      "days_left": 13,
+      "scraped_date": "2026-09-23"
+    },
+    {
       "title": "UPSC Engineering Services Pre Recruitment 2027",
       "url": "https://sarkariresult.com.cm/upsc-engineering-services-pre-2027/",
       "notification_date": null,
@@ -235,23 +246,23 @@
       "scraped_date": "2026-09-23"
     },
     {
-      "title": "UPESSC UP Assistant Professor Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upessc-ap-sep-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-08",
-      "application_end": "2026-10-07",
-      "posts": 1936,
-      "status": "open",
-      "days_left": 14,
-      "scraped_date": "2026-09-23"
-    },
-    {
       "title": "SSC CHSL 10+2 Recruitment 2026",
       "url": "https://sarkariresult.com.cm/ssc-chsl-sep-2026/",
       "notification_date": null,
       "application_start": "2026-09-07",
       "application_end": "2026-10-07",
       "posts": 2536,
+      "status": "open",
+      "days_left": 14,
+      "scraped_date": "2026-09-23"
+    },
+    {
+      "title": "UPESSC UP Assistant Professor Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upessc-ap-sep-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-08",
+      "application_end": "2026-10-07",
+      "posts": 1936,
       "status": "open",
       "days_left": 14,
       "scraped_date": "2026-09-23"
@@ -441,6 +452,17 @@
       "posts": 1688,
       "status": "upcoming",
       "days_left": 51,
+      "scraped_date": "2026-09-23"
+    },
+    {
+      "title": "India Post GDS Correction / Edit Form 2026",
+      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-31",
+      "application_end": "2026-09-19",
+      "posts": 23757,
+      "status": "old",
+      "days_left": -4,
       "scraped_date": "2026-09-23"
     },
     {
@@ -774,17 +796,6 @@
       "scraped_date": "2026-09-23"
     },
     {
-      "title": "Bihar Post Matric Scholarship 2025",
-      "url": "https://sarkariresult.com.cm/bihar-post-matric-scholarship-2025/",
-      "notification_date": null,
-      "application_start": "2025-01-07",
-      "application_end": "2025-03-10",
-      "posts": null,
-      "status": "old",
-      "days_left": -562,
-      "scraped_date": "2026-09-23"
-    },
-    {
       "title": "Indian Overseas Bank IOB Apprentice Recruitment 2025",
       "url": "https://sarkariresult.com.cm/indian-overseas-bank-iob-apprentice-recruitment-2025/",
       "notification_date": null,
@@ -923,17 +934,6 @@
       "application_start": "2025-02-17",
       "application_end": "2025-02-05",
       "posts": 200,
-      "status": "old",
-      "days_left": -595,
-      "scraped_date": "2026-09-23"
-    },
-    {
-      "title": "Indian Army SSC Tech Recruitment 2025",
-      "url": "https://sarkariresult.com.cm/indian-army-ssc-tech-online-form-2025-start/",
-      "notification_date": "2024-12-27",
-      "application_start": "2025-01-07",
-      "application_end": "2025-02-05",
-      "posts": 381,
       "status": "old",
       "days_left": -595,
       "scraped_date": "2026-09-23"
