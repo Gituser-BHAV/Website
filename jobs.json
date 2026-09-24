@@ -1,41 +1,8 @@
 {
-  "last_updated": "2026-09-24T01:11:29.407627",
+  "last_updated": "2026-09-24T07:20:39.908784",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 90,
   "jobs": [
-    {
-      "title": "Bank of Baroda SO Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bank-of-baroda-so-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-04",
-      "application_end": "2026-09-24",
-      "posts": 1100,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-24"
-    },
-    {
-      "title": "PFRDA Assistant Manager Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/pfrda-assistant-manager-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-03",
-      "application_end": "2026-09-24",
-      "posts": 30,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-24"
-    },
-    {
-      "title": "Bihar BCECEB BSFC Various Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bihar-bceceb-bsfc-various-post-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-25",
-      "application_end": "2026-09-24",
-      "posts": 259,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-24"
-    },
     {
       "title": "SBI SCO Wealth & Other Post Recruitment 2026",
       "url": "https://sarkariresult.com.cm/sbi-sco-wealth-other-post-online-form-2026/",
@@ -455,25 +422,14 @@
       "scraped_date": "2026-09-24"
     },
     {
-      "title": "India Post GDS Correction / Edit Form 2026",
-      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-31",
-      "application_end": "2026-09-19",
-      "posts": 23757,
-      "status": "old",
-      "days_left": -5,
-      "scraped_date": "2026-09-24"
-    },
-    {
       "title": "MPESB MP Police Sub Inspector SI & Subedar Recruitment 2026",
       "url": "https://sarkariresult.com.cm/mp-police-si-subedar-2026/",
       "notification_date": null,
       "application_start": "2026-09-09",
-      "application_end": "2026-09-09",
+      "application_end": "2026-09-23",
       "posts": 507,
       "status": "old",
-      "days_left": -15,
+      "days_left": -1,
       "scraped_date": "2026-09-24"
     },
     {
@@ -485,6 +441,50 @@
       "posts": 326,
       "status": "old",
       "days_left": -20,
+      "scraped_date": "2026-09-24"
+    },
+    {
+      "title": "Bank of Baroda SO Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bank-of-baroda-so-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-04",
+      "application_end": "2026-09-04",
+      "posts": 1100,
+      "status": "old",
+      "days_left": -20,
+      "scraped_date": "2026-09-24"
+    },
+    {
+      "title": "PFRDA Assistant Manager Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/pfrda-assistant-manager-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-03",
+      "application_end": "2026-09-03",
+      "posts": 30,
+      "status": "old",
+      "days_left": -21,
+      "scraped_date": "2026-09-24"
+    },
+    {
+      "title": "India Post GDS Correction / Edit Form 2026",
+      "url": "https://sarkariresult.com.cm/india-post-gds-july-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-31",
+      "application_end": "2026-08-31",
+      "posts": 23757,
+      "status": "old",
+      "days_left": -24,
+      "scraped_date": "2026-09-24"
+    },
+    {
+      "title": "Bihar BCECEB BSFC Various Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bihar-bceceb-bsfc-various-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-25",
+      "application_end": "2026-08-25",
+      "posts": 259,
+      "status": "old",
+      "days_left": -30,
       "scraped_date": "2026-09-24"
     },
     {
