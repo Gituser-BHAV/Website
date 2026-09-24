@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T07:20:39.908784",
+  "last_updated": "2026-09-24T13:20:17.680275",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 90,
   "jobs": [
@@ -422,14 +422,14 @@
       "scraped_date": "2026-09-24"
     },
     {
-      "title": "MPESB MP Police Sub Inspector SI & Subedar Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mp-police-si-subedar-2026/",
+      "title": "Bank of Baroda SO Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bank-of-baroda-so-2026/",
       "notification_date": null,
-      "application_start": "2026-09-09",
-      "application_end": "2026-09-23",
-      "posts": 507,
+      "application_start": "2026-09-04",
+      "application_end": "2026-09-04",
+      "posts": 1100,
       "status": "old",
-      "days_left": -1,
+      "days_left": -20,
       "scraped_date": "2026-09-24"
     },
     {
@@ -439,17 +439,6 @@
       "application_start": "2026-08-05",
       "application_end": "2026-09-04",
       "posts": 326,
-      "status": "old",
-      "days_left": -20,
-      "scraped_date": "2026-09-24"
-    },
-    {
-      "title": "Bank of Baroda SO Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bank-of-baroda-so-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-04",
-      "application_end": "2026-09-04",
-      "posts": 1100,
       "status": "old",
       "days_left": -20,
       "scraped_date": "2026-09-24"
@@ -793,6 +782,17 @@
       "posts": 2691,
       "status": "old",
       "days_left": -561,
+      "scraped_date": "2026-09-24"
+    },
+    {
+      "title": "Bihar Post Matric Scholarship 2025",
+      "url": "https://sarkariresult.com.cm/bihar-post-matric-scholarship-2025/",
+      "notification_date": null,
+      "application_start": "2025-01-07",
+      "application_end": "2025-03-10",
+      "posts": null,
+      "status": "old",
+      "days_left": -563,
       "scraped_date": "2026-09-24"
     },
     {
