@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T01:15:09.625628",
+  "last_updated": "2026-09-26T07:10:48.850303",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 90,
   "jobs": [
@@ -122,6 +122,17 @@
       "posts": 212,
       "status": "open",
       "days_left": 6,
+      "scraped_date": "2026-09-26"
+    },
+    {
+      "title": "SBI SCO Wealth & Other Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/sbi-sco-wealth-other-post-online-form-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-04",
+      "application_end": "2026-10-05",
+      "posts": 207,
+      "status": "open",
+      "days_left": 9,
       "scraped_date": "2026-09-26"
     },
     {
@@ -350,7 +361,7 @@
       "notification_date": null,
       "application_start": "2026-09-24",
       "application_end": "2026-10-23",
-      "posts": 1018,
+      "posts": 787,
       "status": "open",
       "days_left": 27,
       "scraped_date": "2026-09-26"
@@ -452,17 +463,6 @@
       "posts": 507,
       "status": "old",
       "days_left": -3,
-      "scraped_date": "2026-09-26"
-    },
-    {
-      "title": "SBI SCO Wealth & Other Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/sbi-sco-wealth-other-post-online-form-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-04",
-      "application_end": "2026-09-04",
-      "posts": 207,
-      "status": "old",
-      "days_left": -22,
       "scraped_date": "2026-09-26"
     },
     {
