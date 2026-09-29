@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-09-29T01:32:54.442326",
+  "last_updated": "2026-09-29T07:59:39.853456",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 89,
   "jobs": [
-    {
-      "title": "UPSSSC Livestock Extension Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-leo-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-09",
-      "application_end": "2026-09-29",
-      "posts": 1251,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-29"
-    },
     {
       "title": "SSC CPO SI CAPF Recruitment 2026",
       "url": "https://sarkariresult.com.cm/2026-ssc-cpo-si-sep26/",
@@ -444,25 +433,14 @@
       "scraped_date": "2026-09-29"
     },
     {
-      "title": "MPESB MP Police SI, Subedar Correction / Edit Form 2026",
-      "url": "https://sarkariresult.com.cm/mp-police-si-subedar-2026/",
+      "title": "UPSSSC Livestock Extension Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upsssc-leo-2026/",
       "notification_date": null,
       "application_start": "2026-09-09",
       "application_end": "2026-09-09",
-      "posts": 507,
+      "posts": 1251,
       "status": "old",
       "days_left": -20,
-      "scraped_date": "2026-09-29"
-    },
-    {
-      "title": "UPSSSC Computer Operator Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-computer-operator-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-07",
-      "application_end": "2026-09-07",
-      "posts": 12,
-      "status": "old",
-      "days_left": -22,
       "scraped_date": "2026-09-29"
     },
     {
@@ -470,21 +448,10 @@
       "url": "https://sarkariresult.com.cm/jssc-102-inter-level-jilcce-2026/",
       "notification_date": null,
       "application_start": "2026-08-05",
-      "application_end": "2026-09-04",
+      "application_end": "2026-08-05",
       "posts": 326,
       "status": "old",
-      "days_left": -25,
-      "scraped_date": "2026-09-29"
-    },
-    {
-      "title": "SBI Trade Finance Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/sbi-tfo-specialist-cadre-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-29",
-      "application_end": "2026-08-29",
-      "posts": 35,
-      "status": "old",
-      "days_left": -31,
+      "days_left": -55,
       "scraped_date": "2026-09-29"
     },
     {
@@ -906,6 +873,17 @@
       "scraped_date": "2026-09-29"
     },
     {
+      "title": "HDFC Bank PO Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/hdfc-bank-po-recruitment-2025/",
+      "notification_date": "2024-12-30",
+      "application_start": "2024-12-30",
+      "application_end": "2025-02-07",
+      "posts": 500,
+      "status": "old",
+      "days_left": -599,
+      "scraped_date": "2026-09-29"
+    },
+    {
       "title": "Indian Air Force Airmen Group-Y Recruitment 2025",
       "url": "https://sarkariresult.com.cm/indian-air-force-airmen-group-y-recruitment-2025/",
       "notification_date": "2024-12-30",
@@ -936,6 +914,28 @@
       "posts": 200,
       "status": "old",
       "days_left": -601,
+      "scraped_date": "2026-09-29"
+    },
+    {
+      "title": "Indian Army SSC Tech Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/indian-army-ssc-tech-online-form-2025-start/",
+      "notification_date": "2024-12-27",
+      "application_start": "2025-01-07",
+      "application_end": "2025-02-05",
+      "posts": 381,
+      "status": "old",
+      "days_left": -601,
+      "scraped_date": "2026-09-29"
+    },
+    {
+      "title": "Telangana High Court Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/telangana-high-court-recruitment-2025/",
+      "notification_date": "2025-01-02",
+      "application_start": "2025-01-08",
+      "application_end": "2025-01-31",
+      "posts": 1673,
+      "status": "old",
+      "days_left": -606,
       "scraped_date": "2026-09-29"
     },
     {
