@@ -1,52 +1,8 @@
 {
-  "last_updated": "2026-09-30T04:28:29.908673",
+  "last_updated": "2026-09-30T10:57:49.042683",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 89,
+  "total_jobs": 90,
   "jobs": [
-    {
-      "title": "SSC CPO SI CAPF Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/2026-ssc-cpo-si-sep26/",
-      "notification_date": null,
-      "application_start": "2026-09-10",
-      "application_end": "2026-09-30",
-      "posts": 1871,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-30"
-    },
-    {
-      "title": "MP High Court Assistant Grade III Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mp-high-court-assistant-grade-iii-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-17",
-      "application_end": "2026-09-30",
-      "posts": 1174,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-30"
-    },
-    {
-      "title": "CONCOR MT, Assistant Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/concor-mt-assistant-officer-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-31",
-      "application_end": "2026-09-30",
-      "posts": 77,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-30"
-    },
-    {
-      "title": "NIC Scientific / Technical Assistant Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/nic-scientific-technical-assistant-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-01",
-      "application_end": "2026-09-30",
-      "posts": 376,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-09-30"
-    },
     {
       "title": "UIICL Administrative Officer Recruitment 2026",
       "url": "https://sarkariresult.com.cm/uiicl-ao-2026/",
@@ -290,6 +246,17 @@
       "scraped_date": "2026-09-30"
     },
     {
+      "title": "JSSC Para Teacher JTAACCE Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/jssc-para-teacher-jtaacce-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-29",
+      "application_end": "2026-10-18",
+      "posts": 7299,
+      "status": "open",
+      "days_left": 18,
+      "scraped_date": "2026-09-30"
+    },
+    {
       "title": "HPSC Food Safety Officer (FSO) Recruitment 2026",
       "url": "https://sarkariresult.com.cm/hpsc-fso-2026/",
       "notification_date": null,
@@ -433,25 +400,47 @@
       "scraped_date": "2026-09-30"
     },
     {
-      "title": "UPSSSC Livestock Extension Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-leo-2026/",
+      "title": "SSC CPO SI CAPF Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/2026-ssc-cpo-si-sep26/",
       "notification_date": null,
-      "application_start": "2026-09-09",
-      "application_end": "2026-09-09",
-      "posts": 1251,
+      "application_start": "2026-09-10",
+      "application_end": "2026-09-10",
+      "posts": 1871,
       "status": "old",
-      "days_left": -21,
+      "days_left": -20,
       "scraped_date": "2026-09-30"
     },
     {
-      "title": "JSSC 10+2 Inter Level JILCCE Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/jssc-102-inter-level-jilcce-2026/",
+      "title": "NIC Scientific / Technical Assistant Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/nic-scientific-technical-assistant-2026/",
       "notification_date": null,
-      "application_start": "2026-08-05",
-      "application_end": "2026-08-05",
-      "posts": 326,
+      "application_start": "2026-09-01",
+      "application_end": "2026-09-01",
+      "posts": 376,
       "status": "old",
-      "days_left": -56,
+      "days_left": -29,
+      "scraped_date": "2026-09-30"
+    },
+    {
+      "title": "CONCOR MT, Assistant Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/concor-mt-assistant-officer-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-31",
+      "application_end": "2026-08-31",
+      "posts": 77,
+      "status": "old",
+      "days_left": -30,
+      "scraped_date": "2026-09-30"
+    },
+    {
+      "title": "MP High Court Assistant Grade III Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mp-high-court-assistant-grade-iii-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-17",
+      "application_end": "2026-08-17",
+      "posts": 1174,
+      "status": "old",
+      "days_left": -44,
       "scraped_date": "2026-09-30"
     },
     {
@@ -936,6 +925,28 @@
       "posts": 1673,
       "status": "old",
       "days_left": -607,
+      "scraped_date": "2026-09-30"
+    },
+    {
+      "title": "CSIR CRRI Scientist Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/csir-crri-scientist-online-form-2024/",
+      "notification_date": "2024-12-25",
+      "application_start": "2024-12-26",
+      "application_end": "2025-01-25",
+      "posts": 23,
+      "status": "old",
+      "days_left": -613,
+      "scraped_date": "2026-09-30"
+    },
+    {
+      "title": "Central Bank of India SO Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/central-bank-of-india-so-online-form-2025/",
+      "notification_date": "2024-12-27",
+      "application_start": "2024-12-27",
+      "application_end": "2025-01-12",
+      "posts": 62,
+      "status": "old",
+      "days_left": -626,
       "scraped_date": "2026-09-30"
     },
     {
