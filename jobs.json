@@ -1,30 +1,8 @@
 {
-  "last_updated": "2026-10-01T01:07:59.096072",
+  "last_updated": "2026-10-01T08:27:19.895695",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 90,
   "jobs": [
-    {
-      "title": "UIICL Administrative Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/uiicl-ao-2026/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": "2026-10-01",
-      "posts": 225,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-01"
-    },
-    {
-      "title": "Bank of Baroda SO Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bank-of-baroda-so-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-04",
-      "application_end": "2026-10-01",
-      "posts": 1100,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-01"
-    },
     {
       "title": "UPSC 11/2026 Various Posts Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upsc-11-2026-posts/",
@@ -400,47 +378,25 @@
       "scraped_date": "2026-10-01"
     },
     {
-      "title": "SSC CPO SI CAPF Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/2026-ssc-cpo-si-sep26/",
+      "title": "UIICL Administrative Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/uiicl-ao-2026/",
       "notification_date": null,
-      "application_start": "2026-09-10",
-      "application_end": "2026-09-10",
-      "posts": 1871,
+      "application_start": null,
+      "application_end": "2026-09-08",
+      "posts": 225,
       "status": "old",
-      "days_left": -21,
+      "days_left": -23,
       "scraped_date": "2026-10-01"
     },
     {
-      "title": "NIC Scientific / Technical Assistant Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/nic-scientific-technical-assistant-2026/",
+      "title": "Bank of Baroda SO Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bank-of-baroda-so-2026/",
       "notification_date": null,
-      "application_start": "2026-09-01",
-      "application_end": "2026-09-01",
-      "posts": 376,
+      "application_start": "2026-09-04",
+      "application_end": "2026-09-04",
+      "posts": 1100,
       "status": "old",
-      "days_left": -30,
-      "scraped_date": "2026-10-01"
-    },
-    {
-      "title": "CONCOR MT, Assistant Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/concor-mt-assistant-officer-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-31",
-      "application_end": "2026-08-31",
-      "posts": 77,
-      "status": "old",
-      "days_left": -31,
-      "scraped_date": "2026-10-01"
-    },
-    {
-      "title": "MP High Court Assistant Grade III Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mp-high-court-assistant-grade-iii-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-17",
-      "application_end": "2026-08-17",
-      "posts": 1174,
-      "status": "old",
-      "days_left": -45,
+      "days_left": -27,
       "scraped_date": "2026-10-01"
     },
     {
@@ -719,6 +675,17 @@
       "scraped_date": "2026-10-01"
     },
     {
+      "title": "RSMSSB Paramedical Staff Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/rsmssb-paramedical-staff-online-form-2025/",
+      "notification_date": "2024-12-12",
+      "application_start": "2025-02-18",
+      "application_end": "2025-03-19",
+      "posts": 2626,
+      "status": "old",
+      "days_left": -561,
+      "scraped_date": "2026-10-01"
+    },
+    {
       "title": "Indian Army NCC Special Entry Scheme 58th Course Recruitment 2025",
       "url": "https://sarkariresult.com.cm/indian-army-ncc-special-entry-scheme-58th-course-recruitment-2025/",
       "notification_date": null,
@@ -950,6 +917,17 @@
       "scraped_date": "2026-10-01"
     },
     {
+      "title": "Indian Navy Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/indian-navy-102-b-tech-cadet-entry-july-2025-online-form/",
+      "notification_date": "2024-11-15",
+      "application_start": null,
+      "application_end": "2024-12-20",
+      "posts": 36,
+      "status": "old",
+      "days_left": -650,
+      "scraped_date": "2026-10-01"
+    },
+    {
       "title": "UP Police Jail Warder Recruitment 2025",
       "url": "https://sarkariresult.com.cm/up-police-jail-warder-recruitment-2025/",
       "notification_date": "2025-03-28",
@@ -989,6 +967,28 @@
       "application_start": null,
       "application_end": null,
       "posts": 23753,
+      "status": "unknown",
+      "days_left": null,
+      "scraped_date": "2026-10-01"
+    },
+    {
+      "title": "MAHATRANSCO Various Post Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/mahatransco-various-post-recruitment-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": null,
+      "posts": 504,
+      "status": "unknown",
+      "days_left": null,
+      "scraped_date": "2026-10-01"
+    },
+    {
+      "title": "Bihar Vidhan Sabha DEO, Driver & Various Post Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/bihar-vidhan-sabha-deo-driver-various-post-online-form-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": null,
+      "posts": 183,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-10-01"
