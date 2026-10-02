@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-10-02T01:21:16.038928",
+  "last_updated": "2026-10-02T08:02:59.957423",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 90,
+  "total_jobs": 91,
   "jobs": [
-    {
-      "title": "UPSC 11/2026 Various Posts Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsc-11-2026-posts/",
-      "notification_date": null,
-      "application_start": "2026-09-12",
-      "application_end": "2026-10-02",
-      "posts": 212,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-02"
-    },
     {
       "title": "SBI SCO Wealth & Other Post Recruitment 2026",
       "url": "https://sarkariresult.com.cm/sbi-sco-wealth-other-post-online-form-2026/",
@@ -433,25 +422,25 @@
       "scraped_date": "2026-10-02"
     },
     {
-      "title": "UIICL Administrative Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/uiicl-ao-2026/",
+      "title": "UPSC 11/2026 Various Posts Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upsc-11-2026-posts/",
       "notification_date": null,
-      "application_start": null,
-      "application_end": "2026-09-08",
-      "posts": 225,
+      "application_start": "2026-09-12",
+      "application_end": "2026-09-12",
+      "posts": 212,
       "status": "old",
-      "days_left": -24,
+      "days_left": -20,
       "scraped_date": "2026-10-02"
     },
     {
-      "title": "Bank of Baroda SO Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bank-of-baroda-so-2026/",
+      "title": "MPESB Group 3 Sub Engineer & Other Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mpesb-group-3-sub-engineer-2026/",
       "notification_date": null,
-      "application_start": "2026-09-04",
-      "application_end": "2026-09-04",
-      "posts": 1100,
+      "application_start": "2026-08-29",
+      "application_end": "2026-09-12",
+      "posts": 1700,
       "status": "old",
-      "days_left": -28,
+      "days_left": -20,
       "scraped_date": "2026-10-02"
     },
     {
@@ -730,6 +719,17 @@
       "scraped_date": "2026-10-02"
     },
     {
+      "title": "RSMSSB Paramedical Staff Recruitment 2025",
+      "url": "https://sarkariresult.com.cm/rsmssb-paramedical-staff-online-form-2025/",
+      "notification_date": "2024-12-12",
+      "application_start": "2025-02-18",
+      "application_end": "2025-03-19",
+      "posts": 2626,
+      "status": "old",
+      "days_left": -562,
+      "scraped_date": "2026-10-02"
+    },
+    {
       "title": "Indian Army NCC Special Entry Scheme 58th Course Recruitment 2025",
       "url": "https://sarkariresult.com.cm/indian-army-ncc-special-entry-scheme-58th-course-recruitment-2025/",
       "notification_date": null,
@@ -936,6 +936,17 @@
       "posts": 1673,
       "status": "old",
       "days_left": -609,
+      "scraped_date": "2026-10-02"
+    },
+    {
+      "title": "CSIR CRRI Scientist Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/csir-crri-scientist-online-form-2024/",
+      "notification_date": "2024-12-25",
+      "application_start": "2024-12-26",
+      "application_end": "2025-01-25",
+      "posts": 23,
+      "status": "old",
+      "days_left": -615,
       "scraped_date": "2026-10-02"
     },
     {
