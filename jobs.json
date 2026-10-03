@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T00:13:12.343633",
+  "last_updated": "2026-10-03T06:07:28.511126",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 91,
   "jobs": [
@@ -419,17 +419,6 @@
       "posts": 412,
       "status": "upcoming",
       "days_left": 34,
-      "scraped_date": "2026-10-03"
-    },
-    {
-      "title": "UPSC 11/2026 Various Posts Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsc-11-2026-posts/",
-      "notification_date": null,
-      "application_start": "2026-09-12",
-      "application_end": "2026-09-12",
-      "posts": 212,
-      "status": "old",
-      "days_left": -21,
       "scraped_date": "2026-10-03"
     },
     {
@@ -958,6 +947,17 @@
       "posts": 62,
       "status": "old",
       "days_left": -629,
+      "scraped_date": "2026-10-03"
+    },
+    {
+      "title": "Indian Navy Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/indian-navy-102-b-tech-cadet-entry-july-2025-online-form/",
+      "notification_date": "2024-11-15",
+      "application_start": null,
+      "application_end": "2024-12-20",
+      "posts": 36,
+      "status": "old",
+      "days_left": -652,
       "scraped_date": "2026-10-03"
     },
     {
