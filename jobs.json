@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T08:32:16.992747",
+  "last_updated": "2026-10-05T18:02:20.588944",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 93,
   "jobs": [
@@ -287,6 +287,28 @@
       "posts": 100,
       "status": "open",
       "days_left": 25,
+      "scraped_date": "2026-10-05"
+    },
+    {
+      "title": "CSJMU Kanpur Teaching Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/csjmu-kanpur-teaching-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-26",
+      "application_end": "2026-10-31",
+      "posts": 36,
+      "status": "open",
+      "days_left": 26,
+      "scraped_date": "2026-10-05"
+    },
+    {
+      "title": "IOCL WR Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/iocl-wr-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-05",
+      "application_end": "2026-11-04",
+      "posts": 325,
+      "status": "open",
+      "days_left": 30,
       "scraped_date": "2026-10-05"
     },
     {
@@ -1000,28 +1022,6 @@
       "application_start": null,
       "application_end": null,
       "posts": 23753,
-      "status": "unknown",
-      "days_left": null,
-      "scraped_date": "2026-10-05"
-    },
-    {
-      "title": "MAHATRANSCO Various Post Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/mahatransco-various-post-recruitment-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": null,
-      "posts": 504,
-      "status": "unknown",
-      "days_left": null,
-      "scraped_date": "2026-10-05"
-    },
-    {
-      "title": "Bihar Vidhan Sabha DEO, Driver & Various Post Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/bihar-vidhan-sabha-deo-driver-various-post-online-form-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": null,
-      "posts": 183,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-10-05"
