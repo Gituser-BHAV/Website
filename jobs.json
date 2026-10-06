@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-06T07:16:31.479800",
+  "last_updated": "2026-10-06T14:49:24.329439",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 95,
+  "total_jobs": 94,
   "jobs": [
     {
       "title": "SSC CHSL 10+2 Recruitment 2026",
@@ -213,6 +213,17 @@
       "scraped_date": "2026-10-06"
     },
     {
+      "title": "MP High Court Stenographer & Assistant Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mp-high-court-stenographer-assistant-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-06",
+      "application_end": "2026-10-27",
+      "posts": 418,
+      "status": "open",
+      "days_left": 21,
+      "scraped_date": "2026-10-06"
+    },
+    {
       "title": "ITBP Head Constable (Education & Stress Counsellor) Recruitment 2026",
       "url": "https://sarkariresult.com.cm/itbp-hc-education-stress-counsellor-2026/",
       "notification_date": null,
@@ -257,23 +268,23 @@
       "scraped_date": "2026-10-06"
     },
     {
-      "title": "IOCL WR Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/iocl-wr-apprentice-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-05",
-      "application_end": "2026-11-04",
-      "posts": 325,
-      "status": "open",
-      "days_left": 29,
-      "scraped_date": "2026-10-06"
-    },
-    {
       "title": "DSSSB Delhi District Court Various Post Recruitment 2026",
       "url": "https://sarkariresult.com.cm/delhi-district-court-various-post-2026/",
       "notification_date": null,
       "application_start": "2026-10-06",
       "application_end": "2026-11-04",
       "posts": 641,
+      "status": "open",
+      "days_left": 29,
+      "scraped_date": "2026-10-06"
+    },
+    {
+      "title": "IOCL WR Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/iocl-wr-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-05",
+      "application_end": "2026-11-04",
+      "posts": 325,
       "status": "open",
       "days_left": 29,
       "scraped_date": "2026-10-06"
@@ -323,6 +334,17 @@
       "scraped_date": "2026-10-06"
     },
     {
+      "title": "Indian Army TES 57th Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/indian-army-tes-57th-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-14",
+      "application_end": "2026-11-12",
+      "posts": 90,
+      "status": "upcoming",
+      "days_left": 37,
+      "scraped_date": "2026-10-06"
+    },
+    {
       "title": "UPSSSC Sports Directorate Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upsssc-sports-directorate-2026/",
       "notification_date": null,
@@ -353,6 +375,17 @@
       "posts": 412,
       "status": "upcoming",
       "days_left": 31,
+      "scraped_date": "2026-10-06"
+    },
+    {
+      "title": "IBPS RRB 15th Correction / Edit Form 2026",
+      "url": "https://sarkariresult.com.cm/ibps-rrb-15th-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-01",
+      "application_end": "2026-09-27",
+      "posts": 13706,
+      "status": "old",
+      "days_left": -9,
       "scraped_date": "2026-10-06"
     },
     {
@@ -917,28 +950,6 @@
       "scraped_date": "2026-10-06"
     },
     {
-      "title": "CGPSC State Service Exam SSE Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cgpsc-state-service-exam-sse-recruitment-2024/",
-      "notification_date": null,
-      "application_start": "2024-12-01",
-      "application_end": "2024-12-30",
-      "posts": 246,
-      "status": "old",
-      "days_left": -645,
-      "scraped_date": "2026-10-06"
-    },
-    {
-      "title": "CUH Haryana Non Teaching Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cuh-haryana-non-teaching-online-form-2024/",
-      "notification_date": "2024-11-29",
-      "application_start": null,
-      "application_end": "2024-12-28",
-      "posts": 20,
-      "status": "old",
-      "days_left": -647,
-      "scraped_date": "2026-10-06"
-    },
-    {
       "title": "Indian Navy Recruitment 2024",
       "url": "https://sarkariresult.com.cm/indian-navy-102-b-tech-cadet-entry-july-2025-online-form/",
       "notification_date": "2024-11-15",
@@ -950,17 +961,6 @@
       "scraped_date": "2026-10-06"
     },
     {
-      "title": "National Co-Operative Bank (NCBL) Clerk Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/national-bank-ncbl-clerk-recruitment-2024/",
-      "notification_date": "2024-12-04",
-      "application_start": null,
-      "application_end": "2024-12-18",
-      "posts": 15,
-      "status": "old",
-      "days_left": -657,
-      "scraped_date": "2026-10-06"
-    },
-    {
       "title": "Railway RRC NWR Apprentice Online Form 2024 - Last Date Today",
       "url": "https://sarkariresult.com.cm/railway-rrc-nwr-apprentice-recruitment-2024/",
       "notification_date": null,
@@ -969,17 +969,6 @@
       "posts": 1791,
       "status": "old",
       "days_left": -665,
-      "scraped_date": "2026-10-06"
-    },
-    {
-      "title": "SSC Junior Engineer JE Option Form 2024",
-      "url": "https://sarkariresult.com.cm/ssc-junior-engineer-je-option-form-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": "2024-04-19",
-      "posts": 1765,
-      "status": "old",
-      "days_left": -900,
       "scraped_date": "2026-10-06"
     },
     {
