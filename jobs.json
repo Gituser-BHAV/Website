@@ -1,41 +1,8 @@
 {
-  "last_updated": "2026-10-06T00:38:16.730168",
+  "last_updated": "2026-10-06T07:16:31.479800",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 93,
+  "total_jobs": 95,
   "jobs": [
-    {
-      "title": "MPESB MP Police Constable Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/2026-mp-police-constable-sep26/",
-      "notification_date": null,
-      "application_start": "2026-09-22",
-      "application_end": "2026-10-06",
-      "posts": 7500,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-06"
-    },
-    {
-      "title": "IBPS Hindi Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/ibps-hindi-officer-sep26/",
-      "notification_date": null,
-      "application_start": "2026-09-23",
-      "application_end": "2026-10-06",
-      "posts": 2026,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-06"
-    },
-    {
-      "title": "UPSC Engineering Services Pre Recruitment 2027",
-      "url": "https://sarkariresult.com.cm/upsc-engineering-services-pre-2027/",
-      "notification_date": null,
-      "application_start": "2026-09-16",
-      "application_end": "2026-10-06",
-      "posts": 480,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-06"
-    },
     {
       "title": "SSC CHSL 10+2 Recruitment 2026",
       "url": "https://sarkariresult.com.cm/ssc-chsl-sep-2026/",
@@ -389,36 +356,36 @@
       "scraped_date": "2026-10-06"
     },
     {
-      "title": "UPSSSC Veterinary Pharmacist Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-veterinary-pharmacist-2026/",
+      "title": "IBPS Hindi Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/ibps-hindi-officer-sep26/",
       "notification_date": null,
-      "application_start": "2026-09-14",
-      "application_end": "2026-10-05",
-      "posts": 1308,
+      "application_start": "2026-09-23",
+      "application_end": "2026-09-23",
+      "posts": 2026,
       "status": "old",
-      "days_left": -1,
+      "days_left": -13,
       "scraped_date": "2026-10-06"
     },
     {
-      "title": "NTPC Assistant Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/ntpc-assistant-officer-2026/",
+      "title": "MPESB MP Police Constable Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/2026-mp-police-constable-sep26/",
       "notification_date": null,
-      "application_start": "2026-09-21",
-      "application_end": "2026-09-21",
-      "posts": 15,
+      "application_start": "2026-09-22",
+      "application_end": "2026-09-22",
+      "posts": 7500,
       "status": "old",
-      "days_left": -15,
+      "days_left": -14,
       "scraped_date": "2026-10-06"
     },
     {
-      "title": "UPSSSC Senior Instructor Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-senior-instructor-21-2026/",
+      "title": "UPSC Engineering Services Pre Recruitment 2027",
+      "url": "https://sarkariresult.com.cm/upsc-engineering-services-pre-2027/",
       "notification_date": null,
-      "application_start": "2026-09-14",
-      "application_end": "2026-09-14",
-      "posts": 132,
+      "application_start": "2026-09-16",
+      "application_end": "2026-09-16",
+      "posts": 480,
       "status": "old",
-      "days_left": -22,
+      "days_left": -20,
       "scraped_date": "2026-10-06"
     },
     {
@@ -430,28 +397,6 @@
       "posts": 1700,
       "status": "old",
       "days_left": -24,
-      "scraped_date": "2026-10-06"
-    },
-    {
-      "title": "SBI SCO Wealth & Other Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/sbi-sco-wealth-other-post-online-form-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-04",
-      "application_end": "2026-09-04",
-      "posts": 207,
-      "status": "old",
-      "days_left": -32,
-      "scraped_date": "2026-10-06"
-    },
-    {
-      "title": "MPESB Primary and Secondary Teachers MSPSTET Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mpesb-primary-and-secondary-teachers-mspstet-2026/",
-      "notification_date": null,
-      "application_start": "2026-08-21",
-      "application_end": "2026-08-21",
-      "posts": 2026,
-      "status": "old",
-      "days_left": -46,
       "scraped_date": "2026-10-06"
     },
     {
@@ -972,6 +917,28 @@
       "scraped_date": "2026-10-06"
     },
     {
+      "title": "CGPSC State Service Exam SSE Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/cgpsc-state-service-exam-sse-recruitment-2024/",
+      "notification_date": null,
+      "application_start": "2024-12-01",
+      "application_end": "2024-12-30",
+      "posts": 246,
+      "status": "old",
+      "days_left": -645,
+      "scraped_date": "2026-10-06"
+    },
+    {
+      "title": "CUH Haryana Non Teaching Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/cuh-haryana-non-teaching-online-form-2024/",
+      "notification_date": "2024-11-29",
+      "application_start": null,
+      "application_end": "2024-12-28",
+      "posts": 20,
+      "status": "old",
+      "days_left": -647,
+      "scraped_date": "2026-10-06"
+    },
+    {
       "title": "Indian Navy Recruitment 2024",
       "url": "https://sarkariresult.com.cm/indian-navy-102-b-tech-cadet-entry-july-2025-online-form/",
       "notification_date": "2024-11-15",
@@ -980,6 +947,39 @@
       "posts": 36,
       "status": "old",
       "days_left": -655,
+      "scraped_date": "2026-10-06"
+    },
+    {
+      "title": "National Co-Operative Bank (NCBL) Clerk Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/national-bank-ncbl-clerk-recruitment-2024/",
+      "notification_date": "2024-12-04",
+      "application_start": null,
+      "application_end": "2024-12-18",
+      "posts": 15,
+      "status": "old",
+      "days_left": -657,
+      "scraped_date": "2026-10-06"
+    },
+    {
+      "title": "Railway RRC NWR Apprentice Online Form 2024 - Last Date Today",
+      "url": "https://sarkariresult.com.cm/railway-rrc-nwr-apprentice-recruitment-2024/",
+      "notification_date": null,
+      "application_start": "2024-11-10",
+      "application_end": "2024-12-10",
+      "posts": 1791,
+      "status": "old",
+      "days_left": -665,
+      "scraped_date": "2026-10-06"
+    },
+    {
+      "title": "SSC Junior Engineer JE Option Form 2024",
+      "url": "https://sarkariresult.com.cm/ssc-junior-engineer-je-option-form-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": "2024-04-19",
+      "posts": 1765,
+      "status": "old",
+      "days_left": -900,
       "scraped_date": "2026-10-06"
     },
     {
@@ -1022,6 +1022,28 @@
       "application_start": null,
       "application_end": null,
       "posts": 23753,
+      "status": "unknown",
+      "days_left": null,
+      "scraped_date": "2026-10-06"
+    },
+    {
+      "title": "MAHATRANSCO Various Post Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/mahatransco-various-post-recruitment-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": null,
+      "posts": 504,
+      "status": "unknown",
+      "days_left": null,
+      "scraped_date": "2026-10-06"
+    },
+    {
+      "title": "Bihar Vidhan Sabha DEO, Driver & Various Post Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/bihar-vidhan-sabha-deo-driver-various-post-online-form-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": null,
+      "posts": 183,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-10-06"
