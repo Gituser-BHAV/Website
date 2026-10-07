@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T06:55:52.110727",
+  "last_updated": "2026-10-07T14:17:12.314934",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 94,
   "jobs": [
@@ -273,7 +273,7 @@
       "notification_date": null,
       "application_start": "2026-10-08",
       "application_end": "2026-11-06",
-      "posts": 3477,
+      "posts": 3548,
       "status": "upcoming",
       "days_left": 30,
       "scraped_date": "2026-10-07"
@@ -298,6 +298,17 @@
       "posts": 108,
       "status": "upcoming",
       "days_left": 28,
+      "scraped_date": "2026-10-07"
+    },
+    {
+      "title": "MPESB MP Police Constable Driver Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mp-police-constable-driver-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-15",
+      "application_end": "2026-10-29",
+      "posts": 1000,
+      "status": "upcoming",
+      "days_left": 22,
       "scraped_date": "2026-10-07"
     },
     {
@@ -914,17 +925,6 @@
       "posts": 62,
       "status": "old",
       "days_left": -633,
-      "scraped_date": "2026-10-07"
-    },
-    {
-      "title": "CUH Haryana Non Teaching Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cuh-haryana-non-teaching-online-form-2024/",
-      "notification_date": "2024-11-29",
-      "application_start": null,
-      "application_end": "2024-12-28",
-      "posts": 20,
-      "status": "old",
-      "days_left": -648,
       "scraped_date": "2026-10-07"
     },
     {
