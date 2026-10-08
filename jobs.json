@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T07:03:32.371101",
+  "last_updated": "2026-10-08T15:18:24.109105",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 94,
   "jobs": [
@@ -180,6 +180,17 @@
       "scraped_date": "2026-10-08"
     },
     {
+      "title": "NICL Administrative Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/nicl-ao-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-08",
+      "application_end": "2026-10-28",
+      "posts": 321,
+      "status": "open",
+      "days_left": 20,
+      "scraped_date": "2026-10-08"
+    },
+    {
       "title": "Supreme Court of India Junior Court Assistant Recruitment 2026",
       "url": "https://sarkariresult.com.cm/supreme-court-junior-court-assistant-2026/",
       "notification_date": null,
@@ -290,17 +301,6 @@
       "scraped_date": "2026-10-08"
     },
     {
-      "title": "MPESB MP Police Constable Driver Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mp-police-constable-driver-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-15",
-      "application_end": "2026-10-29",
-      "posts": 1000,
-      "status": "upcoming",
-      "days_left": 21,
-      "scraped_date": "2026-10-08"
-    },
-    {
       "title": "RRB NTPC 10+2 UG Recruitment 2026",
       "url": "https://sarkariresult.com.cm/rrb-ntpc-inter-level-07-2026/",
       "notification_date": null,
@@ -309,6 +309,17 @@
       "posts": 1688,
       "status": "upcoming",
       "days_left": 36,
+      "scraped_date": "2026-10-08"
+    },
+    {
+      "title": "MPESB MP Police Constable Driver Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/mp-police-constable-driver-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-15",
+      "application_end": "2026-10-29",
+      "posts": 1000,
+      "status": "upcoming",
+      "days_left": 21,
       "scraped_date": "2026-10-08"
     },
     {
@@ -1022,17 +1033,6 @@
       "application_start": null,
       "application_end": null,
       "posts": 183,
-      "status": "unknown",
-      "days_left": null,
-      "scraped_date": "2026-10-08"
-    },
-    {
-      "title": "Central Bank of India Specialist Officer (SO) Online Form 2024",
-      "url": "https://sarkariresult.com.cm/central-bank-of-india-specialist-officer-so-recruitment-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": null,
-      "posts": 253,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-10-08"
