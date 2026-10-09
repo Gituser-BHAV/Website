@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T01:47:11.276048",
+  "last_updated": "2026-10-09T08:35:01.592260",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 94,
   "jobs": [
@@ -353,17 +353,6 @@
       "posts": 13706,
       "status": "old",
       "days_left": -12,
-      "scraped_date": "2026-10-09"
-    },
-    {
-      "title": "MPESB Subedar Steno, ASI Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mpesb-subedar-steno-asi-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-24",
-      "application_end": "2026-09-24",
-      "posts": 655,
-      "status": "old",
-      "days_left": -15,
       "scraped_date": "2026-10-09"
     },
     {
@@ -1033,6 +1022,17 @@
       "application_start": null,
       "application_end": null,
       "posts": 183,
+      "status": "unknown",
+      "days_left": null,
+      "scraped_date": "2026-10-09"
+    },
+    {
+      "title": "Central Bank of India Specialist Officer (SO) Online Form 2024",
+      "url": "https://sarkariresult.com.cm/central-bank-of-india-specialist-officer-so-recruitment-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": null,
+      "posts": 253,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-10-09"
