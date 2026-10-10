@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-10-10T00:31:48.229993",
+  "last_updated": "2026-10-10T06:44:50.135650",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 94,
   "jobs": [
-    {
-      "title": "BPSSC Bihar Police Company Commander Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bihar-police-company-commander-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-10",
-      "application_end": "2026-10-10",
-      "posts": 65,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-10"
-    },
     {
       "title": "Rajasthan Safai Karmchari Recruitment 2026",
       "url": "https://sarkariresult.com.cm/rajasthan-safai-karmchari-2026/",
@@ -364,6 +353,17 @@
       "posts": 1700,
       "status": "old",
       "days_left": -28,
+      "scraped_date": "2026-10-10"
+    },
+    {
+      "title": "BPSSC Bihar Police Company Commander Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bihar-police-company-commander-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-10",
+      "application_end": "2026-09-10",
+      "posts": 65,
+      "status": "old",
+      "days_left": -30,
       "scraped_date": "2026-10-10"
     },
     {
