@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T01:36:37.966071",
+  "last_updated": "2026-10-11T08:24:12.430926",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 93,
   "jobs": [
@@ -353,17 +353,6 @@
       "posts": 1700,
       "status": "old",
       "days_left": -29,
-      "scraped_date": "2026-10-11"
-    },
-    {
-      "title": "BPSSC Bihar Police Company Commander Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bihar-police-company-commander-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-10",
-      "application_end": "2026-09-10",
-      "posts": 65,
-      "status": "old",
-      "days_left": -31,
       "scraped_date": "2026-10-11"
     },
     {
@@ -1022,6 +1011,17 @@
       "application_start": null,
       "application_end": null,
       "posts": 183,
+      "status": "unknown",
+      "days_left": null,
+      "scraped_date": "2026-10-11"
+    },
+    {
+      "title": "Central Bank of India Specialist Officer (SO) Online Form 2024",
+      "url": "https://sarkariresult.com.cm/central-bank-of-india-specialist-officer-so-recruitment-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": null,
+      "posts": 253,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-10-11"
