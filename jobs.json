@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T07:13:47.853697",
+  "last_updated": "2026-10-14T13:23:52.300525",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 93,
   "jobs": [
@@ -298,6 +298,17 @@
       "posts": 412,
       "status": "upcoming",
       "days_left": 23,
+      "scraped_date": "2026-10-14"
+    },
+    {
+      "title": "Supreme Court SCI Court Assistant Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/supreme-court-assistant-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-03",
+      "application_end": "2026-11-24",
+      "posts": 15,
+      "status": "upcoming",
+      "days_left": 41,
       "scraped_date": "2026-10-14"
     },
     {
@@ -881,17 +892,6 @@
       "posts": 62,
       "status": "old",
       "days_left": -640,
-      "scraped_date": "2026-10-14"
-    },
-    {
-      "title": "HP High Court Shimla Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/hp-high-court-shimla-various-post-online-form-2024/",
-      "notification_date": "2024-11-30",
-      "application_start": "2024-11-30",
-      "application_end": "2024-12-31",
-      "posts": 187,
-      "status": "old",
-      "days_left": -652,
       "scraped_date": "2026-10-14"
     },
     {
