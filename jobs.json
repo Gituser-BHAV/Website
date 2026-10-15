@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T13:09:52.404025",
+  "last_updated": "2026-10-15T18:04:47.114734",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 93,
   "jobs": [
@@ -122,6 +122,17 @@
       "posts": 16,
       "status": "open",
       "days_left": 12,
+      "scraped_date": "2026-10-15"
+    },
+    {
+      "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upessc-prt-assistant-teacher-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-16",
+      "application_end": "2026-10-28",
+      "posts": 12405,
+      "status": "open",
+      "days_left": 13,
       "scraped_date": "2026-10-15"
     },
     {
@@ -342,17 +353,6 @@
       "posts": 13706,
       "status": "old",
       "days_left": -18,
-      "scraped_date": "2026-10-15"
-    },
-    {
-      "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upessc-prt-assistant-teacher-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-16",
-      "application_end": "2026-09-16",
-      "posts": 12405,
-      "status": "old",
-      "days_left": -29,
       "scraped_date": "2026-10-15"
     },
     {
