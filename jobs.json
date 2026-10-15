@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-10-15T01:16:42.000875",
+  "last_updated": "2026-10-15T07:05:40.280097",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 93,
   "jobs": [
-    {
-      "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upessc-prt-assistant-teacher-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-16",
-      "application_end": "2026-10-15",
-      "posts": 12405,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-15"
-    },
     {
       "title": "Canara Bank Apprentice Recruitment 2026",
       "url": "https://sarkariresult.com.cm/canara-bank-apprentice-2026/",
@@ -202,6 +191,17 @@
       "scraped_date": "2026-10-15"
     },
     {
+      "title": "UPSSSC Sports Directorate Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upsssc-sports-directorate-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-14",
+      "application_end": "2026-11-04",
+      "posts": 108,
+      "status": "open",
+      "days_left": 20,
+      "scraped_date": "2026-10-15"
+    },
+    {
       "title": "DSSSB Delhi District Court Various Post Recruitment 2026",
       "url": "https://sarkariresult.com.cm/delhi-district-court-various-post-2026/",
       "notification_date": null,
@@ -219,17 +219,6 @@
       "application_start": "2026-10-05",
       "application_end": "2026-11-04",
       "posts": 325,
-      "status": "open",
-      "days_left": 20,
-      "scraped_date": "2026-10-15"
-    },
-    {
-      "title": "UPSSSC Sports Directorate Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-sports-directorate-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-14",
-      "application_end": "2026-11-04",
-      "posts": 108,
       "status": "open",
       "days_left": 20,
       "scraped_date": "2026-10-15"
@@ -356,14 +345,14 @@
       "scraped_date": "2026-10-15"
     },
     {
-      "title": "RRB Paramedical Staff Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rrb-paramedical-staff-05-2026/",
+      "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upessc-prt-assistant-teacher-2026/",
       "notification_date": null,
-      "application_start": "2026-09-15",
-      "application_end": "2026-09-15",
-      "posts": 590,
+      "application_start": "2026-09-16",
+      "application_end": "2026-09-16",
+      "posts": 12405,
       "status": "old",
-      "days_left": -30,
+      "days_left": -29,
       "scraped_date": "2026-10-15"
     },
     {
@@ -892,6 +881,17 @@
       "posts": 62,
       "status": "old",
       "days_left": -641,
+      "scraped_date": "2026-10-15"
+    },
+    {
+      "title": "HP High Court Shimla Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/hp-high-court-shimla-various-post-online-form-2024/",
+      "notification_date": "2024-11-30",
+      "application_start": "2024-11-30",
+      "application_end": "2024-12-31",
+      "posts": 187,
+      "status": "old",
+      "days_left": -653,
       "scraped_date": "2026-10-15"
     },
     {
