@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-10-16T10:54:55.355793",
+  "last_updated": "2026-10-16T15:17:15.036577",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 93,
+  "total_jobs": 92,
   "jobs": [
-    {
-      "title": "Canara Bank Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/canara-bank-apprentice-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-01",
-      "application_end": "2026-10-17",
-      "posts": 3500,
-      "status": "critical",
-      "days_left": 1,
-      "scraped_date": "2026-10-16"
-    },
     {
       "title": "UP PGT Teacher Recruitment 2026",
       "url": "https://sarkariresult.com.cm/up-pgt-teacher-2026/",
@@ -21,6 +10,17 @@
       "application_start": "2026-09-18",
       "application_end": "2026-10-17",
       "posts": 2607,
+      "status": "critical",
+      "days_left": 1,
+      "scraped_date": "2026-10-16"
+    },
+    {
+      "title": "Canara Bank Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/canara-bank-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-01",
+      "application_end": "2026-10-17",
+      "posts": 3500,
       "status": "critical",
       "days_left": 1,
       "scraped_date": "2026-10-16"
@@ -246,23 +246,23 @@
       "scraped_date": "2026-10-16"
     },
     {
-      "title": "Railway RRC NWR Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rrc-nwr-apprentice-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-07",
-      "application_end": "2026-11-06",
-      "posts": 2008,
-      "status": "open",
-      "days_left": 21,
-      "scraped_date": "2026-10-16"
-    },
-    {
       "title": "UPSSSC Regional Youth Welfare Officer Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upsssc-regional-youth-welfare-officer-2026/",
       "notification_date": null,
       "application_start": "2026-10-16",
       "application_end": "2026-11-06",
       "posts": 412,
+      "status": "open",
+      "days_left": 21,
+      "scraped_date": "2026-10-16"
+    },
+    {
+      "title": "Railway RRC NWR Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rrc-nwr-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-07",
+      "application_end": "2026-11-06",
+      "posts": 2008,
       "status": "open",
       "days_left": 21,
       "scraped_date": "2026-10-16"
@@ -331,6 +331,17 @@
       "posts": 380,
       "status": "upcoming",
       "days_left": 42,
+      "scraped_date": "2026-10-16"
+    },
+    {
+      "title": "UPSSSC Inter (12th) Level Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upsssc-inter-12th-level-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-10",
+      "application_end": "2026-12-01",
+      "posts": 1784,
+      "status": "upcoming",
+      "days_left": 46,
       "scraped_date": "2026-10-16"
     },
     {
@@ -881,28 +892,6 @@
       "posts": 62,
       "status": "old",
       "days_left": -642,
-      "scraped_date": "2026-10-16"
-    },
-    {
-      "title": "HP High Court Shimla Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/hp-high-court-shimla-various-post-online-form-2024/",
-      "notification_date": "2024-11-30",
-      "application_start": "2024-11-30",
-      "application_end": "2024-12-31",
-      "posts": 187,
-      "status": "old",
-      "days_left": -654,
-      "scraped_date": "2026-10-16"
-    },
-    {
-      "title": "CGPSC State Service Exam SSE Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cgpsc-state-service-exam-sse-recruitment-2024/",
-      "notification_date": null,
-      "application_start": "2024-12-01",
-      "application_end": "2024-12-30",
-      "posts": 246,
-      "status": "old",
-      "days_left": -655,
       "scraped_date": "2026-10-16"
     },
     {
