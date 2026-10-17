@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T06:41:42.238617",
+  "last_updated": "2026-10-17T11:27:55.339616",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 92,
   "jobs": [
@@ -78,6 +78,17 @@
       "posts": 33320,
       "status": "open",
       "days_left": 9,
+      "scraped_date": "2026-10-17"
+    },
+    {
+      "title": "SIB Junior Officer (Operations) Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/sib-junior-officer-operations-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-16",
+      "application_end": "2026-10-27",
+      "posts": 2026,
+      "status": "open",
+      "days_left": 10,
       "scraped_date": "2026-10-17"
     },
     {
@@ -265,6 +276,17 @@
       "posts": 1688,
       "status": "open",
       "days_left": 27,
+      "scraped_date": "2026-10-17"
+    },
+    {
+      "title": "CWC Assistant Manager & Junior Executive Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/cwc-assistant-manager-junior-executive-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-17",
+      "application_end": "2026-11-15",
+      "posts": 327,
+      "status": "open",
+      "days_left": 29,
       "scraped_date": "2026-10-17"
     },
     {
@@ -917,17 +939,6 @@
       "scraped_date": "2026-10-17"
     },
     {
-      "title": "National Co-Operative Bank (NCBL) Clerk Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/national-bank-ncbl-clerk-recruitment-2024/",
-      "notification_date": "2024-12-04",
-      "application_start": null,
-      "application_end": "2024-12-18",
-      "posts": 15,
-      "status": "old",
-      "days_left": -668,
-      "scraped_date": "2026-10-17"
-    },
-    {
       "title": "Railway RRC NWR Apprentice Online Form 2024 - Last Date Today",
       "url": "https://sarkariresult.com.cm/railway-rrc-nwr-apprentice-recruitment-2024/",
       "notification_date": null,
@@ -936,17 +947,6 @@
       "posts": 1791,
       "status": "old",
       "days_left": -676,
-      "scraped_date": "2026-10-17"
-    },
-    {
-      "title": "SSC Junior Engineer JE Option Form 2024",
-      "url": "https://sarkariresult.com.cm/ssc-junior-engineer-je-option-form-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": "2024-04-19",
-      "posts": 1765,
-      "status": "old",
-      "days_left": -911,
       "scraped_date": "2026-10-17"
     },
     {
