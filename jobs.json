@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-10-18T03:28:40.628260",
+  "last_updated": "2026-10-18T08:39:07.997789",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 92,
   "jobs": [
-    {
-      "title": "JSSC Para Teacher JTAACCE Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/jssc-para-teacher-jtaacce-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-29",
-      "application_end": "2026-10-18",
-      "posts": 7299,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-18"
-    },
     {
       "title": "HPSC Food Safety Officer (FSO) Recruitment 2026",
       "url": "https://sarkariresult.com.cm/hpsc-fso-2026/",
@@ -356,14 +345,14 @@
       "scraped_date": "2026-10-18"
     },
     {
-      "title": "Canara Bank Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/canara-bank-apprentice-2026/",
+      "title": "JSSC Para Teacher JTAACCE Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/jssc-para-teacher-jtaacce-2026/",
       "notification_date": null,
-      "application_start": "2026-10-01",
-      "application_end": "2026-10-01",
-      "posts": 3500,
+      "application_start": "2026-09-29",
+      "application_end": "2026-09-29",
+      "posts": 7299,
       "status": "old",
-      "days_left": -17,
+      "days_left": -19,
       "scraped_date": "2026-10-18"
     },
     {
@@ -375,17 +364,6 @@
       "posts": 13706,
       "status": "old",
       "days_left": -21,
-      "scraped_date": "2026-10-18"
-    },
-    {
-      "title": "UP PGT Teacher Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/up-pgt-teacher-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-18",
-      "application_end": "2026-09-18",
-      "posts": 2607,
-      "status": "old",
-      "days_left": -30,
       "scraped_date": "2026-10-18"
     },
     {
@@ -939,6 +917,17 @@
       "scraped_date": "2026-10-18"
     },
     {
+      "title": "National Co-Operative Bank (NCBL) Clerk Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/national-bank-ncbl-clerk-recruitment-2024/",
+      "notification_date": "2024-12-04",
+      "application_start": null,
+      "application_end": "2024-12-18",
+      "posts": 15,
+      "status": "old",
+      "days_left": -669,
+      "scraped_date": "2026-10-18"
+    },
+    {
       "title": "Railway RRC NWR Apprentice Online Form 2024 - Last Date Today",
       "url": "https://sarkariresult.com.cm/railway-rrc-nwr-apprentice-recruitment-2024/",
       "notification_date": null,
@@ -947,6 +936,17 @@
       "posts": 1791,
       "status": "old",
       "days_left": -677,
+      "scraped_date": "2026-10-18"
+    },
+    {
+      "title": "SSC Junior Engineer JE Option Form 2024",
+      "url": "https://sarkariresult.com.cm/ssc-junior-engineer-je-option-form-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": "2024-04-19",
+      "posts": 1765,
+      "status": "old",
+      "days_left": -912,
       "scraped_date": "2026-10-18"
     },
     {
