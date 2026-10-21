@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T01:22:01.223759",
+  "last_updated": "2026-10-21T07:12:06.086013",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 92,
   "jobs": [
@@ -323,17 +323,6 @@
       "scraped_date": "2026-10-21"
     },
     {
-      "title": "UP PGT Teacher Correction / Edit Form 2026",
-      "url": "https://sarkariresult.com.cm/up-pgt-teacher-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-18",
-      "application_end": "2026-10-17",
-      "posts": 2607,
-      "status": "old",
-      "days_left": -4,
-      "scraped_date": "2026-10-21"
-    },
-    {
       "title": "SSC CHSL 10+2 Recruitment 2026",
       "url": "https://sarkariresult.com.cm/ssc-chsl-sep-2026/",
       "notification_date": null,
@@ -353,6 +342,17 @@
       "posts": 13706,
       "status": "old",
       "days_left": -24,
+      "scraped_date": "2026-10-21"
+    },
+    {
+      "title": "UP PGT Teacher Correction / Edit Form 2026",
+      "url": "https://sarkariresult.com.cm/up-pgt-teacher-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-18",
+      "application_end": "2026-09-18",
+      "posts": 2607,
+      "status": "old",
+      "days_left": -33,
       "scraped_date": "2026-10-21"
     },
     {
