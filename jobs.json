@@ -1,30 +1,8 @@
 {
-  "last_updated": "2026-10-22T01:19:11.057633",
+  "last_updated": "2026-10-22T07:14:37.339750",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 91,
+  "total_jobs": 92,
   "jobs": [
-    {
-      "title": "Indian Army Dental Corps Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/indian-army-dental-corp-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-22",
-      "application_end": "2026-10-22",
-      "posts": 37,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-22"
-    },
-    {
-      "title": "UKSSSC Group C Scaler Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/uksssc-group-c-scaler-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-22",
-      "application_end": "2026-10-22",
-      "posts": 200,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-22"
-    },
     {
       "title": "Bihar BTSC Touring Veterinary Officer Recruitment 2026",
       "url": "https://sarkariresult.com.cm/bihar-touring-veterinary-officer-2026/",
@@ -323,6 +301,17 @@
       "scraped_date": "2026-10-22"
     },
     {
+      "title": "Railway RRB Isolated Categories Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rrb-isolated-categories-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-05",
+      "application_end": "2026-12-04",
+      "posts": 195,
+      "status": "upcoming",
+      "days_left": 43,
+      "scraped_date": "2026-10-22"
+    },
+    {
       "title": "UPSSSC Junior Engineer JE (Electrical) Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upsssc-junior-engineer-je-electrical-2026/",
       "notification_date": null,
@@ -345,6 +334,17 @@
       "scraped_date": "2026-10-22"
     },
     {
+      "title": "HPSC Food Safety Officer (FSO) Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/hpsc-fso-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-28",
+      "application_end": "2026-10-19",
+      "posts": 45,
+      "status": "old",
+      "days_left": -3,
+      "scraped_date": "2026-10-22"
+    },
+    {
       "title": "IBPS RRB 15th Correction / Edit Form 2026",
       "url": "https://sarkariresult.com.cm/ibps-rrb-15th-2026/",
       "notification_date": null,
@@ -356,14 +356,25 @@
       "scraped_date": "2026-10-22"
     },
     {
-      "title": "UP PGT Teacher Correction / Edit Form 2026",
-      "url": "https://sarkariresult.com.cm/up-pgt-teacher-2026/",
+      "title": "Indian Army Dental Corps Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/indian-army-dental-corp-2026/",
       "notification_date": null,
-      "application_start": "2026-09-18",
-      "application_end": "2026-09-18",
-      "posts": 2607,
+      "application_start": "2026-09-22",
+      "application_end": "2026-09-22",
+      "posts": 37,
       "status": "old",
-      "days_left": -34,
+      "days_left": -30,
+      "scraped_date": "2026-10-22"
+    },
+    {
+      "title": "UKSSSC Group C Scaler Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/uksssc-group-c-scaler-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-22",
+      "application_end": "2026-09-22",
+      "posts": 200,
+      "status": "old",
+      "days_left": -30,
       "scraped_date": "2026-10-22"
     },
     {
