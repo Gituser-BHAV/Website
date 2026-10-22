@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T07:14:37.339750",
+  "last_updated": "2026-10-22T13:33:49.000435",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 92,
   "jobs": [
@@ -243,6 +243,17 @@
       "posts": 327,
       "status": "open",
       "days_left": 24,
+      "scraped_date": "2026-10-22"
+    },
+    {
+      "title": "BHEL Artisan Various Trade Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bhel-artisan-various-trade-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-21",
+      "application_end": "2026-11-18",
+      "posts": 660,
+      "status": "open",
+      "days_left": 27,
       "scraped_date": "2026-10-22"
     },
     {
@@ -936,17 +947,6 @@
       "posts": 1791,
       "status": "old",
       "days_left": -681,
-      "scraped_date": "2026-10-22"
-    },
-    {
-      "title": "SSC Junior Engineer JE Option Form 2024",
-      "url": "https://sarkariresult.com.cm/ssc-junior-engineer-je-option-form-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": "2024-04-19",
-      "posts": 1765,
-      "status": "old",
-      "days_left": -916,
       "scraped_date": "2026-10-22"
     },
     {
