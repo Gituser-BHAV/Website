@@ -1,30 +1,8 @@
 {
-  "last_updated": "2026-10-23T01:18:12.761273",
+  "last_updated": "2026-10-23T07:06:19.602079",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 92,
   "jobs": [
-    {
-      "title": "Bihar BTSC Touring Veterinary Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bihar-touring-veterinary-officer-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-24",
-      "application_end": "2026-10-23",
-      "posts": 787,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-23"
-    },
-    {
-      "title": "Bihar BTSC Fishery Extension Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bihar-fishery-extension-officer-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-24",
-      "application_end": "2026-10-23",
-      "posts": 231,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-23"
-    },
     {
       "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
       "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
@@ -367,25 +345,25 @@
       "scraped_date": "2026-10-23"
     },
     {
-      "title": "Indian Army Dental Corps Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/indian-army-dental-corp-2026/",
+      "title": "Bihar BTSC Touring Veterinary Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bihar-touring-veterinary-officer-2026/",
       "notification_date": null,
-      "application_start": "2026-09-22",
-      "application_end": "2026-09-22",
-      "posts": 37,
+      "application_start": "2026-09-24",
+      "application_end": "2026-09-24",
+      "posts": 787,
       "status": "old",
-      "days_left": -31,
+      "days_left": -29,
       "scraped_date": "2026-10-23"
     },
     {
-      "title": "UKSSSC Group C Scaler Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/uksssc-group-c-scaler-2026/",
+      "title": "Bihar BTSC Fishery Extension Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bihar-fishery-extension-officer-2026/",
       "notification_date": null,
-      "application_start": "2026-09-22",
-      "application_end": "2026-09-22",
-      "posts": 200,
+      "application_start": "2026-09-24",
+      "application_end": "2026-09-24",
+      "posts": 231,
       "status": "old",
-      "days_left": -31,
+      "days_left": -29,
       "scraped_date": "2026-10-23"
     },
     {
@@ -939,6 +917,17 @@
       "scraped_date": "2026-10-23"
     },
     {
+      "title": "National Co-Operative Bank (NCBL) Clerk Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/national-bank-ncbl-clerk-recruitment-2024/",
+      "notification_date": "2024-12-04",
+      "application_start": null,
+      "application_end": "2024-12-18",
+      "posts": 15,
+      "status": "old",
+      "days_left": -674,
+      "scraped_date": "2026-10-23"
+    },
+    {
       "title": "Railway RRC NWR Apprentice Online Form 2024 - Last Date Today",
       "url": "https://sarkariresult.com.cm/railway-rrc-nwr-apprentice-recruitment-2024/",
       "notification_date": null,
@@ -947,6 +936,17 @@
       "posts": 1791,
       "status": "old",
       "days_left": -682,
+      "scraped_date": "2026-10-23"
+    },
+    {
+      "title": "SSC Junior Engineer JE Option Form 2024",
+      "url": "https://sarkariresult.com.cm/ssc-junior-engineer-je-option-form-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": "2024-04-19",
+      "posts": 1765,
+      "status": "old",
+      "days_left": -917,
       "scraped_date": "2026-10-23"
     },
     {
