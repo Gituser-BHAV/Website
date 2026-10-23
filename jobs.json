@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-23T18:09:24.861849",
+  "last_updated": "2026-10-23T21:54:03.415354",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 91,
+  "total_jobs": 92,
   "jobs": [
     {
       "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
@@ -914,6 +914,17 @@
       "posts": 36,
       "status": "old",
       "days_left": -672,
+      "scraped_date": "2026-10-23"
+    },
+    {
+      "title": "National Co-Operative Bank (NCBL) Clerk Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/national-bank-ncbl-clerk-recruitment-2024/",
+      "notification_date": "2024-12-04",
+      "application_start": null,
+      "application_end": "2024-12-18",
+      "posts": 15,
+      "status": "old",
+      "days_left": -674,
       "scraped_date": "2026-10-23"
     },
     {
