@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T00:20:30.251000",
+  "last_updated": "2026-10-24T05:29:01.204786",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 92,
   "jobs": [
@@ -323,6 +323,28 @@
       "scraped_date": "2026-10-24"
     },
     {
+      "title": "Bihar BTSC Touring Veterinary Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bihar-touring-veterinary-officer-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-24",
+      "application_end": "2026-10-23",
+      "posts": 787,
+      "status": "old",
+      "days_left": -1,
+      "scraped_date": "2026-10-24"
+    },
+    {
+      "title": "Bihar BTSC Fishery Extension Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bihar-fishery-extension-officer-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-24",
+      "application_end": "2026-10-23",
+      "posts": 231,
+      "status": "old",
+      "days_left": -1,
+      "scraped_date": "2026-10-24"
+    },
+    {
       "title": "HPSC Food Safety Officer (FSO) Recruitment 2026",
       "url": "https://sarkariresult.com.cm/hpsc-fso-2026/",
       "notification_date": null,
@@ -342,28 +364,6 @@
       "posts": 13706,
       "status": "old",
       "days_left": -27,
-      "scraped_date": "2026-10-24"
-    },
-    {
-      "title": "Bihar BTSC Touring Veterinary Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bihar-touring-veterinary-officer-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-24",
-      "application_end": "2026-09-24",
-      "posts": 787,
-      "status": "old",
-      "days_left": -30,
-      "scraped_date": "2026-10-24"
-    },
-    {
-      "title": "Bihar BTSC Fishery Extension Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bihar-fishery-extension-officer-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-24",
-      "application_end": "2026-09-24",
-      "posts": 231,
-      "status": "old",
-      "days_left": -30,
       "scraped_date": "2026-10-24"
     },
     {
