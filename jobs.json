@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-24T14:19:15.655000",
+  "last_updated": "2026-10-24T17:55:45.949604",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 92,
+  "total_jobs": 91,
   "jobs": [
     {
       "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
@@ -122,6 +122,17 @@
       "posts": 36,
       "status": "open",
       "days_left": 7,
+      "scraped_date": "2026-10-24"
+    },
+    {
+      "title": "LIC HFL Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/lic-hfl-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-20",
+      "application_end": "2026-11-01",
+      "posts": 232,
+      "status": "open",
+      "days_left": 8,
       "scraped_date": "2026-10-24"
     },
     {
@@ -925,28 +936,6 @@
       "posts": 36,
       "status": "old",
       "days_left": -673,
-      "scraped_date": "2026-10-24"
-    },
-    {
-      "title": "Railway RRC NWR Apprentice Online Form 2024 - Last Date Today",
-      "url": "https://sarkariresult.com.cm/railway-rrc-nwr-apprentice-recruitment-2024/",
-      "notification_date": null,
-      "application_start": "2024-11-10",
-      "application_end": "2024-12-10",
-      "posts": 1791,
-      "status": "old",
-      "days_left": -683,
-      "scraped_date": "2026-10-24"
-    },
-    {
-      "title": "SSC Junior Engineer JE Option Form 2024",
-      "url": "https://sarkariresult.com.cm/ssc-junior-engineer-je-option-form-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": "2024-04-19",
-      "posts": 1765,
-      "status": "old",
-      "days_left": -918,
       "scraped_date": "2026-10-24"
     },
     {
