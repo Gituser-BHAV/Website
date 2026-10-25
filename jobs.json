@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-10-25T00:56:43.951758",
+  "last_updated": "2026-10-25T05:49:20.291802",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 91,
   "jobs": [
-    {
-      "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-25",
-      "application_end": "2026-10-26",
-      "posts": 33320,
-      "status": "critical",
-      "days_left": 1,
-      "scraped_date": "2026-10-25"
-    },
     {
       "title": "SIB Junior Officer (Operations) Recruitment 2026",
       "url": "https://sarkariresult.com.cm/sib-junior-officer-operations-2026/",
@@ -386,6 +375,17 @@
       "posts": 13706,
       "status": "old",
       "days_left": -28,
+      "scraped_date": "2026-10-25"
+    },
+    {
+      "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-25",
+      "application_end": "2026-09-25",
+      "posts": 33320,
+      "status": "old",
+      "days_left": -30,
       "scraped_date": "2026-10-25"
     },
     {
