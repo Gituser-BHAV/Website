@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T09:51:15.861657",
+  "last_updated": "2026-10-26T16:35:53.839895",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 90,
   "jobs": [
@@ -122,6 +122,17 @@
       "posts": 232,
       "status": "open",
       "days_left": 6,
+      "scraped_date": "2026-10-26"
+    },
+    {
+      "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-25",
+      "application_end": "2026-11-03",
+      "posts": 33320,
+      "status": "open",
+      "days_left": 8,
       "scraped_date": "2026-10-26"
     },
     {
@@ -295,7 +306,7 @@
       "notification_date": null,
       "application_start": "2026-10-27",
       "application_end": "2026-11-25",
-      "posts": 1250,
+      "posts": 1215,
       "status": "upcoming",
       "days_left": 30,
       "scraped_date": "2026-10-26"
@@ -375,17 +386,6 @@
       "posts": 13706,
       "status": "old",
       "days_left": -29,
-      "scraped_date": "2026-10-26"
-    },
-    {
-      "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-25",
-      "application_end": "2026-09-25",
-      "posts": 33320,
-      "status": "old",
-      "days_left": -31,
       "scraped_date": "2026-10-26"
     },
     {
