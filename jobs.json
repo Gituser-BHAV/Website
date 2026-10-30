@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T01:38:38.316367",
+  "last_updated": "2026-10-30T08:13:06.930946",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 90,
   "jobs": [
@@ -287,28 +287,6 @@
       "posts": 1784,
       "status": "upcoming",
       "days_left": 32,
-      "scraped_date": "2026-10-30"
-    },
-    {
-      "title": "MPESB MP Police Constable Driver Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/mp-police-constable-driver-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-15",
-      "application_end": "2026-10-15",
-      "posts": 1000,
-      "status": "old",
-      "days_left": -15,
-      "scraped_date": "2026-10-30"
-    },
-    {
-      "title": "Indian Army TGC 145 Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/indian-army-tgc-145-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-30",
-      "application_end": "2026-09-30",
-      "posts": 30,
-      "status": "old",
-      "days_left": -30,
       "scraped_date": "2026-10-30"
     },
     {
@@ -989,6 +967,28 @@
       "application_start": null,
       "application_end": null,
       "posts": 183,
+      "status": "unknown",
+      "days_left": null,
+      "scraped_date": "2026-10-30"
+    },
+    {
+      "title": "Central Bank of India Specialist Officer (SO) Online Form 2024",
+      "url": "https://sarkariresult.com.cm/central-bank-of-india-specialist-officer-so-recruitment-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": null,
+      "posts": 253,
+      "status": "unknown",
+      "days_left": null,
+      "scraped_date": "2026-10-30"
+    },
+    {
+      "title": "Rajasthan Safai Karamchari Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/rajasthan-safai-karamchari-recruitment-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": null,
+      "posts": 23820,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-10-30"
