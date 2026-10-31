@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-10-31T00:29:44.433888",
+  "last_updated": "2026-10-31T06:44:10.032990",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 90,
   "jobs": [
-    {
-      "title": "CSJMU Kanpur Teaching Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/csjmu-kanpur-teaching-post-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-26",
-      "application_end": "2026-10-31",
-      "posts": 36,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-10-31"
-    },
     {
       "title": "LIC HFL Apprentice Recruitment 2026",
       "url": "https://sarkariresult.com.cm/lic-hfl-apprentice-2026/",
@@ -301,6 +290,17 @@
       "scraped_date": "2026-10-31"
     },
     {
+      "title": "CSJMU Kanpur Teaching Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/csjmu-kanpur-teaching-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-26",
+      "application_end": "2026-09-26",
+      "posts": 36,
+      "status": "old",
+      "days_left": -35,
+      "scraped_date": "2026-10-31"
+    },
+    {
       "title": "RSSB Support Engineer Recruitment 2025",
       "url": "https://sarkariresult.com.cm/rssb-support-engineer-recruitment-2025/",
       "notification_date": "2025-07-17",
@@ -455,17 +455,6 @@
       "scraped_date": "2026-10-31"
     },
     {
-      "title": "Bihar BSSC Field Assistant Mains Online Form 2026",
-      "url": "https://sarkariresult.com.cm/bihar-bssc-field-assistant-pre-result-2026/",
-      "notification_date": null,
-      "application_start": "2025-04-25",
-      "application_end": "2025-05-21",
-      "posts": 201,
-      "status": "old",
-      "days_left": -528,
-      "scraped_date": "2026-10-31"
-    },
-    {
       "title": "Allahabad University Teaching Recruitment 2025",
       "url": "https://sarkariresult.com.cm/allahabad-university-teaching-recruitment-2025/",
       "notification_date": null,
@@ -518,6 +507,17 @@
       "posts": 120,
       "status": "old",
       "days_left": -552,
+      "scraped_date": "2026-10-31"
+    },
+    {
+      "title": "Bihar BSSC Field Assistant Mains Online Form 2026",
+      "url": "https://sarkariresult.com.cm/bihar-bssc-field-assistant-pre-result-2026/",
+      "notification_date": null,
+      "application_start": "2025-04-25",
+      "application_end": "2025-04-25",
+      "posts": 201,
+      "status": "old",
+      "days_left": -554,
       "scraped_date": "2026-10-31"
     },
     {
