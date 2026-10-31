@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-31T06:44:10.032990",
+  "last_updated": "2026-10-31T13:24:21.208558",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 90,
+  "total_jobs": 89,
   "jobs": [
     {
       "title": "LIC HFL Apprentice Recruitment 2026",
@@ -265,6 +265,17 @@
       "posts": 380,
       "status": "upcoming",
       "days_left": 27,
+      "scraped_date": "2026-10-31"
+    },
+    {
+      "title": "Armed Forces AFMS SSC Medical Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/armed-forces-afms-ssc-medical-officer-2026/",
+      "notification_date": "2026-11-07",
+      "application_start": "2026-11-09",
+      "application_end": "2026-11-18",
+      "posts": 120,
+      "status": "upcoming",
+      "days_left": 18,
       "scraped_date": "2026-10-31"
     },
     {
@@ -967,28 +978,6 @@
       "application_start": null,
       "application_end": null,
       "posts": 183,
-      "status": "unknown",
-      "days_left": null,
-      "scraped_date": "2026-10-31"
-    },
-    {
-      "title": "Central Bank of India Specialist Officer (SO) Online Form 2024",
-      "url": "https://sarkariresult.com.cm/central-bank-of-india-specialist-officer-so-recruitment-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": null,
-      "posts": 253,
-      "status": "unknown",
-      "days_left": null,
-      "scraped_date": "2026-10-31"
-    },
-    {
-      "title": "Rajasthan Safai Karamchari Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/rajasthan-safai-karamchari-recruitment-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": null,
-      "posts": 23820,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-10-31"
