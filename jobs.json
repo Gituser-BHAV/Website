@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-11-01T01:56:28.003013",
+  "last_updated": "2026-11-01T08:53:38.395129",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 89,
   "jobs": [
-    {
-      "title": "LIC HFL Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/lic-hfl-apprentice-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-20",
-      "application_end": "2026-11-01",
-      "posts": 232,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-01"
-    },
     {
       "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
       "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
@@ -290,6 +279,17 @@
       "scraped_date": "2026-11-01"
     },
     {
+      "title": "LIC HFL Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/lic-hfl-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-20",
+      "application_end": "2026-10-20",
+      "posts": 232,
+      "status": "old",
+      "days_left": -12,
+      "scraped_date": "2026-11-01"
+    },
+    {
       "title": "IBPS RRB 15th Correction / Edit Form 2026",
       "url": "https://sarkariresult.com.cm/ibps-rrb-15th-2026/",
       "notification_date": null,
@@ -298,17 +298,6 @@
       "posts": 13706,
       "status": "old",
       "days_left": -35,
-      "scraped_date": "2026-11-01"
-    },
-    {
-      "title": "CSJMU Kanpur Teaching Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/csjmu-kanpur-teaching-post-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-26",
-      "application_end": "2026-09-26",
-      "posts": 36,
-      "status": "old",
-      "days_left": -36,
       "scraped_date": "2026-11-01"
     },
     {
@@ -518,17 +507,6 @@
       "posts": 120,
       "status": "old",
       "days_left": -553,
-      "scraped_date": "2026-11-01"
-    },
-    {
-      "title": "Bihar BSSC Field Assistant Mains Online Form 2026",
-      "url": "https://sarkariresult.com.cm/bihar-bssc-field-assistant-pre-result-2026/",
-      "notification_date": null,
-      "application_start": "2025-04-25",
-      "application_end": "2025-04-25",
-      "posts": 201,
-      "status": "old",
-      "days_left": -555,
       "scraped_date": "2026-11-01"
     },
     {
@@ -978,6 +956,28 @@
       "application_start": null,
       "application_end": null,
       "posts": 183,
+      "status": "unknown",
+      "days_left": null,
+      "scraped_date": "2026-11-01"
+    },
+    {
+      "title": "Central Bank of India Specialist Officer (SO) Online Form 2024",
+      "url": "https://sarkariresult.com.cm/central-bank-of-india-specialist-officer-so-recruitment-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": null,
+      "posts": 253,
+      "status": "unknown",
+      "days_left": null,
+      "scraped_date": "2026-11-01"
+    },
+    {
+      "title": "Rajasthan Safai Karamchari Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/rajasthan-safai-karamchari-recruitment-2024/",
+      "notification_date": null,
+      "application_start": null,
+      "application_end": null,
+      "posts": 23820,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-11-01"
