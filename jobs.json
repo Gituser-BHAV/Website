@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-11-02T00:22:28.393849",
+  "last_updated": "2026-11-02T07:22:55.320249",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 89,
   "jobs": [
-    {
-      "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-25",
-      "application_end": "2026-11-03",
-      "posts": 33320,
-      "status": "critical",
-      "days_left": 1,
-      "scraped_date": "2026-11-02"
-    },
     {
       "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upessc-prt-assistant-teacher-2026/",
@@ -298,6 +287,17 @@
       "posts": 13706,
       "status": "old",
       "days_left": -36,
+      "scraped_date": "2026-11-02"
+    },
+    {
+      "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-25",
+      "application_end": "2026-09-25",
+      "posts": 33320,
+      "status": "old",
+      "days_left": -38,
       "scraped_date": "2026-11-02"
     },
     {
