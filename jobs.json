@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-02T07:22:55.320249",
+  "last_updated": "2026-11-02T17:56:14.736352",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 89,
+  "total_jobs": 88,
   "jobs": [
     {
       "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
@@ -136,6 +136,28 @@
       "scraped_date": "2026-11-02"
     },
     {
+      "title": "ONGC Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/ongc-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-29",
+      "application_end": "2026-11-20",
+      "posts": 3047,
+      "status": "open",
+      "days_left": 18,
+      "scraped_date": "2026-11-02"
+    },
+    {
+      "title": "AEES Teaching Various Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/aees-teaching-various-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-02",
+      "application_end": "2026-11-22",
+      "posts": 254,
+      "status": "open",
+      "days_left": 20,
+      "scraped_date": "2026-11-02"
+    },
+    {
       "title": "UPESSC UP Principal Inter Level Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upessc-up-principal-inter-level-2026/",
       "notification_date": null,
@@ -265,17 +287,6 @@
       "posts": 1784,
       "status": "upcoming",
       "days_left": 29,
-      "scraped_date": "2026-11-02"
-    },
-    {
-      "title": "LIC HFL Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/lic-hfl-apprentice-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-20",
-      "application_end": "2026-10-20",
-      "posts": 232,
-      "status": "old",
-      "days_left": -13,
       "scraped_date": "2026-11-02"
     },
     {
@@ -956,28 +967,6 @@
       "application_start": null,
       "application_end": null,
       "posts": 183,
-      "status": "unknown",
-      "days_left": null,
-      "scraped_date": "2026-11-02"
-    },
-    {
-      "title": "Central Bank of India Specialist Officer (SO) Online Form 2024",
-      "url": "https://sarkariresult.com.cm/central-bank-of-india-specialist-officer-so-recruitment-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": null,
-      "posts": 253,
-      "status": "unknown",
-      "days_left": null,
-      "scraped_date": "2026-11-02"
-    },
-    {
-      "title": "Rajasthan Safai Karamchari Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/rajasthan-safai-karamchari-recruitment-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": null,
-      "posts": 23820,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-11-02"
