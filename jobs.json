@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T07:40:37.490639",
+  "last_updated": "2026-11-03T15:56:10.890773",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
@@ -125,6 +125,17 @@
       "scraped_date": "2026-11-03"
     },
     {
+      "title": "PGCIL Engineer Trainee Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/pgcil-engineer-trainee-online-form-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-03",
+      "application_end": "2026-11-18",
+      "posts": 319,
+      "status": "open",
+      "days_left": 15,
+      "scraped_date": "2026-11-03"
+    },
+    {
       "title": "BHEL Artisan Various Trade Post Recruitment 2026",
       "url": "https://sarkariresult.com.cm/bhel-artisan-various-trade-post-2026/",
       "notification_date": null,
@@ -235,6 +246,17 @@
       "scraped_date": "2026-11-03"
     },
     {
+      "title": "Semi Conductor SCL Various Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/semi-conductor-scl-various-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-01",
+      "application_end": "2026-11-30",
+      "posts": 83,
+      "status": "open",
+      "days_left": 27,
+      "scraped_date": "2026-11-03"
+    },
+    {
       "title": "KSSSCI Non-Teaching Recruitment 2025",
       "url": "https://sarkariresult.com.cm/ksssci-non-teaching-online-form-2024-apply-now/",
       "notification_date": "2024-12-24",
@@ -287,17 +309,6 @@
       "posts": 1784,
       "status": "upcoming",
       "days_left": 28,
-      "scraped_date": "2026-11-03"
-    },
-    {
-      "title": "IBPS RRB 15th Correction / Edit Form 2026",
-      "url": "https://sarkariresult.com.cm/ibps-rrb-15th-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-01",
-      "application_end": "2026-09-27",
-      "posts": 13706,
-      "status": "old",
-      "days_left": -37,
       "scraped_date": "2026-11-03"
     },
     {
@@ -826,17 +837,6 @@
       "posts": 62,
       "status": "old",
       "days_left": -660,
-      "scraped_date": "2026-11-03"
-    },
-    {
-      "title": "HP High Court Shimla Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/hp-high-court-shimla-various-post-online-form-2024/",
-      "notification_date": "2024-11-30",
-      "application_start": "2024-11-30",
-      "application_end": "2024-12-31",
-      "posts": 187,
-      "status": "old",
-      "days_left": -672,
       "scraped_date": "2026-11-03"
     },
     {
