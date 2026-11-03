@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T00:41:02.688244",
+  "last_updated": "2026-11-03T07:40:37.490639",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
@@ -213,23 +213,23 @@
       "scraped_date": "2026-11-03"
     },
     {
-      "title": "Railway RRB Station Master Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/railway-rrb-station-master-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-27",
-      "application_end": "2026-11-25",
-      "posts": 1265,
-      "status": "open",
-      "days_left": 22,
-      "scraped_date": "2026-11-03"
-    },
-    {
       "title": "UPSSSC Junior Engineer JE (Mechanical) Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upsssc-junior-engineer-je-mechanical-2026/",
       "notification_date": null,
       "application_start": "2026-11-03",
       "application_end": "2026-11-25",
       "posts": 1156,
+      "status": "open",
+      "days_left": 22,
+      "scraped_date": "2026-11-03"
+    },
+    {
+      "title": "Railway RRB Station Master Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/railway-rrb-station-master-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-27",
+      "application_end": "2026-11-25",
+      "posts": 1265,
       "status": "open",
       "days_left": 22,
       "scraped_date": "2026-11-03"
