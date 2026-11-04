@@ -1,52 +1,8 @@
 {
-  "last_updated": "2026-11-04T01:57:51.484880",
+  "last_updated": "2026-11-04T08:52:52.731270",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
-    {
-      "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upessc-prt-assistant-teacher-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-16",
-      "application_end": "2026-11-04",
-      "posts": 12405,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-04"
-    },
-    {
-      "title": "UPSSSC Sports Directorate Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-sports-directorate-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-14",
-      "application_end": "2026-11-04",
-      "posts": 108,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-04"
-    },
-    {
-      "title": "DSSSB Delhi District Court Various Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/delhi-district-court-various-post-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-06",
-      "application_end": "2026-11-04",
-      "posts": 641,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-04"
-    },
-    {
-      "title": "IOCL WR Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/iocl-wr-apprentice-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-05",
-      "application_end": "2026-11-04",
-      "posts": 325,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-04"
-    },
     {
       "title": "RRB NTPC Graduate Level Recruitment 2026",
       "url": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-06-2026/",
@@ -316,10 +272,54 @@
       "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
       "notification_date": null,
       "application_start": "2026-09-25",
-      "application_end": "2026-09-25",
+      "application_end": "2026-11-03",
       "posts": 33320,
       "status": "old",
-      "days_left": -40,
+      "days_left": -1,
+      "scraped_date": "2026-11-04"
+    },
+    {
+      "title": "UPSSSC Sports Directorate Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upsssc-sports-directorate-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-14",
+      "application_end": "2026-10-14",
+      "posts": 108,
+      "status": "old",
+      "days_left": -21,
+      "scraped_date": "2026-11-04"
+    },
+    {
+      "title": "DSSSB Delhi District Court Various Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/delhi-district-court-various-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-06",
+      "application_end": "2026-10-06",
+      "posts": 641,
+      "status": "old",
+      "days_left": -29,
+      "scraped_date": "2026-11-04"
+    },
+    {
+      "title": "IOCL WR Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/iocl-wr-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-05",
+      "application_end": "2026-10-05",
+      "posts": 325,
+      "status": "old",
+      "days_left": -30,
+      "scraped_date": "2026-11-04"
+    },
+    {
+      "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upessc-prt-assistant-teacher-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-16",
+      "application_end": "2026-09-16",
+      "posts": 12405,
+      "status": "old",
+      "days_left": -49,
       "scraped_date": "2026-11-04"
     },
     {
