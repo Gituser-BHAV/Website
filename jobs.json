@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T03:16:48.855378",
+  "last_updated": "2026-11-05T11:57:36.984364",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
@@ -114,17 +114,6 @@
       "scraped_date": "2026-11-05"
     },
     {
-      "title": "AEES Teaching Various Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/aees-teaching-various-post-2026/",
-      "notification_date": null,
-      "application_start": "2026-11-02",
-      "application_end": "2026-11-22",
-      "posts": 254,
-      "status": "open",
-      "days_left": 17,
-      "scraped_date": "2026-11-05"
-    },
-    {
       "title": "UPESSC UP Principal Inter Level Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upessc-up-principal-inter-level-2026/",
       "notification_date": null,
@@ -142,6 +131,17 @@
       "application_start": "2026-10-23",
       "application_end": "2026-11-22",
       "posts": 1172,
+      "status": "open",
+      "days_left": 17,
+      "scraped_date": "2026-11-05"
+    },
+    {
+      "title": "AEES Teaching Various Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/aees-teaching-various-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-02",
+      "application_end": "2026-11-22",
+      "posts": 254,
       "status": "open",
       "days_left": 17,
       "scraped_date": "2026-11-05"
@@ -191,6 +191,17 @@
       "scraped_date": "2026-11-05"
     },
     {
+      "title": "Indian Bank Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/indian-bank-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-05",
+      "application_end": "2026-11-25",
+      "posts": 1500,
+      "status": "open",
+      "days_left": 20,
+      "scraped_date": "2026-11-05"
+    },
+    {
       "title": "Railway RRB Station Master Recruitment 2026",
       "url": "https://sarkariresult.com.cm/railway-rrb-station-master-2026/",
       "notification_date": null,
@@ -213,12 +224,34 @@
       "scraped_date": "2026-11-05"
     },
     {
+      "title": "Railway RRC CR Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rrc-cr-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-03",
+      "application_end": "2026-12-02",
+      "posts": 2861,
+      "status": "open",
+      "days_left": 27,
+      "scraped_date": "2026-11-05"
+    },
+    {
       "title": "Railway RRB Isolated Categories Recruitment 2026",
       "url": "https://sarkariresult.com.cm/rrb-isolated-categories-2026/",
       "notification_date": null,
       "application_start": "2026-11-05",
       "application_end": "2026-12-04",
-      "posts": 195,
+      "posts": 191,
+      "status": "open",
+      "days_left": 29,
+      "scraped_date": "2026-11-05"
+    },
+    {
+      "title": "UPPSC Various Posts Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/uppsc-various-posts-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-04",
+      "application_end": "2026-12-04",
+      "posts": 25,
       "status": "open",
       "days_left": 29,
       "scraped_date": "2026-11-05"
@@ -246,6 +279,17 @@
       "scraped_date": "2026-11-05"
     },
     {
+      "title": "Bihar Vidhan Sabha Junior Secretariat Assistant JSA Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bihar-vidhan-sabha-junior-secretariat-assistant-jsa-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-07",
+      "application_end": "2026-12-06",
+      "posts": 15,
+      "status": "upcoming",
+      "days_left": 31,
+      "scraped_date": "2026-11-05"
+    },
+    {
       "title": "Armed Forces AFMS SSC Medical Officer Recruitment 2026",
       "url": "https://sarkariresult.com.cm/armed-forces-afms-ssc-medical-officer-2026/",
       "notification_date": "2026-11-07",
@@ -265,61 +309,6 @@
       "posts": 1784,
       "status": "upcoming",
       "days_left": 26,
-      "scraped_date": "2026-11-05"
-    },
-    {
-      "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bpsc-school-teacher-tre-4-0-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-25",
-      "application_end": "2026-11-03",
-      "posts": 33320,
-      "status": "old",
-      "days_left": -2,
-      "scraped_date": "2026-11-05"
-    },
-    {
-      "title": "UPSSSC Sports Directorate Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-sports-directorate-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-14",
-      "application_end": "2026-10-14",
-      "posts": 108,
-      "status": "old",
-      "days_left": -22,
-      "scraped_date": "2026-11-05"
-    },
-    {
-      "title": "DSSSB Delhi District Court Various Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/delhi-district-court-various-post-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-06",
-      "application_end": "2026-10-06",
-      "posts": 641,
-      "status": "old",
-      "days_left": -30,
-      "scraped_date": "2026-11-05"
-    },
-    {
-      "title": "IOCL WR Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/iocl-wr-apprentice-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-05",
-      "application_end": "2026-10-05",
-      "posts": 325,
-      "status": "old",
-      "days_left": -31,
-      "scraped_date": "2026-11-05"
-    },
-    {
-      "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upessc-prt-assistant-teacher-2026/",
-      "notification_date": null,
-      "application_start": "2026-09-16",
-      "application_end": "2026-09-16",
-      "posts": 12405,
-      "status": "old",
-      "days_left": -50,
       "scraped_date": "2026-11-05"
     },
     {
@@ -837,6 +826,17 @@
       "posts": 62,
       "status": "old",
       "days_left": -662,
+      "scraped_date": "2026-11-05"
+    },
+    {
+      "title": "HP High Court Shimla Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/hp-high-court-shimla-various-post-online-form-2024/",
+      "notification_date": "2024-11-30",
+      "application_start": "2024-11-30",
+      "application_end": "2024-12-31",
+      "posts": 187,
+      "status": "old",
+      "days_left": -674,
       "scraped_date": "2026-11-05"
     },
     {
