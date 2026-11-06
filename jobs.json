@@ -1,30 +1,8 @@
 {
-  "last_updated": "2026-11-06T00:50:53.065359",
+  "last_updated": "2026-11-06T07:45:24.930460",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
-    {
-      "title": "RRB NTPC Graduate Level Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-06-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-08",
-      "application_end": "2026-11-06",
-      "posts": 3548,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-06"
-    },
-    {
-      "title": "UPSSSC Regional Youth Welfare Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-regional-youth-welfare-officer-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-16",
-      "application_end": "2026-11-06",
-      "posts": 412,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-06"
-    },
     {
       "title": "ISRO SDSC SHAR Various Post Recruitment 2026",
       "url": "https://sarkariresult.com.cm/isro-sdsc-shar-various-post-2026/",
@@ -78,6 +56,17 @@
       "posts": 327,
       "status": "open",
       "days_left": 9,
+      "scraped_date": "2026-11-06"
+    },
+    {
+      "title": "NICL Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/nicl-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-04",
+      "application_end": "2026-11-18",
+      "posts": 200,
+      "status": "open",
+      "days_left": 12,
       "scraped_date": "2026-11-06"
     },
     {
@@ -213,6 +202,17 @@
       "scraped_date": "2026-11-06"
     },
     {
+      "title": "ISRO SDSC SHAR Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/isro-sdsc-shar-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-06",
+      "application_end": "2026-11-26",
+      "posts": 400,
+      "status": "open",
+      "days_left": 20,
+      "scraped_date": "2026-11-06"
+    },
+    {
       "title": "UPSSSC Junior Engineer JE (Electrical) Recruitment 2026",
       "url": "https://sarkariresult.com.cm/upsssc-junior-engineer-je-electrical-2026/",
       "notification_date": null,
@@ -309,6 +309,28 @@
       "posts": 1784,
       "status": "upcoming",
       "days_left": 25,
+      "scraped_date": "2026-11-06"
+    },
+    {
+      "title": "UPSSSC Regional Youth Welfare Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upsssc-regional-youth-welfare-officer-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-16",
+      "application_end": "2026-10-16",
+      "posts": 412,
+      "status": "old",
+      "days_left": -21,
+      "scraped_date": "2026-11-06"
+    },
+    {
+      "title": "RRB NTPC Graduate Level Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-06-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-08",
+      "application_end": "2026-10-08",
+      "posts": 3548,
+      "status": "old",
+      "days_left": -29,
       "scraped_date": "2026-11-06"
     },
     {
@@ -826,28 +848,6 @@
       "posts": 62,
       "status": "old",
       "days_left": -663,
-      "scraped_date": "2026-11-06"
-    },
-    {
-      "title": "HP High Court Shimla Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/hp-high-court-shimla-various-post-online-form-2024/",
-      "notification_date": "2024-11-30",
-      "application_start": "2024-11-30",
-      "application_end": "2024-12-31",
-      "posts": 187,
-      "status": "old",
-      "days_left": -675,
-      "scraped_date": "2026-11-06"
-    },
-    {
-      "title": "CGPSC State Service Exam SSE Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cgpsc-state-service-exam-sse-recruitment-2024/",
-      "notification_date": null,
-      "application_start": "2024-12-01",
-      "application_end": "2024-12-30",
-      "posts": 246,
-      "status": "old",
-      "days_left": -676,
       "scraped_date": "2026-11-06"
     },
     {
