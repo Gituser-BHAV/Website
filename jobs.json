@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-11-06T07:45:24.930460",
+  "last_updated": "2026-11-06T15:45:07.161150",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
+    {
+      "title": "RRB NTPC Graduate Level Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-06-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-08",
+      "application_end": "2026-11-08",
+      "posts": 3548,
+      "status": "critical",
+      "days_left": 2,
+      "scraped_date": "2026-11-06"
+    },
     {
       "title": "ISRO SDSC SHAR Various Post Recruitment 2026",
       "url": "https://sarkariresult.com.cm/isro-sdsc-shar-various-post-2026/",
@@ -320,17 +331,6 @@
       "posts": 412,
       "status": "old",
       "days_left": -21,
-      "scraped_date": "2026-11-06"
-    },
-    {
-      "title": "RRB NTPC Graduate Level Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-06-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-08",
-      "application_end": "2026-10-08",
-      "posts": 3548,
-      "status": "old",
-      "days_left": -29,
       "scraped_date": "2026-11-06"
     },
     {
