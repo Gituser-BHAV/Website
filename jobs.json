@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-07T01:41:49.954855",
+  "last_updated": "2026-11-07T08:27:52.745827",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 88,
+  "total_jobs": 87,
   "jobs": [
     {
       "title": "RRB NTPC Graduate Level Recruitment 2026",
@@ -323,14 +323,25 @@
       "scraped_date": "2026-11-07"
     },
     {
-      "title": "UPSSSC Regional Youth Welfare Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upsssc-regional-youth-welfare-officer-2026/",
+      "title": "DSSSB MTS & JE Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/dsssb-mts-je-2026/",
       "notification_date": null,
-      "application_start": "2026-10-16",
-      "application_end": "2026-10-16",
-      "posts": 412,
+      "application_start": "2026-11-12",
+      "application_end": "2026-12-11",
+      "posts": 1260,
+      "status": "upcoming",
+      "days_left": 34,
+      "scraped_date": "2026-11-07"
+    },
+    {
+      "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upessc-prt-assistant-teacher-2026/",
+      "notification_date": null,
+      "application_start": "2026-09-16",
+      "application_end": "2026-11-04",
+      "posts": 12405,
       "status": "old",
-      "days_left": -22,
+      "days_left": -3,
       "scraped_date": "2026-11-07"
     },
     {
@@ -851,17 +862,6 @@
       "scraped_date": "2026-11-07"
     },
     {
-      "title": "CUH Haryana Non Teaching Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cuh-haryana-non-teaching-online-form-2024/",
-      "notification_date": "2024-11-29",
-      "application_start": null,
-      "application_end": "2024-12-28",
-      "posts": 20,
-      "status": "old",
-      "days_left": -679,
-      "scraped_date": "2026-11-07"
-    },
-    {
       "title": "Indian Navy Recruitment 2024",
       "url": "https://sarkariresult.com.cm/indian-navy-102-b-tech-cadet-entry-july-2025-online-form/",
       "notification_date": "2024-11-15",
@@ -870,17 +870,6 @@
       "posts": 36,
       "status": "old",
       "days_left": -687,
-      "scraped_date": "2026-11-07"
-    },
-    {
-      "title": "National Co-Operative Bank (NCBL) Clerk Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/national-bank-ncbl-clerk-recruitment-2024/",
-      "notification_date": "2024-12-04",
-      "application_start": null,
-      "application_end": "2024-12-18",
-      "posts": 15,
-      "status": "old",
-      "days_left": -689,
       "scraped_date": "2026-11-07"
     },
     {
