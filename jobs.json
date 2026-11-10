@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T03:16:04.852775",
+  "last_updated": "2026-11-10T12:15:23.645023",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 87,
   "jobs": [
@@ -48,6 +48,17 @@
       "scraped_date": "2026-11-10"
     },
     {
+      "title": "Armed Forces AFMS SSC Medical Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/armed-forces-afms-ssc-medical-officer-2026/",
+      "notification_date": "2026-11-07",
+      "application_start": "2026-11-09",
+      "application_end": "2026-11-18",
+      "posts": 120,
+      "status": "open",
+      "days_left": 8,
+      "scraped_date": "2026-11-10"
+    },
+    {
       "title": "NICL Apprentice Recruitment 2026",
       "url": "https://sarkariresult.com.cm/nicl-apprentice-2026/",
       "notification_date": null,
@@ -65,17 +76,6 @@
       "application_start": "2026-11-03",
       "application_end": "2026-11-18",
       "posts": 319,
-      "status": "open",
-      "days_left": 8,
-      "scraped_date": "2026-11-10"
-    },
-    {
-      "title": "Armed Forces AFMS SSC Medical Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/armed-forces-afms-ssc-medical-officer-2026/",
-      "notification_date": "2026-11-07",
-      "application_start": "2026-11-09",
-      "application_end": "2026-11-18",
-      "posts": 120,
       "status": "open",
       "days_left": 8,
       "scraped_date": "2026-11-10"
@@ -320,17 +320,6 @@
       "posts": 1260,
       "status": "upcoming",
       "days_left": 31,
-      "scraped_date": "2026-11-10"
-    },
-    {
-      "title": "ISRO SDSC SHAR Various Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/isro-sdsc-shar-various-post-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-19",
-      "application_end": "2026-11-09",
-      "posts": 97,
-      "status": "old",
-      "days_left": -1,
       "scraped_date": "2026-11-10"
     },
     {
@@ -870,6 +859,17 @@
       "posts": 36,
       "status": "old",
       "days_left": -690,
+      "scraped_date": "2026-11-10"
+    },
+    {
+      "title": "National Co-Operative Bank (NCBL) Clerk Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/national-bank-ncbl-clerk-recruitment-2024/",
+      "notification_date": "2024-12-04",
+      "application_start": null,
+      "application_end": "2024-12-18",
+      "posts": 15,
+      "status": "old",
+      "days_left": -692,
       "scraped_date": "2026-11-10"
     },
     {
