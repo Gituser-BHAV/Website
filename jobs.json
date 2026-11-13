@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T11:56:19.962465",
+  "last_updated": "2026-11-13T19:21:40.219637",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
@@ -56,6 +56,17 @@
       "posts": 660,
       "status": "critical",
       "days_left": 5,
+      "scraped_date": "2026-11-13"
+    },
+    {
+      "title": "ISRO URSC Various Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/isro-ursc-various-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-24",
+      "application_end": "2026-11-20",
+      "posts": 61,
+      "status": "open",
+      "days_left": 7,
       "scraped_date": "2026-11-13"
     },
     {
@@ -290,14 +301,14 @@
       "scraped_date": "2026-11-13"
     },
     {
-      "title": "ISRO URSC Various Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/isro-ursc-various-post-2026/",
+      "title": "Exim Bank Management Trainee, Manager Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/exim-bank-mt-manager-2026/",
       "notification_date": null,
-      "application_start": "2026-10-24",
-      "application_end": "2026-10-24",
-      "posts": 61,
-      "status": "old",
-      "days_left": -20,
+      "application_start": "2026-11-27",
+      "application_end": "2026-12-11",
+      "posts": 120,
+      "status": "upcoming",
+      "days_left": 28,
       "scraped_date": "2026-11-13"
     },
     {
@@ -826,17 +837,6 @@
       "posts": 62,
       "status": "old",
       "days_left": -670,
-      "scraped_date": "2026-11-13"
-    },
-    {
-      "title": "HP High Court Shimla Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/hp-high-court-shimla-various-post-online-form-2024/",
-      "notification_date": "2024-11-30",
-      "application_start": "2024-11-30",
-      "application_end": "2024-12-31",
-      "posts": 187,
-      "status": "old",
-      "days_left": -682,
       "scraped_date": "2026-11-13"
     },
     {
