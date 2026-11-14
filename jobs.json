@@ -1,8 +1,19 @@
 {
-  "last_updated": "2026-11-14T00:44:37.700878",
+  "last_updated": "2026-11-14T07:26:51.961978",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
+    {
+      "title": "RRB NTPC 10+2 UG Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rrb-ntpc-inter-level-07-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-15",
+      "application_end": "2026-11-15",
+      "posts": 1688,
+      "status": "critical",
+      "days_left": 1,
+      "scraped_date": "2026-11-14"
+    },
     {
       "title": "CWC Assistant Manager & Junior Executive Recruitment 2026",
       "url": "https://sarkariresult.com.cm/cwc-assistant-manager-junior-executive-2026/",
@@ -309,17 +320,6 @@
       "posts": 120,
       "status": "upcoming",
       "days_left": 27,
-      "scraped_date": "2026-11-14"
-    },
-    {
-      "title": "RRB NTPC 10+2 UG Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rrb-ntpc-inter-level-07-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-15",
-      "application_end": "2026-10-15",
-      "posts": 1688,
-      "status": "old",
-      "days_left": -30,
       "scraped_date": "2026-11-14"
     },
     {
