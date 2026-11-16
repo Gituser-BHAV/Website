@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-16T05:15:27.621006",
+  "last_updated": "2026-11-16T15:04:30.925167",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 88,
+  "total_jobs": 89,
   "jobs": [
     {
       "title": "Armed Forces AFMS SSC Medical Officer Recruitment 2026",
@@ -224,6 +224,17 @@
       "scraped_date": "2026-11-16"
     },
     {
+      "title": "UPSC 13/2026 Various Posts Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upsc-13-2026-various-posts-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-14",
+      "application_end": "2026-12-04",
+      "posts": 13,
+      "status": "open",
+      "days_left": 18,
+      "scraped_date": "2026-11-16"
+    },
+    {
       "title": "Railway RRB Isolated Categories Recruitment 2026",
       "url": "https://sarkariresult.com.cm/rrb-isolated-categories-2026/",
       "notification_date": null,
@@ -290,6 +301,17 @@
       "scraped_date": "2026-11-16"
     },
     {
+      "title": "ASRB ICAR Technical Assistant Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/asrb-icar-technical-assistant-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-18",
+      "application_end": "2026-12-17",
+      "posts": 1393,
+      "status": "upcoming",
+      "days_left": 31,
+      "scraped_date": "2026-11-16"
+    },
+    {
       "title": "Exim Bank Management Trainee, Manager Recruitment 2026",
       "url": "https://sarkariresult.com.cm/exim-bank-mt-manager-2026/",
       "notification_date": null,
@@ -298,28 +320,6 @@
       "posts": 120,
       "status": "upcoming",
       "days_left": 25,
-      "scraped_date": "2026-11-16"
-    },
-    {
-      "title": "RRB NTPC 10+2 UG Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rrb-ntpc-inter-level-07-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-15",
-      "application_end": "2026-11-15",
-      "posts": 1688,
-      "status": "old",
-      "days_left": -1,
-      "scraped_date": "2026-11-16"
-    },
-    {
-      "title": "CWC Assistant Manager & Junior Executive Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/cwc-assistant-manager-junior-executive-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-17",
-      "application_end": "2026-11-15",
-      "posts": 327,
-      "status": "old",
-      "days_left": -1,
       "scraped_date": "2026-11-16"
     },
     {
@@ -837,6 +837,17 @@
       "posts": 62,
       "status": "old",
       "days_left": -673,
+      "scraped_date": "2026-11-16"
+    },
+    {
+      "title": "HP High Court Shimla Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/hp-high-court-shimla-various-post-online-form-2024/",
+      "notification_date": "2024-11-30",
+      "application_start": "2024-11-30",
+      "application_end": "2024-12-31",
+      "posts": 187,
+      "status": "old",
+      "days_left": -685,
       "scraped_date": "2026-11-16"
     },
     {
