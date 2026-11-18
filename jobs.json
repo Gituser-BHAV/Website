@@ -1,52 +1,8 @@
 {
-  "last_updated": "2026-11-18T00:41:26.361950",
+  "last_updated": "2026-11-18T08:17:55.043784",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 90,
   "jobs": [
-    {
-      "title": "Armed Forces AFMS SSC Medical Officer Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/armed-forces-afms-ssc-medical-officer-2026/",
-      "notification_date": "2026-11-07",
-      "application_start": "2026-11-09",
-      "application_end": "2026-11-18",
-      "posts": 120,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-18"
-    },
-    {
-      "title": "NICL Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/nicl-apprentice-2026/",
-      "notification_date": null,
-      "application_start": "2026-11-04",
-      "application_end": "2026-11-18",
-      "posts": 200,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-18"
-    },
-    {
-      "title": "PGCIL Engineer Trainee Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/pgcil-engineer-trainee-online-form-2026/",
-      "notification_date": null,
-      "application_start": "2026-11-03",
-      "application_end": "2026-11-18",
-      "posts": 319,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-18"
-    },
-    {
-      "title": "BHEL Artisan Various Trade Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/bhel-artisan-various-trade-post-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-21",
-      "application_end": "2026-11-18",
-      "posts": 660,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-18"
-    },
     {
       "title": "ISRO URSC Various Post Recruitment 2026",
       "url": "https://sarkariresult.com.cm/isro-ursc-various-post-2026/",
@@ -312,6 +268,17 @@
       "scraped_date": "2026-11-18"
     },
     {
+      "title": "UKSSSC Constable Various Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/uksssc-police-constable-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-25",
+      "application_end": "2026-12-25",
+      "posts": 1694,
+      "status": "upcoming",
+      "days_left": 37,
+      "scraped_date": "2026-11-18"
+    },
+    {
       "title": "Exim Bank Management Trainee, Manager Recruitment 2026",
       "url": "https://sarkariresult.com.cm/exim-bank-mt-manager-2026/",
       "notification_date": null,
@@ -320,6 +287,83 @@
       "posts": 120,
       "status": "upcoming",
       "days_left": 23,
+      "scraped_date": "2026-11-18"
+    },
+    {
+      "title": "RRB NTPC 10+2 UG Correction / Edit Form 2026",
+      "url": "https://sarkariresult.com.cm/rrb-ntpc-inter-level-07-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-15",
+      "application_end": "2026-11-15",
+      "posts": 1688,
+      "status": "old",
+      "days_left": -3,
+      "scraped_date": "2026-11-18"
+    },
+    {
+      "title": "Armed Forces AFMS SSC Medical Officer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/armed-forces-afms-ssc-medical-officer-2026/",
+      "notification_date": "2026-11-07",
+      "application_start": "2026-11-09",
+      "application_end": "2026-11-07",
+      "posts": 120,
+      "status": "old",
+      "days_left": -11,
+      "scraped_date": "2026-11-18"
+    },
+    {
+      "title": "NICL Apprentice Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/nicl-apprentice-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-04",
+      "application_end": "2026-11-04",
+      "posts": 200,
+      "status": "old",
+      "days_left": -14,
+      "scraped_date": "2026-11-18"
+    },
+    {
+      "title": "PGCIL Engineer Trainee Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/pgcil-engineer-trainee-online-form-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-03",
+      "application_end": "2026-11-03",
+      "posts": 319,
+      "status": "old",
+      "days_left": -15,
+      "scraped_date": "2026-11-18"
+    },
+    {
+      "title": "BHEL Artisan Various Trade Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/bhel-artisan-various-trade-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-21",
+      "application_end": "2026-10-21",
+      "posts": 660,
+      "status": "old",
+      "days_left": -28,
+      "scraped_date": "2026-11-18"
+    },
+    {
+      "title": "RRB NTPC Graduate Level Online Correction / Edit Form 2026",
+      "url": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-06-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-08",
+      "application_end": "2026-10-08",
+      "posts": 3548,
+      "status": "old",
+      "days_left": -41,
+      "scraped_date": "2026-11-18"
+    },
+    {
+      "title": "RSSB Junior Engineer Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/rssb-junior-engineer-2026/",
+      "notification_date": null,
+      "application_start": "2026-08-16",
+      "application_end": "2026-09-14",
+      "posts": 1909,
+      "status": "old",
+      "days_left": -65,
       "scraped_date": "2026-11-18"
     },
     {
@@ -840,39 +884,6 @@
       "scraped_date": "2026-11-18"
     },
     {
-      "title": "HP High Court Shimla Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/hp-high-court-shimla-various-post-online-form-2024/",
-      "notification_date": "2024-11-30",
-      "application_start": "2024-11-30",
-      "application_end": "2024-12-31",
-      "posts": 187,
-      "status": "old",
-      "days_left": -687,
-      "scraped_date": "2026-11-18"
-    },
-    {
-      "title": "CGPSC State Service Exam SSE Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cgpsc-state-service-exam-sse-recruitment-2024/",
-      "notification_date": null,
-      "application_start": "2024-12-01",
-      "application_end": "2024-12-30",
-      "posts": 246,
-      "status": "old",
-      "days_left": -688,
-      "scraped_date": "2026-11-18"
-    },
-    {
-      "title": "CUH Haryana Non Teaching Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cuh-haryana-non-teaching-online-form-2024/",
-      "notification_date": "2024-11-29",
-      "application_start": null,
-      "application_end": "2024-12-28",
-      "posts": 20,
-      "status": "old",
-      "days_left": -690,
-      "scraped_date": "2026-11-18"
-    },
-    {
       "title": "Indian Navy Recruitment 2024",
       "url": "https://sarkariresult.com.cm/indian-navy-102-b-tech-cadet-entry-july-2025-online-form/",
       "notification_date": "2024-11-15",
@@ -978,17 +989,6 @@
       "application_start": null,
       "application_end": null,
       "posts": 183,
-      "status": "unknown",
-      "days_left": null,
-      "scraped_date": "2026-11-18"
-    },
-    {
-      "title": "Central Bank of India Specialist Officer (SO) Online Form 2024",
-      "url": "https://sarkariresult.com.cm/central-bank-of-india-specialist-officer-so-recruitment-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": null,
-      "posts": 253,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-11-18"
