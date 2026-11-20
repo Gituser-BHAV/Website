@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-20T08:10:25.612399",
+  "last_updated": "2026-11-20T17:37:25.721228",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 89,
+  "total_jobs": 88,
   "jobs": [
     {
       "title": "UPESSC UP Principal Inter Level Recruitment 2026",
@@ -221,6 +221,17 @@
       "posts": 15,
       "status": "open",
       "days_left": 16,
+      "scraped_date": "2026-11-20"
+    },
+    {
+      "title": "SBI Specialist Officer SCO Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/sbi-specialist-officer-sco-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-20",
+      "application_end": "2026-12-10",
+      "posts": 20,
+      "status": "open",
+      "days_left": 20,
       "scraped_date": "2026-11-20"
     },
     {
@@ -848,28 +859,6 @@
       "posts": 62,
       "status": "old",
       "days_left": -677,
-      "scraped_date": "2026-11-20"
-    },
-    {
-      "title": "CGPSC State Service Exam SSE Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cgpsc-state-service-exam-sse-recruitment-2024/",
-      "notification_date": null,
-      "application_start": "2024-12-01",
-      "application_end": "2024-12-30",
-      "posts": 246,
-      "status": "old",
-      "days_left": -690,
-      "scraped_date": "2026-11-20"
-    },
-    {
-      "title": "CUH Haryana Non Teaching Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cuh-haryana-non-teaching-online-form-2024/",
-      "notification_date": "2024-11-29",
-      "application_start": null,
-      "application_end": "2024-12-28",
-      "posts": 20,
-      "status": "old",
-      "days_left": -692,
       "scraped_date": "2026-11-20"
     },
     {
