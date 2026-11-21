@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T05:59:03.304736",
+  "last_updated": "2026-11-21T14:32:25.466175",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
@@ -45,17 +45,6 @@
       "posts": 254,
       "status": "critical",
       "days_left": 1,
-      "scraped_date": "2026-11-21"
-    },
-    {
-      "title": "UPESSC UP TGT Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upessc-up-tgt-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-24",
-      "application_end": "2026-11-23",
-      "posts": 17735,
-      "status": "critical",
-      "days_left": 2,
       "scraped_date": "2026-11-21"
     },
     {
@@ -147,6 +136,17 @@
       "scraped_date": "2026-11-21"
     },
     {
+      "title": "UPESSC UP TGT Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/upessc-up-tgt-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-24",
+      "application_end": "2026-11-28",
+      "posts": 17735,
+      "status": "open",
+      "days_left": 7,
+      "scraped_date": "2026-11-21"
+    },
+    {
       "title": "Semi Conductor SCL Various Post Recruitment 2026",
       "url": "https://sarkariresult.com.cm/semi-conductor-scl-various-post-2026/",
       "notification_date": null,
@@ -232,6 +232,17 @@
       "posts": 20,
       "status": "open",
       "days_left": 19,
+      "scraped_date": "2026-11-21"
+    },
+    {
+      "title": "SIDBI Bank Grade A & B Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/sidbi-bank-grade-a-b-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-21",
+      "application_end": "2026-12-11",
+      "posts": 68,
+      "status": "open",
+      "days_left": 20,
       "scraped_date": "2026-11-21"
     },
     {
@@ -837,17 +848,6 @@
       "posts": 62,
       "status": "old",
       "days_left": -678,
-      "scraped_date": "2026-11-21"
-    },
-    {
-      "title": "CGPSC State Service Exam SSE Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/cgpsc-state-service-exam-sse-recruitment-2024/",
-      "notification_date": null,
-      "application_start": "2024-12-01",
-      "application_end": "2024-12-30",
-      "posts": 246,
-      "status": "old",
-      "days_left": -691,
       "scraped_date": "2026-11-21"
     },
     {
