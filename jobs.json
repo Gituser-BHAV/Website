@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T07:57:04.475105",
+  "last_updated": "2026-11-22T16:03:33.724372",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
@@ -100,6 +100,17 @@
       "posts": 17735,
       "status": "open",
       "days_left": 6,
+      "scraped_date": "2026-11-22"
+    },
+    {
+      "title": "AEES Teaching Various Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/aees-teaching-various-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-02",
+      "application_end": "2026-11-29",
+      "posts": 254,
+      "status": "open",
+      "days_left": 7,
       "scraped_date": "2026-11-22"
     },
     {
@@ -276,17 +287,6 @@
       "posts": 1688,
       "status": "old",
       "days_left": -7,
-      "scraped_date": "2026-11-22"
-    },
-    {
-      "title": "AEES Teaching Various Post Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/aees-teaching-various-post-2026/",
-      "notification_date": null,
-      "application_start": "2026-11-02",
-      "application_end": "2026-11-02",
-      "posts": 254,
-      "status": "old",
-      "days_left": -20,
       "scraped_date": "2026-11-22"
     },
     {
