@@ -1,19 +1,8 @@
 {
-  "last_updated": "2026-11-23T03:34:03.890440",
+  "last_updated": "2026-11-23T14:08:10.450890",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 88,
   "jobs": [
-    {
-      "title": "PGCIL Engineer Trainee Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/pgcil-engineer-trainee-online-form-2026/",
-      "notification_date": null,
-      "application_start": "2026-11-03",
-      "application_end": "2026-11-23",
-      "posts": 319,
-      "status": "critical",
-      "days_left": 0,
-      "scraped_date": "2026-11-23"
-    },
     {
       "title": "Supreme Court SCI Court Assistant Recruitment 2026",
       "url": "https://sarkariresult.com.cm/supreme-court-assistant-2026/",
@@ -279,6 +268,28 @@
       "scraped_date": "2026-11-23"
     },
     {
+      "title": "UPESSC UP Headmaster Correction / Edit Form 2026",
+      "url": "https://sarkariresult.com.cm/upessc-up-headmaster-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-23",
+      "application_end": "2026-11-22",
+      "posts": 1172,
+      "status": "old",
+      "days_left": -1,
+      "scraped_date": "2026-11-23"
+    },
+    {
+      "title": "UPESSC UP Principal Inter Level Correction / Edit Form 2026",
+      "url": "https://sarkariresult.com.cm/upessc-up-principal-inter-level-2026/",
+      "notification_date": null,
+      "application_start": "2026-10-23",
+      "application_end": "2026-11-22",
+      "posts": 1475,
+      "status": "old",
+      "days_left": -1,
+      "scraped_date": "2026-11-23"
+    },
+    {
       "title": "RRB NTPC 10+2 UG Correction / Edit Form 2026",
       "url": "https://sarkariresult.com.cm/rrb-ntpc-inter-level-07-2026/",
       "notification_date": null,
@@ -290,36 +301,14 @@
       "scraped_date": "2026-11-23"
     },
     {
-      "title": "UPESSC UP Headmaster Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upessc-up-headmaster-2026/",
+      "title": "PGCIL Engineer Trainee Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/pgcil-engineer-trainee-online-form-2026/",
       "notification_date": null,
-      "application_start": "2026-10-23",
-      "application_end": "2026-10-23",
-      "posts": 1172,
+      "application_start": "2026-11-03",
+      "application_end": "2026-11-03",
+      "posts": 319,
       "status": "old",
-      "days_left": -31,
-      "scraped_date": "2026-11-23"
-    },
-    {
-      "title": "UPESSC UP Principal Inter Level Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/upessc-up-principal-inter-level-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-23",
-      "application_end": "2026-10-23",
-      "posts": 1475,
-      "status": "old",
-      "days_left": -31,
-      "scraped_date": "2026-11-23"
-    },
-    {
-      "title": "Railway RRC NWR Apprentice Recruitment 2026",
-      "url": "https://sarkariresult.com.cm/rrc-nwr-apprentice-2026/",
-      "notification_date": null,
-      "application_start": "2026-10-23",
-      "application_end": "2026-10-23",
-      "posts": 2008,
-      "status": "old",
-      "days_left": -31,
+      "days_left": -20,
       "scraped_date": "2026-11-23"
     },
     {
@@ -848,6 +837,17 @@
       "posts": 62,
       "status": "old",
       "days_left": -680,
+      "scraped_date": "2026-11-23"
+    },
+    {
+      "title": "CGPSC State Service Exam SSE Recruitment 2024",
+      "url": "https://sarkariresult.com.cm/cgpsc-state-service-exam-sse-recruitment-2024/",
+      "notification_date": null,
+      "application_start": "2024-12-01",
+      "application_end": "2024-12-30",
+      "posts": 246,
+      "status": "old",
+      "days_left": -693,
       "scraped_date": "2026-11-23"
     },
     {
