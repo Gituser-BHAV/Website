@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T07:25:45.673335",
+  "last_updated": "2026-11-25T18:29:57.199095",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
   "total_jobs": 89,
   "jobs": [
@@ -191,6 +191,17 @@
       "scraped_date": "2026-11-25"
     },
     {
+      "title": "Coconut Development Board Various Post Recruitment 2026",
+      "url": "https://sarkariresult.com.cm/coconut-development-various-post-2026/",
+      "notification_date": null,
+      "application_start": "2026-11-25",
+      "application_end": "2026-12-21",
+      "posts": 35,
+      "status": "open",
+      "days_left": 26,
+      "scraped_date": "2026-11-25"
+    },
+    {
       "title": "UKSSSC Constable Various Post Recruitment 2026",
       "url": "https://sarkariresult.com.cm/uksssc-police-constable-2026/",
       "notification_date": null,
@@ -221,6 +232,17 @@
       "posts": 120,
       "status": "upcoming",
       "days_left": 16,
+      "scraped_date": "2026-11-25"
+    },
+    {
+      "title": "UPSC CDS-I Recruitment 2027",
+      "url": "https://sarkariresult.com.cm/upsc-cds-i-2027/",
+      "notification_date": null,
+      "application_start": "2026-12-02",
+      "application_end": "2026-12-22",
+      "posts": 2026,
+      "status": "upcoming",
+      "days_left": 27,
       "scraped_date": "2026-11-25"
     },
     {
@@ -829,17 +851,6 @@
       "scraped_date": "2026-11-25"
     },
     {
-      "title": "HP High Court Shimla Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/hp-high-court-shimla-various-post-online-form-2024/",
-      "notification_date": "2024-11-30",
-      "application_start": "2024-11-30",
-      "application_end": "2024-12-31",
-      "posts": 187,
-      "status": "old",
-      "days_left": -694,
-      "scraped_date": "2026-11-25"
-    },
-    {
       "title": "CGPSC State Service Exam SSE Recruitment 2024",
       "url": "https://sarkariresult.com.cm/cgpsc-state-service-exam-sse-recruitment-2024/",
       "notification_date": null,
@@ -967,17 +978,6 @@
       "application_start": null,
       "application_end": null,
       "posts": 183,
-      "status": "unknown",
-      "days_left": null,
-      "scraped_date": "2026-11-25"
-    },
-    {
-      "title": "Central Bank of India Specialist Officer (SO) Online Form 2024",
-      "url": "https://sarkariresult.com.cm/central-bank-of-india-specialist-officer-so-recruitment-2024/",
-      "notification_date": null,
-      "application_start": null,
-      "application_end": null,
-      "posts": 253,
       "status": "unknown",
       "days_left": null,
       "scraped_date": "2026-11-25"
