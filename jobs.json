@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-26T11:59:28.254251",
+  "last_updated": "2026-11-26T21:22:59.253002",
   "source": "https://sarkariresult.com.cm/latest-jobs/",
-  "total_jobs": 91,
+  "total_jobs": 90,
   "jobs": [
     {
       "title": "UPSSSC Junior Engineer JE (Electrical) Recruitment 2026",
@@ -219,17 +219,6 @@
       "application_start": "2025-01-02",
       "application_end": null,
       "posts": 57,
-      "status": "open",
-      "days_left": null,
-      "scraped_date": "2026-11-26"
-    },
-    {
-      "title": "Rajasthan REET Recruitment 2024",
-      "url": "https://sarkariresult.com.cm/reet-recruitment-2024/",
-      "notification_date": "2024-11-25",
-      "application_start": "2024-11-01",
-      "application_end": null,
-      "posts": null,
       "status": "open",
       "days_left": null,
       "scraped_date": "2026-11-26"
